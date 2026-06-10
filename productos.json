@@ -1,0 +1,43 @@
+{
+  "categorias": [
+    { "id": "localizadores", "nombre": "Localizadores" },
+    { "id": "power-banks", "nombre": "Power Banks" },
+    { "id": "power-bank-inalambrico", "nombre": "Power Bank Inalámbrico Magnético" },
+    { "id": "cargador-inalambrico", "nombre": "Cargador Inalámbrico Magnético" },
+    { "id": "cargador-rapido", "nombre": "Cargador Rápido" },
+    { "id": "cargador-auto", "nombre": "Cargador para Auto" },
+    { "id": "hub-adaptadores", "nombre": "Hub / Adaptadores" },
+    { "id": "cable-lightning", "nombre": "Cable Lightning (iPhones hasta 14)" },
+    { "id": "cable-usba-usbc", "nombre": "Cable USB-A / USB-C Carga Rápida" },
+    { "id": "cable-usbc-usbc", "nombre": "Cable USB-C / USB-C Carga Rápida" },
+    { "id": "cable-microusb", "nombre": "Cable Micro USB" },
+    { "id": "cable-usba-usba", "nombre": "Cable USB-A / USB-A" },
+    { "id": "cable-impresora", "nombre": "Cable de Impresora" },
+    { "id": "cable-microb", "nombre": "Cable Micro B" },
+    { "id": "cable-minipines", "nombre": "Cable Mini Pines" },
+    { "id": "cable-usbc-hdmi", "nombre": "Cable USB-C / HDMI" },
+    { "id": "cable-hdmi", "nombre": "Cable HDMI" },
+    { "id": "cable-displayport", "nombre": "Cable DisplayPort" },
+    { "id": "convertidor", "nombre": "Convertidor" },
+    { "id": "cable-audio", "nombre": "Cable de Audio" },
+    { "id": "adaptador-bluetooth", "nombre": "Adaptador Bluetooth" },
+    { "id": "adaptador-ethernet", "nombre": "Adaptador Ethernet" },
+    { "id": "auriculares", "nombre": "Auriculares Inalámbricos" },
+    { "id": "mouse-teclados", "nombre": "Mouse y Teclados Inalámbricos" },
+    { "id": "caja-disco", "nombre": "Caja Disco Duro / Sólido" },
+    { "id": "lector-memorias", "nombre": "Lector de Memorias" },
+    { "id": "soportes", "nombre": "Soportes para Teléfono / Notebook" },
+    { "id": "fundas-estuches", "nombre": "Fundas y Estuches" }
+  ],
+  "productos": [
+    {
+      "id": 1,
+      "categoria": "localizadores",
+      "nombre": "Ejemplo: Localizador GPS Ugreen",
+      "modelo": "UG-XXXXX",
+      "sku": "SKU-0001",
+      "descripcion": "Descripción del producto. Reemplazá este texto con la información real.",
+      "foto": "https://via.placeholder.com/400x400?text=Foto+Producto"
+    }
+  ]
+}
