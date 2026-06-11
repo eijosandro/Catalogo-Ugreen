@@ -1,0 +1,441 @@
+{
+  "categorias": [
+    { "id": "localizadores", "nombre": "Localizadores" },
+    { "id": "power-banks", "nombre": "Power Banks" },
+    { "id": "power-bank-inalambrico", "nombre": "Power Bank Inalámbrico Magnético" },
+    { "id": "cargador-inalambrico", "nombre": "Cargador Inalámbrico Magnético" },
+    { "id": "cargador-rapido", "nombre": "Cargador Rápido" },
+    { "id": "cargador-auto", "nombre": "Cargador para Auto" },
+    { "id": "hub-adaptadores", "nombre": "Hub / Adaptadores" },
+    { "id": "cable-lightning", "nombre": "Cable Lightning (iPhones hasta 14)" },
+    { "id": "cable-usba-usbc", "nombre": "Cable USB-A / USB-C Carga Rápida" },
+    { "id": "cable-usbc-usbc", "nombre": "Cable USB-C / USB-C Carga Rápida" },
+    { "id": "cable-microusb", "nombre": "Cable Micro USB" },
+    { "id": "cable-usba-usba", "nombre": "Cable USB-A / USB-A" },
+    { "id": "cable-impresora", "nombre": "Cable de Impresora" },
+    { "id": "cable-microb", "nombre": "Cable Micro B" },
+    { "id": "cable-minipines", "nombre": "Cable Mini Pines" },
+    { "id": "cable-usbc-hdmi", "nombre": "Cable USB-C / HDMI" },
+    { "id": "cable-hdmi", "nombre": "Cable HDMI" },
+    { "id": "cable-displayport", "nombre": "Cable DisplayPort" },
+    { "id": "convertidor", "nombre": "Convertidor" },
+    { "id": "cable-audio", "nombre": "Cable de Audio" },
+    { "id": "adaptador-bluetooth", "nombre": "Adaptador Bluetooth" },
+    { "id": "adaptador-ethernet", "nombre": "Adaptador Ethernet" },
+    { "id": "auriculares", "nombre": "Auriculares Inalámbricos" },
+    { "id": "mouse-teclados", "nombre": "Mouse y Teclados Inalámbricos" },
+    { "id": "caja-disco", "nombre": "Caja Disco Duro / Sólido" },
+    { "id": "lector-memorias", "nombre": "Lector de Memorias" },
+    { "id": "soportes", "nombre": "Soportes para Teléfono / Notebook" },
+    { "id": "fundas-estuches", "nombre": "Fundas y Estuches" }
+  ],
+  "productos": [
+    {
+      "id": 1,
+      "categoria": "localizadores",
+      "nombre": "Ugreen Tag Localizador para iPhone",
+      "modelo": "CM816",
+      "sku": "45297",
+      "descripcion": "UGREEN CM816 FineTrack Smart Finder. Localizador inteligente Bluetooth gris. Compatible con Apple Find My (solo iOS). Posicionamiento global mediante red Apple Find My. Batería CR2032 reemplazable con autonomía hasta 2 años. Alarma sonora integrada de 80 dB. Recordatorio de objetos olvidados. Certificación UL4200A (seguridad infantil).",
+      "foto": "fotos/CM816.png"
+    },
+    {
+      "id": 2,
+      "categoria": "localizadores",
+      "nombre": "Localizador Tarjeta Fine Track",
+      "modelo": "CM817",
+      "sku": "45298",
+      "descripcion": "UGREEN CM817 FineTrack Ultra-Slim Smart Finder recargable. Compatible con Apple Find My (solo iOS). Diseño ultra delgado tipo tarjeta para billetera. Batería recargable integrada con autonomía hasta 12 meses aprox. Carga magnética. Posicionamiento global mediante red Apple Find My. Alarma sonora integrada. Recordatorio de objetos olvidados. Resistente al agua (waterproof).",
+      "foto": "fotos/CM817.png"
+    },
+    {
+      "id": 3,
+      "categoria": "power-banks",
+      "nombre": "Power Bank con Conector USB-C Integrado 5.000 mAh Gris",
+      "modelo": "PB503",
+      "sku": "35338",
+      "descripcion": "",
+      "foto": "fotos/PB503.png"
+    }
+    ,
+    {
+      "id": 4,
+      "categoria": "power-banks",
+      "nombre": "Power Bank Carga Rápida Bidireccional 10.000 mAh 20W Black",
+      "modelo": "PB311",
+      "sku": "25742",
+      "descripcion": "",
+      "foto": "fotos/PB311.png"
+    }
+    ,
+    {
+      "id": 5,
+      "categoria": "power-banks",
+      "nombre": "Power Bank Carga Rápida Bidireccional 20.000 mAh 20W Gris",
+      "modelo": "PB312",
+      "sku": "25683",
+      "descripcion": "",
+      "foto": "fotos/PB312.png"
+    }
+    ,
+    {
+      "id": 6,
+      "categoria": "power-banks",
+      "nombre": "Power Bank Carga Rápida Bidireccional 10.000 mAh 30W Gris",
+      "modelo": "PB502",
+      "sku": "25185",
+      "descripcion": "",
+      "foto": "fotos/PB502.png"
+    }
+    ,
+    {
+      "id": 7,
+      "categoria": "power-banks",
+      "nombre": "Power Bank 20.000 mAh c/Cable Incorporado 20W Blanco",
+      "modelo": "PB505",
+      "sku": "35340",
+      "descripcion": "",
+      "foto": "fotos/PB505.png"
+    }
+    ,
+    {
+      "id": 8,
+      "categoria": "power-banks",
+      "nombre": "Power Bank 10.000 mAh con Cable Incorporado Purple",
+      "modelo": "PB511",
+      "sku": "35604",
+      "descripcion": "",
+      "foto": "fotos/PB511.png"
+    }
+    ,
+    {
+      "id": 9,
+      "categoria": "power-banks",
+      "nombre": "Power Bank Carga Rápida Bidireccional 20.000 mAh 100W Gris",
+      "modelo": "PB720",
+      "sku": "25188",
+      "descripcion": "",
+      "foto": "fotos/PB720.png"
+    }
+    ,
+    {
+      "id": 10,
+      "categoria": "power-banks",
+      "nombre": "Power Bank Carga Rápida 12.000 mAh 100W Gris/Negro",
+      "modelo": "PB724",
+      "sku": "35526",
+      "descripcion": "",
+      "foto": "fotos/PB724.png"
+    }
+    ,
+    {
+      "id": 11,
+      "categoria": "power-banks",
+      "nombre": "Power Bank Carga Rápida 20.000 mAh 130W Gris",
+      "modelo": "PB721",
+      "sku": "35524",
+      "descripcion": "",
+      "foto": "fotos/PB721.png"
+    }
+    ,
+    {
+      "id": 12,
+      "categoria": "power-banks",
+      "nombre": "Power Bank Carga Rápida 25.000 mAh 200W Gris",
+      "modelo": "PB722",
+      "sku": "35525B",
+      "descripcion": "",
+      "foto": "fotos/PB722.png"
+    }
+    ,
+    {
+      "id": 13,
+      "categoria": "power-banks",
+      "nombre": "Power Bank Carga Rápida 48.000 mAh 300W Gris/Negro",
+      "modelo": "PB770",
+      "sku": "25286",
+      "descripcion": "",
+      "foto": "fotos/PB770.png"
+    }
+    ,
+    {
+      "id": 14,
+      "categoria": "power-bank-inalambrico",
+      "nombre": "Power Bank Inalámbrico Magnético 5.000 mAh Gris",
+      "modelo": "PB571",
+      "sku": "35605",
+      "descripcion": "",
+      "foto": "fotos/PB571-gris.png"
+    }
+    ,
+    {
+      "id": 15,
+      "categoria": "power-bank-inalambrico",
+      "nombre": "Power Bank Inalámbrico Magnético 5.000 mAh Morado",
+      "modelo": "PB571",
+      "sku": "35606",
+      "descripcion": "",
+      "foto": "fotos/PB571-morado.png"
+    }
+    ,
+    {
+      "id": 16,
+      "categoria": "power-bank-inalambrico",
+      "nombre": "Power Bank Inalámbrico Magnético 10.000 mAh Gris",
+      "modelo": "PB572-1",
+      "sku": "45327",
+      "descripcion": "",
+      "foto": "fotos/PB572-1-gris.png"
+    }
+    ,
+    {
+      "id": 17,
+      "categoria": "power-bank-inalambrico",
+      "nombre": "Power Bank Inalámbrico Magnético 10.000 mAh Morado",
+      "modelo": "PB572-1",
+      "sku": "45328",
+      "descripcion": "",
+      "foto": "fotos/PB572-1-morado.png"
+    }
+    ,
+    {
+      "id": 18,
+      "categoria": "power-bank-inalambrico",
+      "nombre": "Power Bank Inalámbrico Magnético 5.000 mAh 20W Blanco",
+      "modelo": "PB560",
+      "sku": "25207",
+      "descripcion": "",
+      "foto": "fotos/PB560.png"
+    }
+    ,
+    {
+      "id": 19,
+      "categoria": "power-bank-inalambrico",
+      "nombre": "Power Bank Inalámbrico Magnético 10.000 mAh Space Gray",
+      "modelo": "PB561",
+      "sku": "25919",
+      "descripcion": "",
+      "foto": "fotos/PB561-spacegray.png"
+    }
+    ,
+    {
+      "id": 20,
+      "categoria": "power-bank-inalambrico",
+      "nombre": "Power Bank Inalámbrico Magnético 10.000 mAh 20W Blanco",
+      "modelo": "PB561",
+      "sku": "25208",
+      "descripcion": "",
+      "foto": "fotos/PB561-blanco.png"
+    }
+    ,
+    {
+      "id": 21,
+      "categoria": "power-bank-inalambrico",
+      "nombre": "Power Bank Inalámbrico Magnético 10.000 mAh 30W Gris",
+      "modelo": "PB761",
+      "sku": "45763",
+      "descripcion": "",
+      "foto": "fotos/PB761.png"
+    }
+    ,
+    {
+      "id": 22,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Rápido USB-C 20W AU",
+      "modelo": "CD241",
+      "sku": "40394",
+      "descripcion": "",
+      "foto": "fotos/CD241.png"
+    }
+    ,
+    {
+      "id": 23,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Rápido 2 Puertos 20W AU Pack 2",
+      "modelo": "X227",
+      "sku": "55400",
+      "descripcion": "",
+      "foto": "fotos/X227-55400.png"
+    }
+    ,
+    {
+      "id": 24,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Rápido 2 Puertos 20W AU Pack 2 con 2 Cables",
+      "modelo": "X227",
+      "sku": "55999",
+      "descripcion": "",
+      "foto": "fotos/X227-55999.png"
+    }
+    ,
+    {
+      "id": 25,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador USB-C 30W Nexode Robot Carga Rápida GaN",
+      "modelo": "CD359",
+      "sku": "15550",
+      "descripcion": "",
+      "foto": "fotos/CD359.png"
+    }
+    ,
+    {
+      "id": 26,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Rápido Nexode GaN 35W 2 Puertos AU",
+      "modelo": "CD350",
+      "sku": "65022",
+      "descripcion": "",
+      "foto": "fotos/CD350.png"
+    }
+    ,
+    {
+      "id": 27,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Rápido GaN 45W 3 Puertos AU",
+      "modelo": "X527",
+      "sku": "65630",
+      "descripcion": "",
+      "foto": "fotos/X527.png"
+    }
+    ,
+    {
+      "id": 28,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Rápido Nexode 65W 3 Puertos GaN Gris",
+      "modelo": "CD244",
+      "sku": "65023",
+      "descripcion": "",
+      "foto": "fotos/CD244.png"
+    }
+    ,
+    {
+      "id": 29,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Rápido Nexode 65W 3 Puertos GaN Gris",
+      "modelo": "X553",
+      "sku": "65632",
+      "descripcion": "",
+      "foto": "fotos/X553.png"
+    }
+    ,
+    {
+      "id": 30,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Rápido Nexode 65W 4 Puertos GaN Gris",
+      "modelo": "X559",
+      "sku": "65026",
+      "descripcion": "",
+      "foto": "fotos/X559.png"
+    }
+    ,
+    {
+      "id": 31,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Rápido Nexode GaN 65W 3 Puertos AU",
+      "modelo": "CD361",
+      "sku": "65631",
+      "descripcion": "",
+      "foto": "fotos/CD361-65631.png"
+    }
+    ,
+    {
+      "id": 32,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Rápido Nexode GaN 65W 3 Puertos Lila",
+      "modelo": "CD361",
+      "sku": "35314",
+      "descripcion": "",
+      "foto": "fotos/CD361-lila.png"
+    }
+    ,
+    {
+      "id": 33,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador USB-C Nexode 65W GaN 4 Puertos Carga Rápida Plateado",
+      "modelo": "CD327",
+      "sku": "90735",
+      "descripcion": "",
+      "foto": "fotos/CD327.png"
+    }
+    ,
+    {
+      "id": 34,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Rápido Nexode Pro 65W 3 Puertos GaN Gris",
+      "modelo": "X753",
+      "sku": "65002",
+      "descripcion": "",
+      "foto": "fotos/X753.png"
+    }
+    ,
+    {
+      "id": 35,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Rápido Nexode 100W 4 Puertos GaN Gris",
+      "modelo": "X565",
+      "sku": "65633",
+      "descripcion": "",
+      "foto": "fotos/X565.png"
+    }
+    ,
+    {
+      "id": 36,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Rápido Nexode Robot 100W USB-C Negro US",
+      "modelo": "X688",
+      "sku": "45514B",
+      "descripcion": "",
+      "foto": "fotos/X688.png"
+    }
+    ,
+    {
+      "id": 37,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Rápido Nexode 100W 4 Puertos PD y GaN",
+      "modelo": "CD328",
+      "sku": "15613",
+      "descripcion": "",
+      "foto": "fotos/CD328-15613.png"
+    }
+    ,
+    {
+      "id": 38,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Premium 4 en 1 USB-C Aluminio 100W GaN EU Gris",
+      "modelo": "CD328",
+      "sku": "90928",
+      "descripcion": "",
+      "foto": "fotos/CD328-90928.png"
+    }
+    ,
+    {
+      "id": 39,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Rápido Nexode 200W 6 Puertos GaN Gris AU",
+      "modelo": "CD271",
+      "sku": "35044",
+      "descripcion": "",
+      "foto": "fotos/CD271-35044.png"
+    }
+    ,
+    {
+      "id": 40,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Premium 6 en 1 USB-C USB-A Aluminio 200W Negro",
+      "modelo": "CD271",
+      "sku": "40914",
+      "descripcion": "",
+      "foto": "fotos/CD271-40914.png"
+    }
+    ,
+    {
+      "id": 41,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador de Escritorio GaN 300W USB-C Carga Rápida Gris",
+      "modelo": "CD333",
+      "sku": "90903B",
+      "descripcion": "",
+      "foto": "fotos/CD333.png"
+    }
+  ]
+}
