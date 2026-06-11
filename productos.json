@@ -19,7 +19,7 @@
     { "id": "cable-hdmi", "nombre": "Cable HDMI" },
     { "id": "cable-displayport", "nombre": "Cable DisplayPort" },
     { "id": "convertidor", "nombre": "Convertidor" },
-    { "id": "cable-audio", "nombre": "Cable de Audio" },
+    { "id": "cable-audio", "nombre": "Audio" },
     { "id": "adaptador-bluetooth", "nombre": "Adaptador Bluetooth" },
     { "id": "adaptador-ethernet", "nombre": "Adaptador Ethernet" },
     { "id": "auriculares", "nombre": "Auriculares Inalámbricos" },
