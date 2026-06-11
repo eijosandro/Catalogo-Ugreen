@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Catálogo Ugreen</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --verde: #00b96b;
+      --verde-dark: #009256;
+      --negro: #111111;
+      --gris-bg: #f5f6f8;
+      --gris-borde: #e2e4e8;
+      --gris-texto: #6b7280;
+      --blanco: #ffffff;
+      --sidebar-w: 260px;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--gris-bg);
+      color: var(--negro);
+      display: flex;
+      min-height: 100vh;
+    }
+
+    /* ── SIDEBAR ── */
+    #sidebar {
+      width: var(--sidebar-w);
+      min-height: 100vh;
+      background: var(--negro);
+      display: flex;
+      flex-direction: column;
+      position: fixed;
+      top: 0; left: 0;
+      overflow-y: auto;
+      z-index: 100;
+    }
+
+    .sidebar-logo {
+      padding: 28px 24px 20px;
+      border-bottom: 1px solid #222;
+    }
+
+    .sidebar-logo span {
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--verde);
+      letter-spacing: -0.5px;
+    }
+
+    .sidebar-logo small {
+      display: block;
+      font-size: 11px;
+      color: #555;
+      margin-top: 2px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    .sidebar-search {
+      padding: 14px 16px;
+      border-bottom: 1px solid #1e1e1e;
+    }
+
+    .sidebar-search input {
+      width: 100%;
+      background: #1c1c1c;
+      border: 1px solid #2a2a2a;
+      border-radius: 8px;
+      padding: 8px 12px;
+      color: #ccc;
+      font-size: 13px;
+      outline: none;
+      font-family: 'Inter', sans-serif;
+    }
+
+    .sidebar-search input::placeholder { color: #555; }
+    .sidebar-search input:focus { border-color: var(--verde); }
+
+    nav { padding: 10px 0 24px; flex: 1; }
+
+    nav a {
+      display: block;
+      padding: 9px 24px;
+      font-size: 13px;
+      color: #aaa;
+      text-decoration: none;
+      cursor: pointer;
+      transition: color 0.15s, background 0.15s;
+      border-left: 3px solid transparent;
+      line-height: 1.4;
+    }
+
+    nav a:hover { color: var(--blanco); background: #191919; }
+    nav a.active { color: var(--verde); border-left-color: var(--verde); background: #161f1a; }
+
+    /* ── MAIN ── */
+    #main {
+      margin-left: var(--sidebar-w);
+      flex: 1;
+      padding: 40px 40px 60px;
+      min-height: 100vh;
+    }
+
+    .section-title {
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--negro);
+      margin-bottom: 6px;
+      scroll-margin-top: 30px;
+    }
+
+    .section-count {
+      font-size: 13px;
+      color: var(--gris-texto);
+      margin-bottom: 24px;
+    }
+
+    .section-divider {
+      border: none;
+      border-top: 1px solid var(--gris-borde);
+      margin: 48px 0 40px;
+    }
+
+    /* ── GRID ── */
+    .product-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 20px;
+    }
+
+    .product-card {
+      background: var(--blanco);
+      border-radius: 12px;
+      border: 1px solid var(--gris-borde);
+      overflow: hidden;
+      transition: box-shadow 0.2s, transform 0.2s;
+      cursor: pointer;
+    }
+
+    .product-card:hover {
+      box-shadow: 0 8px 28px rgba(0,0,0,0.10);
+      transform: translateY(-3px);
+    }
+
+    .product-img {
+      width: 100%;
+      aspect-ratio: 1;
+      object-fit: contain;
+      background: #f9fafb;
+      padding: 16px;
+      display: block;
+    }
+
+    .product-info {
+      padding: 14px 16px 18px;
+      border-top: 1px solid var(--gris-borde);
+    }
+
+    .product-name {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--negro);
+      margin-bottom: 4px;
+      line-height: 1.35;
+    }
+
+    .product-model {
+      font-size: 12px;
+      color: var(--verde-dark);
+      font-weight: 500;
+      margin-bottom: 2px;
+    }
+
+    .product-sku {
+      font-size: 11px;
+      color: #9ca3af;
+      margin-bottom: 8px;
+    }
+
+    .product-desc {
+      font-size: 12px;
+      color: var(--gris-texto);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* ── EMPTY STATE ── */
+    .empty-cat {
+      grid-column: 1/-1;
+      text-align: center;
+      padding: 48px 20px;
+      color: #bbb;
+      font-size: 13px;
+    }
+
+    .empty-cat svg {
+      display: block;
+      margin: 0 auto 12px;
+      opacity: 0.3;
+    }
+
+    /* ── MODAL ── */
+    #modal-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.55);
+      z-index: 200;
+      align-items: center;
+      justify-content: center;
+    }
+
+    #modal-overlay.open { display: flex; }
+
+    #modal {
+      background: var(--blanco);
+      border-radius: 16px;
+      max-width: 640px;
+      width: 90%;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      box-shadow: 0 24px 80px rgba(0,0,0,0.22);
+      animation: modalIn 0.2s ease;
+    }
+
+    @keyframes modalIn {
+      from { opacity: 0; transform: scale(0.96) translateY(12px); }
+      to   { opacity: 1; transform: scale(1) translateY(0); }
+    }
+
+    #modal img {
+      width: 100%;
+      max-height: 320px;
+      object-fit: contain;
+      background: #f4f5f7;
+      padding: 24px;
+    }
+
+    .modal-body { padding: 24px 28px 28px; }
+
+    .modal-nombre {
+      font-size: 20px;
+      font-weight: 700;
+      margin-bottom: 6px;
+    }
+
+    .modal-modelo {
+      font-size: 13px;
+      color: var(--verde-dark);
+      font-weight: 600;
+      margin-bottom: 2px;
+    }
+
+    .modal-sku {
+      font-size: 12px;
+      color: #9ca3af;
+      margin-bottom: 16px;
+    }
+
+    .modal-desc {
+      font-size: 14px;
+      color: #374151;
+      line-height: 1.65;
+    }
+
+    .modal-close {
+      position: absolute;
+      top: 16px; right: 16px;
+      background: rgba(0,0,0,0.5);
+      border: none;
+      border-radius: 50%;
+      width: 32px; height: 32px;
+      color: white;
+      font-size: 18px;
+      cursor: pointer;
+      display: flex; align-items: center; justify-content: center;
+      line-height: 1;
+    }
+
+    #modal-overlay { position: fixed; }
+    #modal-wrap { position: relative; width: 90%; max-width: 640px; }
+
+    /* ── NO RESULTS ── */
+    #no-results {
+      display: none;
+      text-align: center;
+      padding: 80px 20px;
+      color: var(--gris-texto);
+    }
+
+    #no-results h3 { font-size: 18px; margin-bottom: 6px; }
+
+    /* ── RESPONSIVE ── */
+    @media (max-width: 768px) {
+      #sidebar {
+        width: 100%;
+        min-height: auto;
+        position: relative;
+      }
+      #main { margin-left: 0; padding: 16px 12px 48px; }
+      body { flex-direction: column; }
+
+      .product-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+      }
+
+      .product-img {
+        aspect-ratio: unset;
+        height: 130px;
+        padding: 10px;
+      }
+
+      .product-info {
+        padding: 8px 10px 12px;
+      }
+
+      .product-name { font-size: 12px; }
+      .product-model { font-size: 11px; }
+      .product-sku { font-size: 10px; margin-bottom: 4px; }
+      .product-desc { font-size: 11px; -webkit-line-clamp: 2; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- SIDEBAR -->
+<aside id="sidebar">
+  <div class="sidebar-logo">
+    <span>UGREEN</span>
+    <small>Catálogo de Productos</small>
+  </div>
+  <div class="sidebar-search">
+    <input type="text" id="buscador" placeholder="Buscar producto..." />
+  </div>
+  <nav id="nav-categorias"></nav>
+</aside>
+
+<!-- MAIN -->
+<main id="main">
+  <div id="contenido-categorias"></div>
+  <div id="no-results">
+    <h3>Sin resultados</h3>
+    <p>No hay productos que coincidan con tu búsqueda.</p>
+  </div>
+</main>
+
+<!-- MODAL -->
+<div id="modal-overlay">
+  <div id="modal-wrap">
+    <button class="modal-close" id="modal-close">×</button>
+    <div id="modal">
+      <img id="modal-foto" src="" alt="" />
+      <div class="modal-body">
+        <div class="modal-nombre" id="modal-nombre"></div>
+        <div class="modal-modelo" id="modal-modelo"></div>
+        <div class="modal-sku" id="modal-sku"></div>
+        <div class="modal-desc" id="modal-desc"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  async function cargarCatalogo() {
+    const res = await fetch('productos.json');
+    const data = await res.json();
+    const { categorias, productos } = data;
+
+    const nav = document.getElementById('nav-categorias');
+    const contenido = document.getElementById('contenido-categorias');
+
+    // Armar nav + secciones
+    categorias.forEach((cat, i) => {
+      const prods = productos.filter(p => p.categoria === cat.id);
+
+      // Nav link
+      const a = document.createElement('a');
+      a.textContent = cat.nombre;
+      a.href = '#cat-' + cat.id;
+      if (i === 0) a.classList.add('active');
+      a.addEventListener('click', () => {
+        document.querySelectorAll('nav a').forEach(x => x.classList.remove('active'));
+        a.classList.add('active');
+      });
+      nav.appendChild(a);
+
+      // Sección
+      const sec = document.createElement('section');
+      sec.id = 'cat-' + cat.id;
+      sec.dataset.categoria = cat.id;
+
+      const titulo = document.createElement('h2');
+      titulo.className = 'section-title';
+      titulo.textContent = cat.nombre;
+
+      const count = document.createElement('p');
+      count.className = 'section-count';
+      count.textContent = prods.length === 0 ? 'Sin productos aún' : prods.length + ' producto' + (prods.length !== 1 ? 's' : '');
+
+      const grid = document.createElement('div');
+      grid.className = 'product-grid';
+
+      if (prods.length === 0) {
+        grid.innerHTML = `<div class="empty-cat">
+          <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="3" y="3" width="18" height="18" rx="3"/><line x1="9" y1="9" x2="15" y2="15"/><line x1="15" y1="9" x2="9" y2="15"/></svg>
+          Todavía no hay productos en esta categoría
+        </div>`;
+      } else {
+        prods.forEach(p => {
+          const card = crearCard(p);
+          grid.appendChild(card);
+        });
+      }
+
+      sec.appendChild(titulo);
+      sec.appendChild(count);
+      sec.appendChild(grid);
+
+      if (i < categorias.length - 1) {
+        const hr = document.createElement('hr');
+        hr.className = 'section-divider';
+        sec.appendChild(hr);
+      }
+
+      contenido.appendChild(sec);
+    });
+
+    // Buscador
+    document.getElementById('buscador').addEventListener('input', function () {
+      const q = this.value.toLowerCase().trim();
+      let hayResultados = false;
+
+      document.querySelectorAll('section[data-categoria]').forEach(sec => {
+        const cards = sec.querySelectorAll('.product-card');
+        let visibles = 0;
+
+        cards.forEach(card => {
+          const texto = card.dataset.busqueda || '';
+          const match = texto.includes(q);
+          card.style.display = match ? '' : 'none';
+          if (match) visibles++;
+        });
+
+        sec.style.display = (q === '' || visibles > 0) ? '' : 'none';
+        if (visibles > 0 || q === '') hayResultados = true;
+      });
+
+      document.getElementById('no-results').style.display = hayResultados ? 'none' : 'block';
+    });
+  }
+
+  function crearCard(p) {
+    const card = document.createElement('div');
+    card.className = 'product-card';
+    card.dataset.busqueda = [p.nombre, p.modelo, p.sku, p.descripcion].join(' ').toLowerCase();
+    card.innerHTML = `
+      <img class="product-img" src="${p.foto}" alt="${p.nombre}" loading="lazy" onerror="this.src='https://via.placeholder.com/400x400?text=Sin+Imagen'" />
+      <div class="product-info">
+        <div class="product-name">${p.nombre}</div>
+        <div class="product-model">${p.modelo}</div>
+        <div class="product-sku">SKU: ${p.sku}</div>
+        <div class="product-desc">${p.descripcion}</div>
+      </div>
+    `;
+    card.addEventListener('click', () => abrirModal(p));
+    return card;
+  }
+
+  function abrirModal(p) {
+    document.getElementById('modal-foto').src = p.foto;
+    document.getElementById('modal-foto').onerror = function() { this.src = 'https://via.placeholder.com/600x400?text=Sin+Imagen'; };
+    document.getElementById('modal-nombre').textContent = p.nombre;
+    document.getElementById('modal-modelo').textContent = p.modelo;
+    document.getElementById('modal-sku').textContent = 'SKU: ' + p.sku;
+    document.getElementById('modal-desc').textContent = p.descripcion;
+    document.getElementById('modal-overlay').classList.add('open');
+    document.body.style.overflow = 'hidden';
+  }
+
+  document.getElementById('modal-close').addEventListener('click', cerrarModal);
+  document.getElementById('modal-overlay').addEventListener('click', function(e) {
+    if (e.target === this) cerrarModal();
+  });
+
+  function cerrarModal() {
+    document.getElementById('modal-overlay').classList.remove('open');
+    document.body.style.overflow = '';
+  }
+
+  // Highlight nav al hacer scroll
+  window.addEventListener('scroll', () => {
+    const secciones = document.querySelectorAll('section[data-categoria]');
+    const links = document.querySelectorAll('nav a');
+    let actual = '';
+    secciones.forEach(s => {
+      if (s.getBoundingClientRect().top <= 80) actual = s.id;
+    });
+    links.forEach(a => {
+      a.classList.toggle('active', a.getAttribute('href') === '#' + actual);
+    });
+  });
+
+  cargarCatalogo();
+</script>
+
+</body>
+</html>
