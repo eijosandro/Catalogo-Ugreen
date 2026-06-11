@@ -11,7 +11,7 @@
     { "id": "cable-usba-usbc", "nombre": "Cable USB-A / USB-C Carga Rápida" },
     { "id": "cable-usbc-usbc", "nombre": "Cable USB-C / USB-C Carga Rápida" },
     { "id": "cable-microusb", "nombre": "Cable Micro USB" },
-    { "id": "cable-usba-usba", "nombre": "Cable USB-A / USB-A" },
+    { "id": "cable-usba-usba", "nombre": "Cable USB-A / USB-A Carga Rápida" },
     { "id": "cable-impresora", "nombre": "Cable de Impresora" },
     { "id": "cable-microb", "nombre": "Cable Micro B" },
     { "id": "cable-minipines", "nombre": "Cable Mini Pines" },
