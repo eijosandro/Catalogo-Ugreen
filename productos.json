@@ -704,5 +704,15 @@
       "precio": "80.000",
       "foto": "fotos/EC706.png"
     }
+    {
+      "id": 59,
+      "categoria": "hub-adaptadores",
+      "nombre": "Concentrador USB 2.0 de 4 Puertos 1M Negro",
+      "modelo": "CR106",
+      "sku": "20277",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CR106-20277"
+    }
   ]
 }
