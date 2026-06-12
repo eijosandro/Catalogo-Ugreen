@@ -132,7 +132,7 @@
       "sku": "45298",
       "descripcion": "UGREEN CM817 FineTrack Ultra-Slim Smart Finder recargable. Compatible con Apple Find My (solo iOS). Diseño ultra delgado tipo tarjeta para billetera. Batería recargable integrada con autonomía hasta 12 meses aprox. Carga magnética. Posicionamiento global mediante red Apple Find My. Alarma sonora integrada. Recordatorio de objetos olvidados. Resistente al agua (waterproof).",
       "foto": "fotos/CM817.png",
-      "precio": ""
+      "precio": "40.000"
     },
     {
       "id": 3,
@@ -142,7 +142,7 @@
       "sku": "35338",
       "descripcion": "",
       "foto": "fotos/PB503.png",
-      "precio": ""
+      "precio": "53.000"
     },
     {
       "id": 4,
@@ -152,7 +152,7 @@
       "sku": "25742",
       "descripcion": "",
       "foto": "fotos/PB311.png",
-      "precio": ""
+      "precio": "50.000"
     },
     {
       "id": 5,
@@ -162,7 +162,7 @@
       "sku": "25683",
       "descripcion": "",
       "foto": "fotos/PB312.png",
-      "precio": ""
+      "precio": "62.000"
     },
     {
       "id": 6,
@@ -172,7 +172,7 @@
       "sku": "25185",
       "descripcion": "",
       "foto": "fotos/PB502.png",
-      "precio": ""
+      "precio": "65.000"
     },
     {
       "id": 7,
@@ -182,7 +182,7 @@
       "sku": "35340",
       "descripcion": "",
       "foto": "fotos/PB505.png",
-      "precio": ""
+      "precio": "69.000"
     },
     {
       "id": 8,
@@ -192,7 +192,7 @@
       "sku": "35604",
       "descripcion": "",
       "foto": "fotos/PB511.png",
-      "precio": ""
+      "precio": "80.000"
     },
     {
       "id": 9,
@@ -202,7 +202,7 @@
       "sku": "25188",
       "descripcion": "",
       "foto": "fotos/PB720.png",
-      "precio": ""
+      "precio": "120.000"
     },
     {
       "id": 10,
@@ -212,7 +212,7 @@
       "sku": "35526",
       "descripcion": "",
       "foto": "fotos/PB724.png",
-      "precio": ""
+      "precio": "100.000"
     },
     {
       "id": 11,
@@ -222,7 +222,7 @@
       "sku": "35524",
       "descripcion": "",
       "foto": "fotos/PB721.png",
-      "precio": ""
+      "precio": "170.000"
     },
     {
       "id": 12,
@@ -232,7 +232,7 @@
       "sku": "35525B",
       "descripcion": "",
       "foto": "fotos/PB722.png",
-      "precio": ""
+      "precio": "200.000"
     },
     {
       "id": 13,
@@ -242,7 +242,7 @@
       "sku": "25286",
       "descripcion": "",
       "foto": "fotos/PB770.png",
-      "precio": ""
+      "precio": "350.000"
     },
     {
       "id": 14,
@@ -332,7 +332,7 @@
       "sku": "40394",
       "descripcion": "",
       "foto": "fotos/CD241.png",
-      "precio": ""
+      "precio": "25.000"
     },
     {
       "id": 23,
@@ -342,7 +342,7 @@
       "sku": "55400",
       "descripcion": "",
       "foto": "fotos/X227-55400.png",
-      "precio": ""
+      "precio": "43.000"
     },
     {
       "id": 24,
@@ -352,7 +352,7 @@
       "sku": "55999",
       "descripcion": "",
       "foto": "fotos/X227-55999.png",
-      "precio": ""
+      "precio": "52.000"
     },
     {
       "id": 25,
@@ -362,7 +362,7 @@
       "sku": "15550",
       "descripcion": "",
       "foto": "fotos/CD359.png",
-      "precio": ""
+      "precio": "45.000"
     },
     {
       "id": 26,
@@ -372,7 +372,7 @@
       "sku": "65022",
       "descripcion": "",
       "foto": "fotos/CD350.png",
-      "precio": ""
+      "precio": "40.000"
     },
     {
       "id": 27,
@@ -382,7 +382,7 @@
       "sku": "65630",
       "descripcion": "",
       "foto": "fotos/X527.png",
-      "precio": ""
+      "precio": "42.000"
     },
     {
       "id": 28,
@@ -392,7 +392,7 @@
       "sku": "65023",
       "descripcion": "",
       "foto": "fotos/CD244.png",
-      "precio": ""
+      "precio": "50.000"
     },
     {
       "id": 29,
@@ -402,7 +402,7 @@
       "sku": "65632",
       "descripcion": "",
       "foto": "fotos/X553.png",
-      "precio": ""
+      "precio": "56.000"
     },
     {
       "id": 30,
@@ -412,7 +412,7 @@
       "sku": "65026",
       "descripcion": "",
       "foto": "fotos/X559.png",
-      "precio": ""
+      "precio": "66.000"
     },
     {
       "id": 31,
@@ -422,7 +422,7 @@
       "sku": "65631",
       "descripcion": "",
       "foto": "fotos/CD361-65631.png",
-      "precio": ""
+      "precio": "70.000"
     },
     {
       "id": 32,
@@ -432,7 +432,7 @@
       "sku": "35314",
       "descripcion": "",
       "foto": "fotos/CD361-lila.png",
-      "precio": ""
+      "precio": "75.000"
     },
     {
       "id": 33,
@@ -442,7 +442,7 @@
       "sku": "90735",
       "descripcion": "",
       "foto": "fotos/CD327.png",
-      "precio": ""
+      "precio": "85.000"
     },
     {
       "id": 34,
@@ -452,7 +452,7 @@
       "sku": "65002",
       "descripcion": "",
       "foto": "fotos/X753.png",
-      "precio": ""
+      "precio": "90.000"
     },
     {
       "id": 35,
@@ -462,7 +462,7 @@
       "sku": "65633",
       "descripcion": "",
       "foto": "fotos/X565.png",
-      "precio": ""
+      "precio": "105.000"
     },
     {
       "id": 36,
@@ -472,7 +472,7 @@
       "sku": "45514B",
       "descripcion": "",
       "foto": "fotos/X688.png",
-      "precio": ""
+      "precio": "150.000"
     },
     {
       "id": 37,
@@ -482,7 +482,7 @@
       "sku": "15613",
       "descripcion": "",
       "foto": "fotos/CD328-15613.png",
-      "precio": ""
+      "precio": "120.000"
     },
     {
       "id": 38,
@@ -492,7 +492,7 @@
       "sku": "90928",
       "descripcion": "",
       "foto": "fotos/CD328-90928.png",
-      "precio": ""
+      "precio": "120.000"
     },
     {
       "id": 39,
@@ -502,7 +502,7 @@
       "sku": "35044",
       "descripcion": "",
       "foto": "fotos/CD271-35044.png",
-      "precio": ""
+      "precio": "200.000"
     },
     {
       "id": 40,
@@ -512,7 +512,7 @@
       "sku": "40914",
       "descripcion": "",
       "foto": "fotos/CD271-40914.png",
-      "precio": ""
+      "precio": "200.000"
     },
     {
       "id": 41,
@@ -522,7 +522,7 @@
       "sku": "90903B",
       "descripcion": "",
       "foto": "fotos/CD333.png",
-      "precio": ""
+      "precio": "270.000"
     },
     {
       "id": 42,
@@ -611,7 +611,7 @@
       "modelo": "ED018",
       "sku": "50875",
       "descripcion": "",
-      "precio": "",
+      "precio": "16.000",
       "foto": "fotos/ED018.png"
     },
     {
@@ -621,7 +621,7 @@
       "modelo": "EC305",
       "sku": "25845",
       "descripcion": "",
-      "precio": "",
+      "precio": "18.000",
       "foto": "fotos/EC305.png"
     },
     {
@@ -631,7 +631,7 @@
       "modelo": "CD130",
       "sku": "40858",
       "descripcion": "",
-      "precio": "",
+      "precio": "20.000",
       "foto": "fotos/CD130.png"
     },
     {
@@ -641,7 +641,7 @@
       "modelo": "EC701",
       "sku": "35023",
       "descripcion": "",
-      "precio": "",
+      "precio": "33.000",
       "foto": "fotos/EC701.png"
     },
     {
@@ -651,7 +651,7 @@
       "modelo": "CD213",
       "sku": "10144",
       "descripcion": "",
-      "precio": "",
+      "precio": "25.000",
       "foto": "fotos/CD213-10144.png"
     },
     {
@@ -661,7 +661,7 @@
       "modelo": "CD213",
       "sku": "60980",
       "descripcion": "",
-      "precio": "",
+      "precio": "37.000",
       "foto": "fotos/CD213-60980.png"
     },
     {
@@ -671,7 +671,7 @@
       "modelo": "CD213",
       "sku": "70594",
       "descripcion": "",
-      "precio": "",
+      "precio": "35.000",
       "foto": "fotos/CD213-70594.png"
     },
     {
@@ -681,7 +681,7 @@
       "modelo": "EC703",
       "sku": "35024",
       "descripcion": "",
-      "precio": "",
+      "precio": "42.000",
       "foto": "fotos/EC703.png"
     },
     {
@@ -691,7 +691,7 @@
       "modelo": "EC601",
       "sku": "55653",
       "descripcion": "",
-      "precio": "",
+      "precio": "67.000",
       "foto": "fotos/EC601.png"
     },
     {
@@ -701,7 +701,7 @@
       "modelo": "EC706",
       "sku": "35571",
       "descripcion": "",
-      "precio": "",
+      "precio": "80.000",
       "foto": "fotos/EC706.png"
     }
   ]
