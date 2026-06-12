@@ -531,7 +531,7 @@
       "modelo": "W703",
       "sku": "35565",
       "descripcion": "",
-      "precio": "",
+      "precio": "57.000",
       "foto": "fotos/W703.png"
     },
     {
@@ -541,17 +541,7 @@
       "modelo": "CD317",
       "sku": "90668",
       "descripcion": "",
-      "precio": "",
-      "foto": "fotos/CD317.png"
-    },
-    {
-      "id": 43,
-      "categoria": "cargador-inalambrico",
-      "nombre": "Cargador Inalámbrico 2 en 1 iPhone + AirPods Negro",
-      "modelo": "CD317",
-      "sku": "90668",
-      "descripcion": "",
-      "precio": "",
+      "precio": "74.000",
       "foto": "fotos/CD317.png"
     },
     {
@@ -561,7 +551,7 @@
       "modelo": "W526",
       "sku": "25870",
       "descripcion": "",
-      "precio": "",
+      "precio": "75.000",
       "foto": "fotos/W526.png"
     },
     {
@@ -571,7 +561,7 @@
       "modelo": "W702",
       "sku": "25869",
       "descripcion": "",
-      "precio": "",
+      "precio": "80.000",
       "foto": "fotos/W702.png"
     },
     {
@@ -581,7 +571,7 @@
       "modelo": "W709",
       "sku": "45775",
       "descripcion": "",
-      "precio": "",
+      "precio": "82.000",
       "foto": "fotos/W709.png"
     },
     {
@@ -591,7 +581,7 @@
       "modelo": "W706",
       "sku": "45023",
       "descripcion": "",
-      "precio": "",
+      "precio": "98.000",
       "foto": "fotos/W706.png"
     },
     {
@@ -601,7 +591,7 @@
       "modelo": "CD278",
       "sku": "90326",
       "descripcion": "",
-      "precio": "",
+      "precio": "250.000",
       "foto": "fotos/CD278.png"
     },
     {
