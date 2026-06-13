@@ -2660,7 +2660,7 @@
     },
     {
       "id": 254,
-      "categoria": "cable micro usb",
+      "categoria": "cable-microusb",
       "nombre": "Cable USB 2.0 A a Micro USB Niquelado Blanco 1m",
       "modelo": "US289",
       "sku": "60141",
@@ -2670,7 +2670,7 @@
     },
     {
       "id": 255,
-      "categoria": "cable micro usb",
+      "categoria": "cable-microusb",
       "nombre": "Cable USB 2.0 A a Micro USB Niquelado Blanco 2m",
       "modelo": "US289",
       "sku": "60143",
@@ -2680,7 +2680,7 @@
     },
     {
       "id": 256,
-      "categoria": "cable micro usb",
+      "categoria": "cable-microusb",
       "nombre": "Cable USB-A a Micro USB 2.0 A Máx Negro 1m",
       "modelo": "US289",
       "sku": "60136",
@@ -2690,7 +2690,7 @@
     },
     {
       "id": 257,
-      "categoria": "cable micro usb",
+      "categoria": "cable-microusb",
       "nombre": "Cable USB-A a Micro USB 2.0 A Máx Negro 2m",
       "modelo": "US289",
       "sku": "60138",
@@ -2700,7 +2700,7 @@
     },
     {
       "id": 258,
-      "categoria": "cable micro usb",
+      "categoria": "cable-microusb",
       "nombre": "Cable Micro USB 2.0 Metal/Negro 1m",
       "modelo": "US290",
       "sku": "60146",
@@ -2710,7 +2710,7 @@
     },
     {
       "id": 259,
-      "categoria": "cable micro usb",
+      "categoria": "cable-microusb",
       "nombre": "Cable Carga Rápida USB-A a Micro USB 2A Aluminio Negro 2m",
       "modelo": "US290",
       "sku": "60148",
@@ -2720,7 +2720,7 @@
     },
     {
       "id": 260,
-      "categoria": "cable micro usb",
+      "categoria": "cable-microusb",
       "nombre": "Cable Adaptador OTG Micro USB a USB 2.0 Hembra Ugreen Negro",
       "modelo": "US133",
       "sku": "10396",
@@ -2730,7 +2730,7 @@
     },
     {
       "id": 261,
-      "categoria": "cable micro usb",
+      "categoria": "cable-microusb",
       "nombre": "Adaptador USB Hembra a Micro USB OTG para Celular Blanco Ugreen",
       "modelo": "US195",
       "sku": "30529",
@@ -2740,7 +2740,7 @@
     },
     {
       "id": 262,
-      "categoria": "cable micro usb",
+      "categoria": "cable-microusb",
       "nombre": "Ficha Adaptador USB Tipo C Hembra a Micro USB Macho Ugreen Gris",
       "modelo": "US282",
       "sku": "50590",
@@ -2750,7 +2750,7 @@
     },
     {
       "id": 263,
-      "categoria": "cable usb a/usb a",
+      "categoria": "cable-usba-usba",
       "nombre": "Cable USB 2.0 Macho a Macho Negro 25cm",
       "modelo": "US102",
       "sku": "10307",
@@ -2760,7 +2760,7 @@
     },
     {
       "id": 264,
-      "categoria": "cable usb a/usb a",
+      "categoria": "cable-usba-usba",
       "nombre": "Cable USB 2.0 Macho a Macho Negro 0.5m",
       "modelo": "US102",
       "sku": "10308",
@@ -2770,7 +2770,7 @@
     },
     {
       "id": 265,
-      "categoria": "cable usb a/usb a",
+      "categoria": "cable-usba-usba",
       "nombre": "Cable USB 2.0 Macho a Macho Negro 1.5m",
       "modelo": "US102",
       "sku": "10310",
@@ -2780,7 +2780,7 @@
     },
     {
       "id": 266,
-      "categoria": "cable usb a/usb a",
+      "categoria": "cable-usba-usba",
       "nombre": "Cable USB 2.0 Macho a Macho Negro 2m",
       "modelo": "US102",
       "sku": "10311",
@@ -2790,7 +2790,7 @@
     },
     {
       "id": 267,
-      "categoria": "cable usb a/usb a",
+      "categoria": "cable-usba-usba",
       "nombre": "Cable USB 2.0 Macho a Macho Negro 3m",
       "modelo": "US102",
       "sku": "30136",
@@ -2800,7 +2800,7 @@
     },
     {
       "id": 268,
-      "categoria": "cable usb a/usb a",
+      "categoria": "cable-usba-usba",
       "nombre": "Cable USB 2.0 A-Macho a A-Hembra Negro 0.5m",
       "modelo": "US103",
       "sku": "10313",
@@ -2810,7 +2810,7 @@
     },
     {
       "id": 269,
-      "categoria": "cable usb a/usb a",
+      "categoria": "cable-usba-usba",
       "nombre": "Cable USB 2.0 A-Macho a A-Hembra Negro 1m",
       "modelo": "US103",
       "sku": "10314",
@@ -2820,7 +2820,7 @@
     },
     {
       "id": 270,
-      "categoria": "cable usb a/usb a",
+      "categoria": "cable-usba-usba",
       "nombre": "Cable USB 2.0 A-Macho a A-Hembra Negro 1.5m",
       "modelo": "US103",
       "sku": "10315",
@@ -2830,7 +2830,7 @@
     },
     {
       "id": 271,
-      "categoria": "cable usb a/usb a",
+      "categoria": "cable-usba-usba",
       "nombre": "Cable USB 2.0 A-Macho a A-Hembra Negro 2m",
       "modelo": "US103",
       "sku": "10316",
@@ -2840,7 +2840,7 @@
     },
     {
       "id": 272,
-      "categoria": "cable usb a/usb a",
+      "categoria": "cable-usba-usba",
       "nombre": "Cable USB 2.0 A-Macho a A-Hembra Negro 3m",
       "modelo": "US103",
       "sku": "10317",
@@ -2850,7 +2850,7 @@
     },
     {
       "id": 273,
-      "categoria": "cable usb a/usb a",
+      "categoria": "cable-usba-usba",
       "nombre": "Cable USB 2.0 A-Macho a A-Hembra Negro 5m",
       "modelo": "US103",
       "sku": "10318",
@@ -2860,7 +2860,7 @@
     },
     {
       "id": 274,
-      "categoria": "cable usb a/usb a",
+      "categoria": "cable-usba-usba",
       "nombre": "Cable USB-A 3.0 Macho a Macho Negro 1m",
       "modelo": "US128",
       "sku": "10370",
@@ -2870,7 +2870,7 @@
     },
     {
       "id": 275,
-      "categoria": "cable usb a/usb a",
+      "categoria": "cable-usba-usba",
       "nombre": "Cable USB-A 3.0 Macho a Macho Negro 2m",
       "modelo": "US128",
       "sku": "10371",
@@ -2880,7 +2880,7 @@
     },
     {
       "id": 276,
-      "categoria": "cable usb a/usb a",
+      "categoria": "cable-usba-usba",
       "nombre": "Cable Alargador USB-A Macho a USB-A Hembra Negro 1m",
       "modelo": "US129",
       "sku": "10368",
@@ -2890,7 +2890,7 @@
     },
     {
       "id": 277,
-      "categoria": "cable usb a/usb a",
+      "categoria": "cable-usba-usba",
       "nombre": "Cable de Extensión USB 3.0 Macho Negro 3m",
       "modelo": "US129",
       "sku": "30127",
@@ -2900,7 +2900,7 @@
     },
     {
       "id": 278,
-      "categoria": "cable usb a/usb a",
+      "categoria": "cable-usba-usba",
       "nombre": "Cable Extensión Activo USB 2.0 con Chipset Negro 10m",
       "modelo": "US121",
       "sku": "10321",
@@ -2910,7 +2910,7 @@
     },
     {
       "id": 279,
-      "categoria": "cable usb a/usb a",
+      "categoria": "cable-usba-usba",
       "nombre": "Cable Extensión USB 2.0 Hembra Amplificador de Señal Negro 10m",
       "modelo": "US137",
       "sku": "20214",
@@ -2920,7 +2920,7 @@
     },
     {
       "id": 280,
-      "categoria": "cable usb a/usb a",
+      "categoria": "cable-usba-usba",
       "nombre": "Cable USB-A 3.0 Macho a Macho Premium Negro 1m",
       "modelo": "US373",
       "sku": "80790",
@@ -2930,7 +2930,7 @@
     },
     {
       "id": 281,
-      "categoria": "cable usb a/usb a",
+      "categoria": "cable-usba-usba",
       "nombre": "Cable USB-A 3.0 Macho a Macho Premium Negro 2m",
       "modelo": "US373",
       "sku": "80791",
@@ -2940,7 +2940,7 @@
     },
     {
       "id": 282,
-      "categoria": "cable de impresora",
+      "categoria": "cable-impresora",
       "nombre": "Adaptador USB-C Hembra a USB para Impresora Aluminio Ugreen Plateado",
       "modelo": "US382",
       "sku": "20120",
@@ -2950,7 +2950,7 @@
     },
     {
       "id": 283,
-      "categoria": "cable de impresora",
+      "categoria": "cable-impresora",
       "nombre": "Cable de Impresora USB-C a USB-B 2.0 Negro 2m",
       "modelo": "US241",
       "sku": "50446",
@@ -2960,7 +2960,7 @@
     },
     {
       "id": 284,
-      "categoria": "cable de impresora",
+      "categoria": "cable-impresora",
       "nombre": "Cable de Impresión USB 2.0 AM a BM Negro 2m",
       "modelo": "US135",
       "sku": "20847",
@@ -2970,7 +2970,7 @@
     },
     {
       "id": 285,
-      "categoria": "cable de impresora",
+      "categoria": "cable-impresora",
       "nombre": "Cable de Impresora USB-A a USB Tipo B Blindado Negro 3m",
       "modelo": "US135",
       "sku": "10351",
@@ -2980,7 +2980,7 @@
     },
     {
       "id": 286,
-      "categoria": "cable de impresora",
+      "categoria": "cable-impresora",
       "nombre": "Cable de Impresora USB-A a USB Tipo B Blindado Negro 5m",
       "modelo": "US135",
       "sku": "10352",
@@ -2990,7 +2990,7 @@
     },
     {
       "id": 287,
-      "categoria": "cable micro b",
+      "categoria": "cable-microb",
       "nombre": "Cable USB-C a Micro B M/M Negro 1m",
       "modelo": "US312",
       "sku": "20103",
@@ -3000,7 +3000,7 @@
     },
     {
       "id": 288,
-      "categoria": "cable micro b",
+      "categoria": "cable-microb",
       "nombre": "Cable USB 3.0 A Macho a Micro USB 3.0 Macho Negro 0.5m",
       "modelo": "US130",
       "sku": "10840",
@@ -3010,7 +3010,7 @@
     },
     {
       "id": 289,
-      "categoria": "cable micro b",
+      "categoria": "cable-microb",
       "nombre": "Cable USB 3.0 A Macho a Micro USB 3.0 Macho Negro 1m",
       "modelo": "US130",
       "sku": "10841",
@@ -3020,7 +3020,7 @@
     },
     {
       "id": 290,
-      "categoria": "cable micro b",
+      "categoria": "cable-microb",
       "nombre": "Cable USB 3.0 A Macho a Micro USB 3.0 Macho Negro 2m",
       "modelo": "US130",
       "sku": "10843",
@@ -3030,7 +3030,7 @@
     },
     {
       "id": 291,
-      "categoria": "cable mini pines",
+      "categoria": "cable-minipines",
       "nombre": "Cable USB 2.0 A Macho a Mini Pines Macho Negro 2m",
       "modelo": "US132",
       "sku": "30472",
@@ -3040,7 +3040,7 @@
     },
     {
       "id": 292,
-      "categoria": "cable mini pines",
+      "categoria": "cable-minipines",
       "nombre": "Cable USB 2.0 A Macho a Mini Pines Macho Negro 1m",
       "modelo": "US132",
       "sku": "10355",
@@ -3580,7 +3580,7 @@
     },
     {
       "id": 346,
-      "categoria": "cable usbc/hdmi",
+      "categoria": "cable-usbc-hdmi",
       "nombre": "Adaptador USB-C a HDMI 4K 60Hz para PC Mac Celular Gris",
       "modelo": "US320",
       "sku": "70450",
@@ -3590,7 +3590,7 @@
     },
     {
       "id": 347,
-      "categoria": "cable usbc/hdmi",
+      "categoria": "cable-usbc-hdmi",
       "nombre": "Adaptador de Video HDMI Hembra a USB-A + USB-C 4K 60Hz Macho",
       "modelo": "CM489",
       "sku": "40189",
@@ -3600,7 +3600,7 @@
     },
     {
       "id": 348,
-      "categoria": "cable usbc/hdmi",
+      "categoria": "cable-usbc-hdmi",
       "nombre": "Cable de Video USB-C a HDMI 4K 2K 30Hz Blanco 1.5m",
       "modelo": "MM121",
       "sku": "30841",
@@ -3610,7 +3610,7 @@
     },
     {
       "id": 349,
-      "categoria": "cable usbc/hdmi",
+      "categoria": "cable-usbc-hdmi",
       "nombre": "Cable Adaptador USB-C a DP 4K Negro 1.5m",
       "modelo": "MM139",
       "sku": "50994",
@@ -3620,7 +3620,7 @@
     },
     {
       "id": 350,
-      "categoria": "cable usbc/hdmi",
+      "categoria": "cable-usbc-hdmi",
       "nombre": "Cable USB-C a HDMI Macho a Macho con Carcasa de Aluminio Gris/Negro 1.5m",
       "modelo": "MM142",
       "sku": "50570",
@@ -3630,7 +3630,7 @@
     },
     {
       "id": 351,
-      "categoria": "cable usbc/hdmi",
+      "categoria": "cable-usbc-hdmi",
       "nombre": "Cable USB-C a HDMI 2.1 Thunderbolt 8K 60Hz HDR Negro 1.5m",
       "modelo": "CM565",
       "sku": "90451",
