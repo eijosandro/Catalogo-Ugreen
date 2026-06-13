@@ -2062,10 +2062,10 @@
       "precio": "",
       "foto": "fotos/CM106-40759.jpg"
     },
-    {
+{
       "id": 194,
       "categoria": "cable-lightning",
-      "nombre": "CABLE USB-C A LIGHTNING PD CARGA RAPIDA 3 A MAX NEGRO 1M",
+      "nombre": "Cable USB-C a Lightning PD Carga Rápida 3A Máx Negro 1m",
       "modelo": "US171",
       "sku": "60751",
       "descripcion": "",
@@ -2075,7 +2075,7 @@
     {
       "id": 195,
       "categoria": "cable-lightning",
-      "nombre": "CABLE USB-C A LIGHTNING PD CARGA RAPIDA 3 A MAX BLANCO 1M",
+      "nombre": "Cable USB-C a Lightning PD Carga Rápida 3A Máx Blanco 1m",
       "modelo": "US171",
       "sku": "10493",
       "descripcion": "",
@@ -2085,7 +2085,7 @@
     {
       "id": 196,
       "categoria": "cable-lightning",
-      "nombre": "CABLE USB-C A LIGHTNING PD CARGA RAPIDA 3 A MAX BLANCO 2M",
+      "nombre": "Cable USB-C a Lightning PD Carga Rápida 3A Máx Blanco 2m",
       "modelo": "US171",
       "sku": "60749",
       "descripcion": "",
@@ -2095,7 +2095,7 @@
     {
       "id": 197,
       "categoria": "cable-lightning",
-      "nombre": "CABLE USB-C A LIGHTNING PD CARGA RAPIDA 3 A MAX NEGRO 1M",
+      "nombre": "Cable USB-C a Lightning PD Carga Rápida 3A Máx Negro 1m",
       "modelo": "US304",
       "sku": "60759",
       "descripcion": "",
@@ -2105,7 +2105,7 @@
     {
       "id": 198,
       "categoria": "cable-lightning",
-      "nombre": "CABLE USB-C A LIGHTNING PD CARGA RAPIDA 3 A MAX NEGRO 2M",
+      "nombre": "Cable USB-C a Lightning PD Carga Rápida 3A Máx Negro 2m",
       "modelo": "US304",
       "sku": "60761",
       "descripcion": "",
@@ -2115,7 +2115,7 @@
     {
       "id": 199,
       "categoria": "cable-lightning",
-      "nombre": "CABLE USB-A A LIGHTNING 5V 2.4A 1M NEGRO",
+      "nombre": "Cable USB-A a Lightning 5V 2.4A Negro 1m",
       "modelo": "US155",
       "sku": "80822",
       "descripcion": "",
@@ -2125,7 +2125,7 @@
     {
       "id": 200,
       "categoria": "cable-lightning",
-      "nombre": "CABLE USB-A A LIGHTNING 5V 2.4A 2M NEGRO",
+      "nombre": "Cable USB-A a Lightning 5V 2.4A Negro 2m",
       "modelo": "US155",
       "sku": "80823",
       "descripcion": "",
@@ -2135,7 +2135,7 @@
     {
       "id": 201,
       "categoria": "cable-lightning",
-      "nombre": "CABLE USB-A LIGHTNING 5V/2.4A MAX. BLANCO 1M",
+      "nombre": "Cable USB-A a Lightning 5V/2.4A Máx Blanco 1m",
       "modelo": "US155",
       "sku": "20728",
       "descripcion": "",
@@ -2145,7 +2145,7 @@
     {
       "id": 202,
       "categoria": "cable-lightning",
-      "nombre": "CABLE USB-A LIGHTNING 5V/2.4A MAX. BLANCO 2M",
+      "nombre": "Cable USB-A a Lightning 5V/2.4A Máx Blanco 2m",
       "modelo": "US155",
       "sku": "20730",
       "descripcion": "",
@@ -2155,7 +2155,7 @@
     {
       "id": 203,
       "categoria": "cable-lightning",
-      "nombre": "CABLE LIGHTNING USB 2.0 a MACHO 1M NEGRO",
+      "nombre": "Cable Lightning USB 2.0 a Macho Negro 1m",
       "modelo": "US199",
       "sku": "60156",
       "descripcion": "",
@@ -2165,7 +2165,7 @@
     {
       "id": 204,
       "categoria": "cable-lightning",
-      "nombre": "CABLE LIGHTNING USB 2.0 a MACHO 2M PLATEADO",
+      "nombre": "Cable Lightning USB 2.0 a Macho Plateado 2m",
       "modelo": "US199",
       "sku": "60163",
       "descripcion": "",
@@ -2175,7 +2175,7 @@
     {
       "id": 205,
       "categoria": "cable-usba-usbc",
-      "nombre": "CABLE DE CARGA RAPIDA USB-A a USB-C 3A MAX 1M NEGRO",
+      "nombre": "Cable de Carga Rápida USB-A a USB-C 3A Máx Negro 1m",
       "modelo": "US287",
       "sku": "60116",
       "descripcion": "",
@@ -2185,7 +2185,7 @@
     {
       "id": 206,
       "categoria": "cable-usba-usbc",
-      "nombre": "CABLE DE CARGA RAPIDA USB-A a USB-C 3A MAX 2M NEGRO",
+      "nombre": "Cable de Carga Rápida USB-A a USB-C 3A Máx Negro 2m",
       "modelo": "US287",
       "sku": "60118",
       "descripcion": "",
@@ -2195,7 +2195,7 @@
     {
       "id": 207,
       "categoria": "cable-usba-usbc",
-      "nombre": "CABLE USB-A 2.0 a USB-C NIQUELADO 1M BLANCO",
+      "nombre": "Cable USB-A 2.0 a USB-C Niquelado Blanco 1m",
       "modelo": "US287",
       "sku": "60121",
       "descripcion": "",
@@ -2205,7 +2205,7 @@
     {
       "id": 208,
       "categoria": "cable-usba-usbc",
-      "nombre": "CABLE USB-A 2.0 a USB-C NIQUELADO 2M BLANCO",
+      "nombre": "Cable USB-A 2.0 a USB-C Niquelado Blanco 2m",
       "modelo": "US287",
       "sku": "60123",
       "descripcion": "",
@@ -2215,7 +2215,7 @@
     {
       "id": 209,
       "categoria": "cable-usba-usbc",
-      "nombre": "CABLE DE CARGA RAPIDA USB-A a USB-C 3A MAX 1M GRIS/NEGRO",
+      "nombre": "Cable de Carga Rápida USB-A a USB-C 3A Máx Gris/Negro 1m",
       "modelo": "US288",
       "sku": "60126",
       "descripcion": "",
@@ -2225,7 +2225,7 @@
     {
       "id": 210,
       "categoria": "cable-usba-usbc",
-      "nombre": "CABLE DE CARGA RAPIDA USB-A a USB-C 3A MAX 2M GRIS/NEGRO",
+      "nombre": "Cable de Carga Rápida USB-A a USB-C 3A Máx Gris/Negro 2m",
       "modelo": "US288",
       "sku": "60128",
       "descripcion": "",
@@ -2235,7 +2235,7 @@
     {
       "id": 211,
       "categoria": "cable-usba-usbc",
-      "nombre": "CABLE USB-A 2.0 A USB-C C/TRENZADO ALUMINIO NIQUELADO 1M BLANCO",
+      "nombre": "Cable USB-A 2.0 a USB-C con Trenzado de Aluminio Niquelado Blanco 1m",
       "modelo": "US288",
       "sku": "60131",
       "descripcion": "",
@@ -2245,7 +2245,7 @@
     {
       "id": 212,
       "categoria": "cable-usba-usbc",
-      "nombre": "CABLE USB-A 2.0 A USB-C C/TRENZADO ALUMINIO NIQUELADO 2M BLANCO",
+      "nombre": "Cable USB-A 2.0 a USB-C con Trenzado de Aluminio Niquelado Blanco 2m",
       "modelo": "US288",
       "sku": "60133",
       "descripcion": "",
@@ -2255,7 +2255,7 @@
     {
       "id": 213,
       "categoria": "cable-usba-usbc",
-      "nombre": "Cable Usb-c A Usb Angulo 90° En L 3a Carga Rapida 1m Ugreen Space Gray-1mts",
+      "nombre": "Cable USB-C a USB Ángulo 90° en L 3A Carga Rápida Ugreen Gris Espacial 1m",
       "modelo": "US176",
       "sku": "20856",
       "descripcion": "",
@@ -2265,7 +2265,7 @@
     {
       "id": 214,
       "categoria": "cable-usba-usbc",
-      "nombre": "Cable Usb-c A Usb Angulo 90° En L 3a Carga Rapida 2m Ugreen Negro",
+      "nombre": "Cable USB-C a USB Ángulo 90° en L 3A Carga Rápida Ugreen Negro 2m",
       "modelo": "US176",
       "sku": "20857",
       "descripcion": "",
@@ -2275,7 +2275,7 @@
     {
       "id": 215,
       "categoria": "cable-usba-usbc",
-      "nombre": "Cable Usb 3.0 A Usb-c Premium Carga Rapida Datos 1.5m Ugreen Negro",
+      "nombre": "Cable USB 3.0 a USB-C Premium Carga Rápida y Datos Ugreen Negro 1.5m",
       "modelo": "US184",
       "sku": "20883",
       "descripcion": "",
@@ -2285,7 +2285,7 @@
     {
       "id": 216,
       "categoria": "cable-usba-usbc",
-      "nombre": "Cable Usb 3.0 A Usb-c Premium Carga Rapida Y Datos 2m Ugreen Negro",
+      "nombre": "Cable USB 3.0 a USB-C Premium Carga Rápida y Datos Ugreen Negro 2m",
       "modelo": "US184",
       "sku": "20884",
       "descripcion": "",
@@ -2295,7 +2295,7 @@
     {
       "id": 217,
       "categoria": "cable-usba-usbc",
-      "nombre": "CABLE USB-A A USB-C TIPO L 90° CARGA RAPIDA 2M NEGRO",
+      "nombre": "Cable USB-A a USB-C Tipo L 90° Carga Rápida Negro 2m",
       "modelo": "US284",
       "sku": "50942",
       "descripcion": "",
@@ -2305,7 +2305,7 @@
     {
       "id": 218,
       "categoria": "cable-usba-usbc",
-      "nombre": "JUEGO 2 ADAPTADORES USB- A MACHO A USB-C HEMBRA",
+      "nombre": "Juego de 2 Adaptadores USB-A Macho a USB-C Hembra",
       "modelo": "US701",
       "sku": "45275",
       "descripcion": "",
@@ -2315,7 +2315,7 @@
     {
       "id": 219,
       "categoria": "cable-usba-usbc",
-      "nombre": "Adaptador Usb Macho A Usb-c Hembra + Colgante Negro Ugreen Negro",
+      "nombre": "Adaptador USB Macho a USB-C Hembra con Colgante Ugreen Negro",
       "modelo": "US280",
       "sku": "50568",
       "descripcion": "",
@@ -2325,7 +2325,7 @@
     {
       "id": 220,
       "categoria": "cable-usba-usbc",
-      "nombre": "ADAPTADOR USB-C a USB 3.0 a HEMBRA BLANCO",
+      "nombre": "Adaptador USB-C a USB 3.0 Hembra Blanco",
       "modelo": "US173",
       "sku": "30155",
       "descripcion": "",
@@ -2335,7 +2335,7 @@
     {
       "id": 221,
       "categoria": "cable-usba-usbc",
-      "nombre": "Adaptador Otg 2 En 1 Micro Usb Y Usb C A Usb Hembra Ugreen Negro",
+      "nombre": "Adaptador OTG 2 en 1 Micro USB y USB-C a USB Hembra Ugreen Negro",
       "modelo": "30453",
       "sku": "30453",
       "descripcion": "",
@@ -2345,7 +2345,7 @@
     {
       "id": 222,
       "categoria": "cable-usba-usbc",
-      "nombre": "CABLE USB-C MACHO a USB 3.0 a HEMBRA 15 CM NEGRO",
+      "nombre": "Cable USB-C Macho a USB 3.0 Hembra 15cm Negro",
       "modelo": "US154",
       "sku": "30701",
       "descripcion": "",
@@ -2355,7 +2355,7 @@
     {
       "id": 223,
       "categoria": "cable-usba-usbc",
-      "nombre": "ADAPTADORES USB-C MACHO A USB-A HEMBRA",
+      "nombre": "Adaptadores USB-C Macho a USB-A Hembra",
       "modelo": "US270",
       "sku": "50283",
       "descripcion": "",
@@ -2365,7 +2365,7 @@
     {
       "id": 224,
       "categoria": "cable-usbc-usbc",
-      "nombre": "CABLE CARGA RAPIDA USB-C a USB-C PD 3A MÁX 1M GRIS/NEGRO",
+      "nombre": "Cable Carga Rápida USB-C a USB-C PD 3A Máx Gris/Negro 1m",
       "modelo": "US261",
       "sku": "50150",
       "descripcion": "",
@@ -2375,7 +2375,7 @@
     {
       "id": 225,
       "categoria": "cable-usbc-usbc",
-      "nombre": "CABLE CARGA RAPIDA USB-C a USB-C PD 3A MÁX 2M GRIS/NEGRO",
+      "nombre": "Cable Carga Rápida USB-C a USB-C PD 3A Máx Gris/Negro 2m",
       "modelo": "US261",
       "sku": "50152",
       "descripcion": "",
@@ -2385,7 +2385,7 @@
     {
       "id": 226,
       "categoria": "cable-usbc-usbc",
-      "nombre": "CABLE USB 2.0 C M/M CUBIERTA ABS 0.5M BLANCO",
+      "nombre": "Cable USB 2.0 C M/M con Cubierta ABS Blanco 0.5m",
       "modelo": "US264",
       "sku": "60517",
       "descripcion": "",
@@ -2395,7 +2395,7 @@
     {
       "id": 227,
       "categoria": "cable-usbc-usbc",
-      "nombre": "CABLE USB 2.0 C M/M CUBIERTA ABS 1M BLANCO",
+      "nombre": "Cable USB 2.0 C M/M con Cubierta ABS Blanco 1m",
       "modelo": "US264",
       "sku": "60518",
       "descripcion": "",
@@ -2405,7 +2405,7 @@
     {
       "id": 228,
       "categoria": "cable-usbc-usbc",
-      "nombre": "CABLE USB 2.0 C M/M CUBIERTA ABS 2M BLANCO",
+      "nombre": "Cable USB 2.0 C M/M con Cubierta ABS Blanco 2m",
       "modelo": "US264",
       "sku": "60520",
       "descripcion": "",
@@ -2415,7 +2415,7 @@
     {
       "id": 229,
       "categoria": "cable-usbc-usbc",
-      "nombre": "CABLE USB-C CARGA RAPIDA 3A 60W 2M NEGRO",
+      "nombre": "Cable USB-C Carga Rápida 3A 60W Negro 2m",
       "modelo": "US286",
       "sku": "10306",
       "descripcion": "",
@@ -2425,7 +2425,7 @@
     {
       "id": 230,
       "categoria": "cable-usbc-usbc",
-      "nombre": "Cable Trenzado Usb C 2.0 3a 3m Macho A Macho Ugreen Negro",
+      "nombre": "Cable Trenzado USB-C 2.0 3A Macho a Macho Ugreen Negro 3m",
       "modelo": "US286",
       "sku": "60788",
       "descripcion": "",
@@ -2435,7 +2435,7 @@
     {
       "id": 231,
       "categoria": "cable-usbc-usbc",
-      "nombre": "CABLE USB 2.0 TIPO C MACHO A MACHO 5A 1M",
+      "nombre": "Cable USB 2.0 Tipo C Macho a Macho 5A 1m",
       "modelo": "US300",
       "sku": "60551",
       "descripcion": "",
@@ -2445,7 +2445,7 @@
     {
       "id": 232,
       "categoria": "cable-usbc-usbc",
-      "nombre": "CABLE DE CARGA RAPIDA USB-C PD 5A MAX 1M NEGRO",
+      "nombre": "Cable de Carga Rápida USB-C PD 5A Máx Negro 1m",
       "modelo": "US300",
       "sku": "80371",
       "descripcion": "",
@@ -2455,7 +2455,7 @@
     {
       "id": 233,
       "categoria": "cable-usbc-usbc",
-      "nombre": "CABLE CARGA RAPIDA USB-C A USB-C PD 5A MAX 2M NEGRO",
+      "nombre": "Cable Carga Rápida USB-C a USB-C PD 5A Máx Negro 2m",
       "modelo": "US300",
       "sku": "80372",
       "descripcion": "",
@@ -2465,7 +2465,7 @@
     {
       "id": 234,
       "categoria": "cable-usbc-usbc",
-      "nombre": "CABLE DE CARGA RAPIDA USB-C a USB-C PD 5A MAX 1M NEGRO",
+      "nombre": "Cable de Carga Rápida USB-C a USB-C PD 5A Máx Negro 1m",
       "modelo": "US316",
       "sku": "70427",
       "descripcion": "",
@@ -2475,7 +2475,7 @@
     {
       "id": 235,
       "categoria": "cable-usbc-usbc",
-      "nombre": "CABLE DE CARGA RAPIDA USB-C a USB-C PD 5A MAX 2M NEGRO",
+      "nombre": "Cable de Carga Rápida USB-C a USB-C PD 5A Máx Negro 2m",
       "modelo": "US316",
       "sku": "70429",
       "descripcion": "",
@@ -2485,7 +2485,7 @@
     {
       "id": 236,
       "categoria": "cable-usbc-usbc",
-      "nombre": "CABLE CARGA RAPIDA USB-C A USB-C PD 1M GRIS",
+      "nombre": "Cable Carga Rápida USB-C a USB-C PD Gris 1m",
       "modelo": "L513",
       "sku": "45067",
       "descripcion": "",
@@ -2495,7 +2495,7 @@
     {
       "id": 237,
       "categoria": "cable-usbc-usbc",
-      "nombre": "CABLE CARGA RAPIDA USB-C A USB-C PD 60W 1M GRIS",
+      "nombre": "Cable Carga Rápida USB-C a USB-C PD 60W Gris 1m",
       "modelo": "L524",
       "sku": "55765",
       "descripcion": "",
@@ -2505,7 +2505,7 @@
     {
       "id": 238,
       "categoria": "cable-usbc-usbc",
-      "nombre": "CABLE CARGA RAPIDA USB-C A USB-C PD 60W 2M GRIS",
+      "nombre": "Cable Carga Rápida USB-C a USB-C PD 60W Gris 2m",
       "modelo": "L524",
       "sku": "55775",
       "descripcion": "",
@@ -2515,7 +2515,7 @@
     {
       "id": 239,
       "categoria": "cable-usbc-usbc",
-      "nombre": "CABLE CARGA RAPIDA USB-C A USB-C PD 5A MAX 2M GRIS",
+      "nombre": "Cable Carga Rápida USB-C a USB-C PD 5A Máx Gris 2m",
       "modelo": "US535",
       "sku": "90440",
       "descripcion": "",
@@ -2525,7 +2525,7 @@
     {
       "id": 240,
       "categoria": "cable-usbc-usbc",
-      "nombre": "CABLE DE CARGA RAPIDA 1 USB-C a USB-C PD de 5A NEGRO 1M",
+      "nombre": "Cable de Carga Rápida 1 USB-C a USB-C PD de 5A Negro 1m",
       "modelo": "L509",
       "sku": "35501",
       "descripcion": "",
@@ -2535,7 +2535,7 @@
     {
       "id": 241,
       "categoria": "cable-usbc-usbc",
-      "nombre": "CABLE DE CARGA RAPIDA 1 USB-C a USB-C PD de 5A MORADO 1M",
+      "nombre": "Cable de Carga Rápida 1 USB-C a USB-C PD de 5A Morado 1m",
       "modelo": "L509",
       "sku": "65092",
       "descripcion": "",
@@ -2545,7 +2545,7 @@
     {
       "id": 242,
       "categoria": "cable-usbc-usbc",
-      "nombre": "CABLE USB-C a USB-C PD CARGA RAPIDA 90° 5A MÁX 1M NEGRO",
+      "nombre": "Cable USB-C a USB-C PD Carga Rápida 90° 5A Máx Negro 1m",
       "modelo": "US334",
       "sku": "70643",
       "descripcion": "",
@@ -2555,7 +2555,7 @@
     {
       "id": 243,
       "categoria": "cable-usbc-usbc",
-      "nombre": "CABLE USB-C a USB-C PD CARGA RAPIDA 90° 5A MÁX 2M NEGRO",
+      "nombre": "Cable USB-C a USB-C PD Carga Rápida 90° 5A Máx Negro 2m",
       "modelo": "US334",
       "sku": "70645",
       "descripcion": "",
@@ -2565,7 +2565,7 @@
     {
       "id": 244,
       "categoria": "cable-usbc-usbc",
-      "nombre": "CABLE USB-C a USB-C PD CARGA RAPIDA 90° 60W MÁX 1M NEGRO",
+      "nombre": "Cable USB-C a USB-C PD Carga Rápida 90° 60W Máx Negro 1m",
       "modelo": "US255",
       "sku": "50123",
       "descripcion": "",
@@ -2575,7 +2575,7 @@
     {
       "id": 245,
       "categoria": "cable-usbc-usbc",
-      "nombre": "CABLE USB-C A USB-C PD CARGA RAPIDA 90° 5M NEGRO",
+      "nombre": "Cable USB-C a USB-C PD Carga Rápida 90° Negro 5m",
       "modelo": "US551",
       "sku": "90629",
       "descripcion": "",
@@ -2585,7 +2585,7 @@
     {
       "id": 246,
       "categoria": "cable-usbc-usbc",
-      "nombre": "CABLE USB-C a USB-C PD CARGA RAPIDA 90° 60W MÁX 1M NEGRO",
+      "nombre": "Cable USB-C a USB-C PD Carga Rápida 90° 60W Máx Negro 1m",
       "modelo": "US323",
       "sku": "70529",
       "descripcion": "",
@@ -2595,7 +2595,7 @@
     {
       "id": 247,
       "categoria": "cable-usbc-usbc",
-      "nombre": "CABLE USB 3.2 Gen2 NEGRO 1M",
+      "nombre": "Cable USB 3.2 Gen2 Negro 1m",
       "modelo": "US355",
       "sku": "80150",
       "descripcion": "",
@@ -2605,7 +2605,7 @@
     {
       "id": 248,
       "categoria": "cable-usbc-usbc",
-      "nombre": "CABLE DE CARGA 2 EN 1 USB-A A USB-C/MICRO USB",
+      "nombre": "Cable de Carga 2 en 1 USB-A a USB-C/Micro USB 1m",
       "modelo": "US177",
       "sku": "30875",
       "descripcion": "",
@@ -2615,7 +2615,7 @@
     {
       "id": 249,
       "categoria": "cable-usbc-usbc",
-      "nombre": "CABLE DE CARGA RAPIDA PD UNIVERSAL 2 EN 1 de 5A Max",
+      "nombre": "Cable de Carga Rápida PD Universal 2 en 1 de 5A Máx",
       "modelo": "US561",
       "sku": "35087",
       "descripcion": "",
@@ -2625,7 +2625,7 @@
     {
       "id": 250,
       "categoria": "cable-usbc-usbc",
-      "nombre": "CABLE EXTENSOR USB-C MACHO A HEMBRA ADAPTADOR 4K 0.5M NEGRO",
+      "nombre": "Cable Extensor USB-C Macho a Hembra Adaptador 4K Negro 0.5m",
       "modelo": "ED008",
       "sku": "40574",
       "descripcion": "",
@@ -2635,7 +2635,7 @@
     {
       "id": 251,
       "categoria": "cable-usbc-usbc",
-      "nombre": "CABLE DE EXTENSION USB- C/M A USB-C/F GEN2 5A 1M NEGRO",
+      "nombre": "Cable de Extensión USB-C/M a USB-C/F Gen2 5A Negro 1m",
       "modelo": "US353",
       "sku": "10387",
       "descripcion": "",
@@ -2645,7 +2645,7 @@
     {
       "id": 252,
       "categoria": "cable-usbc-usbc",
-      "nombre": "CABLE ALARGADOR TRENZADO USB-C MACHO a USB-C HEMBRA GEN2 C/CARCASA ALUMINIO 1M GRIS",
+      "nombre": "Cable Alargador Trenzado USB-C Macho a USB-C Hembra Gen2 con Carcasa de Aluminio Gris 1m",
       "modelo": "US372",
       "sku": "30205",
       "descripcion": "",
@@ -2655,12 +2655,1192 @@
     {
       "id": 253,
       "categoria": "cable-usbc-usbc",
-      "nombre": "Adaptador Micro Usb Hembra A Usb C Macho Otg Ugreen Negro",
+      "nombre": "Adaptador Micro USB Hembra a USB-C Macho OTG Ugreen Negro",
       "modelo": "US157",
       "sku": "30391",
       "descripcion": "",
       "precio": "",
       "foto": "fotos/US157-30391.jpg"
+    },
+    {
+      "id": 254,
+      "categoria": "cable micro usb",
+      "nombre": "Cable USB 2.0 A a Micro USB Niquelado Blanco 1m",
+      "modelo": "US289",
+      "sku": "60141",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US289-60141.jpg"
+    },
+    {
+      "id": 255,
+      "categoria": "cable micro usb",
+      "nombre": "Cable USB 2.0 A a Micro USB Niquelado Blanco 2m",
+      "modelo": "US289",
+      "sku": "60143",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US289-60143.jpg"
+    },
+    {
+      "id": 256,
+      "categoria": "cable micro usb",
+      "nombre": "Cable USB-A a Micro USB 2.0 A Máx Negro 1m",
+      "modelo": "US289",
+      "sku": "60136",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US289-60136.jpg"
+    },
+    {
+      "id": 257,
+      "categoria": "cable micro usb",
+      "nombre": "Cable USB-A a Micro USB 2.0 A Máx Negro 2m",
+      "modelo": "US289",
+      "sku": "60138",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US289-60138.jpg"
+    },
+    {
+      "id": 258,
+      "categoria": "cable micro usb",
+      "nombre": "Cable Micro USB 2.0 Metal/Negro 1m",
+      "modelo": "US290",
+      "sku": "60146",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US290-60146.jpg"
+    },
+    {
+      "id": 259,
+      "categoria": "cable micro usb",
+      "nombre": "Cable Carga Rápida USB-A a Micro USB 2A Aluminio Negro 2m",
+      "modelo": "US290",
+      "sku": "60148",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US290-60148.jpg"
+    },
+    {
+      "id": 260,
+      "categoria": "cable micro usb",
+      "nombre": "Cable Adaptador OTG Micro USB a USB 2.0 Hembra Ugreen Negro",
+      "modelo": "US133",
+      "sku": "10396",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US133-10396.jpg"
+    },
+    {
+      "id": 261,
+      "categoria": "cable micro usb",
+      "nombre": "Adaptador USB Hembra a Micro USB OTG para Celular Blanco Ugreen",
+      "modelo": "US195",
+      "sku": "30529",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US195-30529.jpg"
+    },
+    {
+      "id": 262,
+      "categoria": "cable micro usb",
+      "nombre": "Ficha Adaptador USB Tipo C Hembra a Micro USB Macho Ugreen Gris",
+      "modelo": "US282",
+      "sku": "50590",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US282-50590.jpg"
+    },
+    {
+      "id": 263,
+      "categoria": "cable usb a/usb a",
+      "nombre": "Cable USB 2.0 Macho a Macho Negro 25cm",
+      "modelo": "US102",
+      "sku": "10307",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US102-10307.jpg"
+    },
+    {
+      "id": 264,
+      "categoria": "cable usb a/usb a",
+      "nombre": "Cable USB 2.0 Macho a Macho Negro 0.5m",
+      "modelo": "US102",
+      "sku": "10308",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US102-10308.jpg"
+    },
+    {
+      "id": 265,
+      "categoria": "cable usb a/usb a",
+      "nombre": "Cable USB 2.0 Macho a Macho Negro 1.5m",
+      "modelo": "US102",
+      "sku": "10310",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US102-10310.jpg"
+    },
+    {
+      "id": 266,
+      "categoria": "cable usb a/usb a",
+      "nombre": "Cable USB 2.0 Macho a Macho Negro 2m",
+      "modelo": "US102",
+      "sku": "10311",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US102-10311.jpg"
+    },
+    {
+      "id": 267,
+      "categoria": "cable usb a/usb a",
+      "nombre": "Cable USB 2.0 Macho a Macho Negro 3m",
+      "modelo": "US102",
+      "sku": "30136",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US102-30136.jpg"
+    },
+    {
+      "id": 268,
+      "categoria": "cable usb a/usb a",
+      "nombre": "Cable USB 2.0 A-Macho a A-Hembra Negro 0.5m",
+      "modelo": "US103",
+      "sku": "10313",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US103-10313.jpg"
+    },
+    {
+      "id": 269,
+      "categoria": "cable usb a/usb a",
+      "nombre": "Cable USB 2.0 A-Macho a A-Hembra Negro 1m",
+      "modelo": "US103",
+      "sku": "10314",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US103-10314.jpg"
+    },
+    {
+      "id": 270,
+      "categoria": "cable usb a/usb a",
+      "nombre": "Cable USB 2.0 A-Macho a A-Hembra Negro 1.5m",
+      "modelo": "US103",
+      "sku": "10315",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US103-10315.jpg"
+    },
+    {
+      "id": 271,
+      "categoria": "cable usb a/usb a",
+      "nombre": "Cable USB 2.0 A-Macho a A-Hembra Negro 2m",
+      "modelo": "US103",
+      "sku": "10316",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US103-10316.jpg"
+    },
+    {
+      "id": 272,
+      "categoria": "cable usb a/usb a",
+      "nombre": "Cable USB 2.0 A-Macho a A-Hembra Negro 3m",
+      "modelo": "US103",
+      "sku": "10317",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US103-10317.jpg"
+    },
+    {
+      "id": 273,
+      "categoria": "cable usb a/usb a",
+      "nombre": "Cable USB 2.0 A-Macho a A-Hembra Negro 5m",
+      "modelo": "US103",
+      "sku": "10318",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US103-10318.jpg"
+    },
+    {
+      "id": 274,
+      "categoria": "cable usb a/usb a",
+      "nombre": "Cable USB-A 3.0 Macho a Macho Negro 1m",
+      "modelo": "US128",
+      "sku": "10370",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US128-10370.jpg"
+    },
+    {
+      "id": 275,
+      "categoria": "cable usb a/usb a",
+      "nombre": "Cable USB-A 3.0 Macho a Macho Negro 2m",
+      "modelo": "US128",
+      "sku": "10371",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US128-10371.jpg"
+    },
+    {
+      "id": 276,
+      "categoria": "cable usb a/usb a",
+      "nombre": "Cable Alargador USB-A Macho a USB-A Hembra Negro 1m",
+      "modelo": "US129",
+      "sku": "10368",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US129-10368.jpg"
+    },
+    {
+      "id": 277,
+      "categoria": "cable usb a/usb a",
+      "nombre": "Cable de Extensión USB 3.0 Macho Negro 3m",
+      "modelo": "US129",
+      "sku": "30127",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US129-30127.jpg"
+    },
+    {
+      "id": 278,
+      "categoria": "cable usb a/usb a",
+      "nombre": "Cable Extensión Activo USB 2.0 con Chipset Negro 10m",
+      "modelo": "US121",
+      "sku": "10321",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US121-10321.jpg"
+    },
+    {
+      "id": 279,
+      "categoria": "cable usb a/usb a",
+      "nombre": "Cable Extensión USB 2.0 Hembra Amplificador de Señal Negro 10m",
+      "modelo": "US137",
+      "sku": "20214",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US137-20214.jpg"
+    },
+    {
+      "id": 280,
+      "categoria": "cable usb a/usb a",
+      "nombre": "Cable USB-A 3.0 Macho a Macho Premium Negro 1m",
+      "modelo": "US373",
+      "sku": "80790",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US373-80790.jpg"
+    },
+    {
+      "id": 281,
+      "categoria": "cable usb a/usb a",
+      "nombre": "Cable USB-A 3.0 Macho a Macho Premium Negro 2m",
+      "modelo": "US373",
+      "sku": "80791",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US373-80791.jpg"
+    },
+    {
+      "id": 282,
+      "categoria": "cable de impresora",
+      "nombre": "Adaptador USB-C Hembra a USB para Impresora Aluminio Ugreen Plateado",
+      "modelo": "US382",
+      "sku": "20120",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US382-20120.jpg"
+    },
+    {
+      "id": 283,
+      "categoria": "cable de impresora",
+      "nombre": "Cable de Impresora USB-C a USB-B 2.0 Negro 2m",
+      "modelo": "US241",
+      "sku": "50446",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US241-50446.jpg"
+    },
+    {
+      "id": 284,
+      "categoria": "cable de impresora",
+      "nombre": "Cable de Impresión USB 2.0 AM a BM Negro 2m",
+      "modelo": "US135",
+      "sku": "20847",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US135-20847.jpg"
+    },
+    {
+      "id": 285,
+      "categoria": "cable de impresora",
+      "nombre": "Cable de Impresora USB-A a USB Tipo B Blindado Negro 3m",
+      "modelo": "US135",
+      "sku": "10351",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US135-10351.jpg"
+    },
+    {
+      "id": 286,
+      "categoria": "cable de impresora",
+      "nombre": "Cable de Impresora USB-A a USB Tipo B Blindado Negro 5m",
+      "modelo": "US135",
+      "sku": "10352",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US135-10352.jpg"
+    },
+    {
+      "id": 287,
+      "categoria": "cable micro b",
+      "nombre": "Cable USB-C a Micro B M/M Negro 1m",
+      "modelo": "US312",
+      "sku": "20103",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US312-20103.jpg"
+    },
+    {
+      "id": 288,
+      "categoria": "cable micro b",
+      "nombre": "Cable USB 3.0 A Macho a Micro USB 3.0 Macho Negro 0.5m",
+      "modelo": "US130",
+      "sku": "10840",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US130-10840.jpg"
+    },
+    {
+      "id": 289,
+      "categoria": "cable micro b",
+      "nombre": "Cable USB 3.0 A Macho a Micro USB 3.0 Macho Negro 1m",
+      "modelo": "US130",
+      "sku": "10841",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US130-10841.jpg"
+    },
+    {
+      "id": 290,
+      "categoria": "cable micro b",
+      "nombre": "Cable USB 3.0 A Macho a Micro USB 3.0 Macho Negro 2m",
+      "modelo": "US130",
+      "sku": "10843",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US130-10843.jpg"
+    },
+    {
+      "id": 291,
+      "categoria": "cable mini pines",
+      "nombre": "Cable USB 2.0 A Macho a Mini Pines Macho Negro 2m",
+      "modelo": "US132",
+      "sku": "30472",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US132-30472.jpg"
+    },
+    {
+      "id": 292,
+      "categoria": "cable mini pines",
+      "nombre": "Cable USB 2.0 A Macho a Mini Pines Macho Negro 1m",
+      "modelo": "US132",
+      "sku": "10355",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US132-10355.jpg"
+    },
+    {
+      "id": 293,
+      "categoria": "caja-disco",
+      "nombre": "Convertidor USB-A a SATA de 2.5 Pulgadas 50cm",
+      "modelo": "CM321",
+      "sku": "70609",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM321-70609.jpg"
+    },
+    {
+      "id": 294,
+      "categoria": "caja-disco",
+      "nombre": "Adaptador USB a SATA para SSD y HDD 2.5",
+      "modelo": "CM257",
+      "sku": "60561",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM257-60561.jpg"
+    },
+    {
+      "id": 295,
+      "categoria": "caja-disco",
+      "nombre": "Caja de Disco Duro 2.5 Pulgadas (SKU 30847)",
+      "modelo": "US221",
+      "sku": "30847",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US221-30847.jpg"
+    },
+    {
+      "id": 296,
+      "categoria": "caja-disco",
+      "nombre": "Caja de Disco Duro 2.5 Pulgadas (SKU 30848)",
+      "modelo": "US221",
+      "sku": "30848",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US221-30848.jpg"
+    },
+    {
+      "id": 297,
+      "categoria": "caja-disco",
+      "nombre": "Caja de Disco USB 3.0 a SATA para SSD y HDD 2.5/3.5",
+      "modelo": "US222",
+      "sku": "50423",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US222-50423.jpg"
+    },
+    {
+      "id": 298,
+      "categoria": "caja-disco",
+      "nombre": "Caja de Cable USB-C Hembra a M.2 M-Key 10G (C a C 50cm)",
+      "modelo": "CM400",
+      "sku": "10902",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM400-10902.jpg"
+    },
+    {
+      "id": 299,
+      "categoria": "caja-disco",
+      "nombre": "Carry Disk M.2 NVMe SATA SSD USB-C Aluminio",
+      "modelo": "CM578",
+      "sku": "15512",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM578-15512.jpg"
+    },
+    {
+      "id": 300,
+      "categoria": "caja-disco",
+      "nombre": "Carcasa para SSD M.2 SATA/NVMe",
+      "modelo": "CM400",
+      "sku": "90264",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM400-90264.jpg"
+    },
+    {
+      "id": 301,
+      "categoria": "caja-disco",
+      "nombre": "Placa Adaptadora M.2 NVMe a PCIe 3.0 M Key SSD 32GB x4 Ugreen",
+      "modelo": "CM302",
+      "sku": "70503",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM302-70503.jpg"
+    },
+    {
+      "id": 302,
+      "categoria": "caja-disco",
+      "nombre": "Placa Adaptadora PCIe 4.0 x16 a M.2 NVMe SSD M Key Ugreen",
+      "modelo": "CM465",
+      "sku": "30715",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM465-30715.jpg"
+    },
+    {
+      "id": 303,
+      "categoria": "soportes",
+      "nombre": "Soporte para Teléfono de Escritorio",
+      "modelo": "LP805",
+      "sku": "35152",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP805-35152.jpg"
+    },
+    {
+      "id": 304,
+      "categoria": "soportes",
+      "nombre": "Soporte para Teléfono con Rodillo",
+      "modelo": "LP263",
+      "sku": "80708",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP263-80708.jpg"
+    },
+    {
+      "id": 305,
+      "categoria": "soportes",
+      "nombre": "Soporte para Teléfono con Ventilación Gris (SKU 40907)",
+      "modelo": "LP130",
+      "sku": "40907",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP130-40907.jpg"
+    },
+    {
+      "id": 306,
+      "categoria": "soportes",
+      "nombre": "Soporte para Teléfono de Bicicleta Negro",
+      "modelo": "LP494",
+      "sku": "60548",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP494-60548.jpg"
+    },
+    {
+      "id": 307,
+      "categoria": "soportes",
+      "nombre": "Soporte para Teléfono con Ventilación Gris (SKU 50564)",
+      "modelo": "LP130",
+      "sku": "50564",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP130-50564.jpg"
+    },
+    {
+      "id": 308,
+      "categoria": "soportes",
+      "nombre": "Soporte para Teléfono con Soporte Adhesivo Negro",
+      "modelo": "LP200",
+      "sku": "60990",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP200-60990.jpg"
+    },
+    {
+      "id": 309,
+      "categoria": "soportes",
+      "nombre": "Soporte Porta Celular para Auto Tablero o Rejilla Ugreen",
+      "modelo": "LP228",
+      "sku": "80539",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP228-80539.jpg"
+    },
+    {
+      "id": 310,
+      "categoria": "soportes",
+      "nombre": "Soporte de Teléfono Gravity para Coche con Gancho",
+      "modelo": "LP228",
+      "sku": "80871",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP228-80871.jpg"
+    },
+    {
+      "id": 311,
+      "categoria": "soportes",
+      "nombre": "Soporte Multifunción para Teléfono Blanco",
+      "modelo": "LP113",
+      "sku": "30488",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP113-30488.jpg"
+    },
+    {
+      "id": 312,
+      "categoria": "soportes",
+      "nombre": "Soporte Multifunción para Teléfono con Clip de 90cm Negro",
+      "modelo": "LP113",
+      "sku": "80906",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP113-80906.jpg"
+    },
+    {
+      "id": 313,
+      "categoria": "soportes",
+      "nombre": "Trípode para Palo Selfie con Control Remoto Bluetooth (Modelo LP680)",
+      "modelo": "LP680",
+      "sku": "15609",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP680-15609.jpg"
+    },
+    {
+      "id": 314,
+      "categoria": "soportes",
+      "nombre": "Trípode para Palo Selfie con Control Remoto Bluetooth (Modelo LP586)",
+      "modelo": "LP586",
+      "sku": "15062",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP586-15062.jpg"
+    },
+    {
+      "id": 315,
+      "categoria": "soportes",
+      "nombre": "Trípode para Palo Selfie (Modelo LP585)",
+      "modelo": "LP585",
+      "sku": "15647",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP585-15647.jpg"
+    },
+    {
+      "id": 316,
+      "categoria": "soportes",
+      "nombre": "Trípode para Palo Selfie (Modelo LP661)",
+      "modelo": "LP661",
+      "sku": "15187",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP661-15187.jpg"
+    },
+    {
+      "id": 317,
+      "categoria": "soportes",
+      "nombre": "Soporte Universal con Brazo Largo Plegable Negro",
+      "modelo": "LP142",
+      "sku": "50394",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP142-50394.jpg"
+    },
+    {
+      "id": 318,
+      "categoria": "soportes",
+      "nombre": "Soporte Ajustable para Portátil Blanco",
+      "modelo": "LP247",
+      "sku": "80704",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP247-80704.jpg"
+    },
+    {
+      "id": 319,
+      "categoria": "soportes",
+      "nombre": "Soporte Ajustable para Portátil Negro",
+      "modelo": "LP247",
+      "sku": "80903",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP247-80903.jpg"
+    },
+    {
+      "id": 320,
+      "categoria": "soportes",
+      "nombre": "Soporte Plegable para Tablet",
+      "modelo": "LP134",
+      "sku": "40393",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP134-40393.jpg"
+    },
+    {
+      "id": 321,
+      "categoria": "soportes",
+      "nombre": "Soporte Portátil Multiángulo Ajustable para iPad Blanco",
+      "modelo": "LP115",
+      "sku": "30485",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP115-30485.jpg"
+    },
+    {
+      "id": 322,
+      "categoria": "soportes",
+      "nombre": "Soporte Portátil Multiángulo Ajustable para iPad Negro",
+      "modelo": "LP115",
+      "sku": "50748",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP115-50748.jpg"
+    },
+    {
+      "id": 323,
+      "categoria": "soportes",
+      "nombre": "Soporte Ajustable para Portátil Plateado",
+      "modelo": "LP339",
+      "sku": "40291",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP339-40291.jpg"
+    },
+    {
+      "id": 324,
+      "categoria": "soportes",
+      "nombre": "Soporte Ajustable para Notebook Portátil Plateado 360°",
+      "modelo": "LP592",
+      "sku": "90849",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP592-90849.jpg"
+    },
+    {
+      "id": 325,
+      "categoria": "soportes",
+      "nombre": "Soporte Plegable para Laptop",
+      "modelo": "LP451",
+      "sku": "40289",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP451-40289.jpg"
+    },
+    {
+      "id": 326,
+      "categoria": "soportes",
+      "nombre": "Soporte Vertical para Laptop",
+      "modelo": "LP258",
+      "sku": "20471",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP258-20471.jpg"
+    },
+    {
+      "id": 327,
+      "categoria": "soportes",
+      "nombre": "Soporte Hub Docking Plegable USB 3.0 HDMI 4K Lectora",
+      "modelo": "CM359",
+      "sku": "80551",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM359-80551.jpg"
+    },
+    {
+      "id": 328,
+      "categoria": "fundas-estuches",
+      "nombre": "Estuche para Auriculares Cables y Accesorios Negro Ugreen",
+      "modelo": "LP128",
+      "sku": "40816",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP128-40816.jpg"
+    },
+    {
+      "id": 329,
+      "categoria": "fundas-estuches",
+      "nombre": "Estuche para Auriculares Gris",
+      "modelo": "LP128",
+      "sku": "70577",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP128-70577.jpg"
+    },
+    {
+      "id": 330,
+      "categoria": "fundas-estuches",
+      "nombre": "Bolsa de Almacenamiento para SSD Grande (Modelo LP128)",
+      "modelo": "LP128",
+      "sku": "50274",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP128-50274.jpg"
+    },
+    {
+      "id": 331,
+      "categoria": "fundas-estuches",
+      "nombre": "Estuche para SSD Pequeño",
+      "modelo": "LP128",
+      "sku": "40707",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP128-40707.jpg"
+    },
+    {
+      "id": 332,
+      "categoria": "fundas-estuches",
+      "nombre": "Bolsa de Almacenamiento para SSD Grande (Modelo LP152)",
+      "modelo": "LP152",
+      "sku": "50903",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP152-50903.jpg"
+    },
+    {
+      "id": 333,
+      "categoria": "fundas-estuches",
+      "nombre": "Estuche para Nintendo Switch y Accesorios",
+      "modelo": "LP174",
+      "sku": "50974",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP174-50974.jpg"
+    },
+    {
+      "id": 334,
+      "categoria": "fundas-estuches",
+      "nombre": "Estuche para Nintendo Switch y Accesorios Grande",
+      "modelo": "LP145",
+      "sku": "50275",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP145-50275.jpg"
+    },
+    {
+      "id": 335,
+      "categoria": "fundas-estuches",
+      "nombre": "Bolsa de Almacenamiento para SSD Celular y Accesorios Grande",
+      "modelo": "LP137",
+      "sku": "50147",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP137-50147.jpg"
+    },
+    {
+      "id": 336,
+      "categoria": "fundas-estuches",
+      "nombre": "Bolsa de Almacenamiento Tipo Funda 13-13.9 Pulgadas Gris",
+      "modelo": "LP187",
+      "sku": "60985",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP187-60985.jpg"
+    },
+    {
+      "id": 337,
+      "categoria": "fundas-estuches",
+      "nombre": "Maletín Ugreen 15 Pulgadas Notebook Porta Portafolio IPX4 con Bolsillo",
+      "modelo": "LP437",
+      "sku": "50337",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP437-50337.jpg"
+    },
+    {
+      "id": 338,
+      "categoria": "fundas-estuches",
+      "nombre": "Maletín Ugreen 16 Pulgadas Notebook Porta Portafolio IPX4 con Bolsillo",
+      "modelo": "LP437",
+      "sku": "30325",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP437-30325.jpg"
+    },
+    {
+      "id": 339,
+      "categoria": "fundas-estuches",
+      "nombre": "Organizador de Baúl de Auto Plegable de Aluminio IPX5 55L Liso Negro",
+      "modelo": "LP256",
+      "sku": "80710",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP256-80710.jpg"
+    },
+    {
+      "id": 340,
+      "categoria": "fundas-estuches",
+      "nombre": "Organizador de 7 Cables para Escritorio con Adhesivo 3M Ugreen Negro",
+      "modelo": "LP114",
+      "sku": "50320",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP114-50320.jpg"
+    },
+    {
+      "id": 341,
+      "categoria": "fundas-estuches",
+      "nombre": "Organizador de Cables Helicoidal en Espiral 25mm 5m Ugreen",
+      "modelo": "LP121",
+      "sku": "30820",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP121-30820.jpg"
+    },
+    {
+      "id": 342,
+      "categoria": "fundas-estuches",
+      "nombre": "Tira Organizadora de Cables Premium Velcro Nylon 2m Ugreen Negro",
+      "modelo": "LP124",
+      "sku": "40354",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP124-40354.jpg"
+    },
+    {
+      "id": 343,
+      "categoria": "fundas-estuches",
+      "nombre": "Tira Organizadora de Cables Premium Velcro Nylon 5m Ugreen Negro",
+      "modelo": "LP124",
+      "sku": "40356",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP124-40356.jpg"
+    },
+    {
+      "id": 344,
+      "categoria": "fundas-estuches",
+      "nombre": "Organizador de Cables 3+1 para 6 Cables de Silicona 3M Ugreen Negro",
+      "modelo": "LP208",
+      "sku": "70585",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP208-70585.jpg"
+    },
+    {
+      "id": 345,
+      "categoria": "fundas-estuches",
+      "nombre": "Tira Organizadora de Cables x20 Autoadhesivo 15cm Ugreen Negro",
+      "modelo": "LP401",
+      "sku": "20245P20",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP401-20245P20.jpg"
+    },
+    {
+      "id": 346,
+      "categoria": "cable usbc/hdmi",
+      "nombre": "Adaptador USB-C a HDMI 4K 60Hz para PC Mac Celular Gris",
+      "modelo": "US320",
+      "sku": "70450",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US320-70450.jpg"
+    },
+    {
+      "id": 347,
+      "categoria": "cable usbc/hdmi",
+      "nombre": "Adaptador de Video HDMI Hembra a USB-A + USB-C 4K 60Hz Macho",
+      "modelo": "CM489",
+      "sku": "40189",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM489-40189.jpg"
+    },
+    {
+      "id": 348,
+      "categoria": "cable usbc/hdmi",
+      "nombre": "Cable de Video USB-C a HDMI 4K 2K 30Hz Blanco 1.5m",
+      "modelo": "MM121",
+      "sku": "30841",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/MM121-30841.jpg"
+    },
+    {
+      "id": 349,
+      "categoria": "cable usbc/hdmi",
+      "nombre": "Cable Adaptador USB-C a DP 4K Negro 1.5m",
+      "modelo": "MM139",
+      "sku": "50994",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/MM139-50994.jpg"
+    },
+    {
+      "id": 350,
+      "categoria": "cable usbc/hdmi",
+      "nombre": "Cable USB-C a HDMI Macho a Macho con Carcasa de Aluminio Gris/Negro 1.5m",
+      "modelo": "MM142",
+      "sku": "50570",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/MM142-50570.jpg"
+    },
+    {
+      "id": 351,
+      "categoria": "cable usbc/hdmi",
+      "nombre": "Cable USB-C a HDMI 2.1 Thunderbolt 8K 60Hz HDR Negro 1.5m",
+      "modelo": "CM565",
+      "sku": "90451",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM565-90451.jpg"
+    },
+    {
+      "id": 352,
+      "categoria": "cable-hdmi",
+      "nombre": "Cable Plano HDMI 1.5m",
+      "modelo": "ED015",
+      "sku": "50819",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/ED015-50819.jpg"
+    },
+    {
+      "id": 353,
+      "categoria": "cable-hdmi",
+      "nombre": "Cable Plano HDMI 3m",
+      "modelo": "ED015",
+      "sku": "50820",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/ED015-50820.jpg"
+    },
+    {
+      "id": 354,
+      "categoria": "cable-hdmi",
+      "nombre": "Cable Plano HDMI 5m",
+      "modelo": "ED015",
+      "sku": "50821",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/ED015-50821.jpg"
+    },
+    {
+      "id": 355,
+      "categoria": "cable-hdmi",
+      "nombre": "Cable HDMI 2.0 4K Plano HDR Certificado Negro 2m",
+      "modelo": "ED015",
+      "sku": "70159",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/ED015-70159.jpg"
+    },
+    {
+      "id": 356,
+      "categoria": "cable-hdmi",
+      "nombre": "Cable HDMI Premium de Ángulo Recto 90° 4K 60Hz 1m",
+      "modelo": "HD103",
+      "sku": "10172",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/HD103-10172.jpg"
+    },
+    {
+      "id": 357,
+      "categoria": "cable-hdmi",
+      "nombre": "Cable Adaptador HDMI a DVI 24+1 Bidireccional HD 2m",
+      "modelo": "HD106",
+      "sku": "10135",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/HD106-10135.jpg"
+    },
+    {
+      "id": 358,
+      "categoria": "cable-hdmi",
+      "nombre": "Cable HDMI a DVI 2K Macho a Macho Negro 1.5m",
+      "modelo": "HD106",
+      "sku": "11150",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/HD106-11150.jpg"
+    },
+    {
+      "id": 359,
+      "categoria": "cable-hdmi",
+      "nombre": "Cable HDMI 4K Macho a Macho Negro 1m",
+      "modelo": "HD104",
+      "sku": "10106",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/HD104-10106.jpg"
+    },
+    {
+      "id": 360,
+      "categoria": "cable-hdmi",
+      "nombre": "Cable HDMI 4K Macho a Macho Negro 2m",
+      "modelo": "HD104",
+      "sku": "10107",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/HD104-10107.jpg"
+    },
+    {
+      "id": 361,
+      "categoria": "cable-hdmi",
+      "nombre": "Cable HDMI 4K Macho a Macho Negro 3m",
+      "modelo": "HD104",
+      "sku": "10108",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/HD104-10108.jpg"
+    },
+    {
+      "id": 362,
+      "categoria": "cable-hdmi",
+      "nombre": "Cable HDMI 4K Macho a Macho Negro 5m",
+      "modelo": "HD104",
+      "sku": "10109",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/HD104-10109.jpg"
+    },
+    {
+      "id": 363,
+      "categoria": "cable-hdmi",
+      "nombre": "Cable HDMI 4K Macho a Macho Negro 10m",
+      "modelo": "HD104",
+      "sku": "10110",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/HD104-10110.jpg"
+    },
+    {
+      "id": 364,
+      "categoria": "cable-hdmi",
+      "nombre": "Cable HDMI 4K Macho a Macho Negro 15m",
+      "modelo": "HD104",
+      "sku": "10111",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/HD104-10111.jpg"
+    },
+    {
+      "id": 365,
+      "categoria": "cable-hdmi",
+      "nombre": "Cable HDMI 4K Macho a Hembra Negro 1m",
+      "modelo": "HD107",
+      "sku": "10141",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/HD107-10141.jpg"
+    },
+    {
+      "id": 366,
+      "categoria": "cable-hdmi",
+      "nombre": "Cable Extensor HDMI 2.0 Macho a Hembra 1080P 4K Negro 2m",
+      "modelo": "HD107",
+      "sku": "10142",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/HD107-10142.jpg"
+    },
+    {
+      "id": 367,
+      "categoria": "cable-hdmi",
+      "nombre": "Cable Mini HDMI a HDMI Macho a Macho 4K 60Hz 1.5m",
+      "modelo": "HD108",
+      "sku": "11167",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/HD108-11167.jpg"
+    },
+    {
+      "id": 368,
+      "categoria": "cable-hdmi",
+      "nombre": "Cable HDMI 4K Macho a Macho Trenzado 2m",
+      "modelo": "HD119",
+      "sku": "40101",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/HD119-40101.jpg"
+    },
+    {
+      "id": 369,
+      "categoria": "cable-hdmi",
+      "nombre": "Cable HDMI 4K Macho a Macho Trenzado 3m",
+      "modelo": "HD119",
+      "sku": "40102",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/HD119-40102.jpg"
+    },
+    {
+      "id": 370,
+      "categoria": "cable-hdmi",
+      "nombre": "Cable HDMI 4K Macho a Macho Trenzado Negro 5m",
+      "modelo": "HD118",
+      "sku": "40412",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/HD118-40412.jpg"
+    },
+    {
+      "id": 371,
+      "categoria": "cable-hdmi",
+      "nombre": "Cable Adaptador Micro HDMI a HDMI 4K 60Hz 2m",
+      "modelo": "HD127",
+      "sku": "30103",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/HD127-30103.jpg"
     }
   ]
 }
