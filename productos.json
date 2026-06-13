@@ -77,8 +77,8 @@
       "nombre": "Convertidor"
     },
     {
-      "id": "cable-audio",
-      "nombre": "Cable de Audio"
+      "id": "audio",
+      "nombre": "Audio"
     },
     {
       "id": "adaptador-bluetooth",
@@ -115,10 +115,6 @@
     {
       "id": "otros",
       "nombre": "Otros"
-    },
-    {
-      "id": "audio",
-      "nombre": "Audio"
     }
   ],
   "productos": [
