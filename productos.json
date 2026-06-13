@@ -1,0 +1,2066 @@
+{
+  "categorias": [
+    {
+      "id": "localizadores",
+      "nombre": "Localizadores"
+    },
+    {
+      "id": "power-banks",
+      "nombre": "Power Banks"
+    },
+    {
+      "id": "power-bank-inalambrico",
+      "nombre": "Power Bank Inalámbrico Magnético"
+    },
+    {
+      "id": "cargador-inalambrico",
+      "nombre": "Cargador Inalámbrico Magnético"
+    },
+    {
+      "id": "cargador-rapido",
+      "nombre": "Cargador Rápido"
+    },
+    {
+      "id": "cargador-auto",
+      "nombre": "Cargador para Auto"
+    },
+    {
+      "id": "hub-adaptadores",
+      "nombre": "Hub / Adaptadores"
+    },
+    {
+      "id": "cable-lightning",
+      "nombre": "Cable Lightning (iPhones hasta 14)"
+    },
+    {
+      "id": "cable-usba-usbc",
+      "nombre": "Cable USB-A / USB-C Carga Rápida"
+    },
+    {
+      "id": "cable-usbc-usbc",
+      "nombre": "Cable USB-C / USB-C Carga Rápida"
+    },
+    {
+      "id": "cable-microusb",
+      "nombre": "Cable Micro USB"
+    },
+    {
+      "id": "cable-usba-usba",
+      "nombre": "Cable USB-A / USB-A"
+    },
+    {
+      "id": "cable-impresora",
+      "nombre": "Cable de Impresora"
+    },
+    {
+      "id": "cable-microb",
+      "nombre": "Cable Micro B"
+    },
+    {
+      "id": "cable-minipines",
+      "nombre": "Cable Mini Pines"
+    },
+    {
+      "id": "cable-usbc-hdmi",
+      "nombre": "Cable USB-C / HDMI"
+    },
+    {
+      "id": "cable-hdmi",
+      "nombre": "Cable HDMI"
+    },
+    {
+      "id": "cable-displayport",
+      "nombre": "Cable DisplayPort"
+    },
+    {
+      "id": "convertidor",
+      "nombre": "Convertidor"
+    },
+    {
+      "id": "cable-audio",
+      "nombre": "Cable de Audio"
+    },
+    {
+      "id": "adaptador-bluetooth",
+      "nombre": "Adaptador Bluetooth"
+    },
+    {
+      "id": "adaptador-ethernet",
+      "nombre": "Adaptador Ethernet"
+    },
+    {
+      "id": "auriculares",
+      "nombre": "Auriculares Inalámbricos"
+    },
+    {
+      "id": "mouse-teclados",
+      "nombre": "Mouse y Teclados Inalámbricos"
+    },
+    {
+      "id": "caja-disco",
+      "nombre": "Caja Disco Duro / Sólido"
+    },
+    {
+      "id": "lector-memorias",
+      "nombre": "Lector de Memorias"
+    },
+    {
+      "id": "soportes",
+      "nombre": "Soportes para Teléfono / Notebook"
+    },
+    {
+      "id": "fundas-estuches",
+      "nombre": "Fundas y Estuches"
+    },
+    {
+      "id": "otros",
+      "nombre": "Otros"
+    },
+    {
+      "id": "audio",
+      "nombre": "Audio"
+    }
+  ],
+  "productos": [
+    {
+      "id": 1,
+      "categoria": "localizadores",
+      "nombre": "Ugreen Tag Localizador para iPhone",
+      "modelo": "CM816",
+      "sku": "45297",
+      "descripcion": "UGREEN CM816 FineTrack Smart Finder. Localizador inteligente Bluetooth gris. Compatible con Apple Find My (solo iOS). Posicionamiento global mediante red Apple Find My. Batería CR2032 reemplazable con autonomía hasta 2 años. Alarma sonora integrada de 80 dB. Recordatorio de objetos olvidados. Certificación UL4200A (seguridad infantil).",
+      "foto": "fotos/CM816.png",
+      "precio": ""
+    },
+    {
+      "id": 2,
+      "categoria": "localizadores",
+      "nombre": "Localizador Tarjeta Fine Track",
+      "modelo": "CM817",
+      "sku": "45298",
+      "descripcion": "UGREEN CM817 FineTrack Ultra-Slim Smart Finder recargable. Compatible con Apple Find My (solo iOS). Diseño ultra delgado tipo tarjeta para billetera. Batería recargable integrada con autonomía hasta 12 meses aprox. Carga magnética. Posicionamiento global mediante red Apple Find My. Alarma sonora integrada. Recordatorio de objetos olvidados. Resistente al agua (waterproof).",
+      "foto": "fotos/CM817.png",
+      "precio": ""
+    },
+    {
+      "id": 3,
+      "categoria": "power-banks",
+      "nombre": "Power Bank con Conector USB-C Integrado 5.000 mAh Gris",
+      "modelo": "PB503",
+      "sku": "35338",
+      "descripcion": "",
+      "foto": "fotos/PB503.png",
+      "precio": ""
+    },
+    {
+      "id": 4,
+      "categoria": "power-banks",
+      "nombre": "Power Bank Carga Rápida Bidireccional 10.000 mAh 20W Black",
+      "modelo": "PB311",
+      "sku": "25742",
+      "descripcion": "",
+      "foto": "fotos/PB311.png",
+      "precio": ""
+    },
+    {
+      "id": 5,
+      "categoria": "power-banks",
+      "nombre": "Power Bank Carga Rápida Bidireccional 20.000 mAh 20W Gris",
+      "modelo": "PB312",
+      "sku": "25683",
+      "descripcion": "",
+      "foto": "fotos/PB312.png",
+      "precio": ""
+    },
+    {
+      "id": 6,
+      "categoria": "power-banks",
+      "nombre": "Power Bank Carga Rápida Bidireccional 10.000 mAh 30W Gris",
+      "modelo": "PB502",
+      "sku": "25185",
+      "descripcion": "",
+      "foto": "fotos/PB502.png",
+      "precio": ""
+    },
+    {
+      "id": 7,
+      "categoria": "power-banks",
+      "nombre": "Power Bank 20.000 mAh c/Cable Incorporado 20W Blanco",
+      "modelo": "PB505",
+      "sku": "35340",
+      "descripcion": "",
+      "foto": "fotos/PB505.png",
+      "precio": ""
+    },
+    {
+      "id": 8,
+      "categoria": "power-banks",
+      "nombre": "Power Bank 10.000 mAh con Cable Incorporado Purple",
+      "modelo": "PB511",
+      "sku": "35604",
+      "descripcion": "",
+      "foto": "fotos/PB511.png",
+      "precio": ""
+    },
+    {
+      "id": 9,
+      "categoria": "power-banks",
+      "nombre": "Power Bank Carga Rápida Bidireccional 20.000 mAh 100W Gris",
+      "modelo": "PB720",
+      "sku": "25188",
+      "descripcion": "",
+      "foto": "fotos/PB720.png",
+      "precio": ""
+    },
+    {
+      "id": 10,
+      "categoria": "power-banks",
+      "nombre": "Power Bank Carga Rápida 12.000 mAh 100W Gris/Negro",
+      "modelo": "PB724",
+      "sku": "35526",
+      "descripcion": "",
+      "foto": "fotos/PB724.png",
+      "precio": ""
+    },
+    {
+      "id": 11,
+      "categoria": "power-banks",
+      "nombre": "Power Bank Carga Rápida 20.000 mAh 130W Gris",
+      "modelo": "PB721",
+      "sku": "35524",
+      "descripcion": "",
+      "foto": "fotos/PB721.png",
+      "precio": ""
+    },
+    {
+      "id": 12,
+      "categoria": "power-banks",
+      "nombre": "Power Bank Carga Rápida 25.000 mAh 200W Gris",
+      "modelo": "PB722",
+      "sku": "35525B",
+      "descripcion": "",
+      "foto": "fotos/PB722.png",
+      "precio": ""
+    },
+    {
+      "id": 13,
+      "categoria": "power-banks",
+      "nombre": "Power Bank Carga Rápida 48.000 mAh 300W Gris/Negro",
+      "modelo": "PB770",
+      "sku": "25286",
+      "descripcion": "",
+      "foto": "fotos/PB770.png",
+      "precio": ""
+    },
+    {
+      "id": 14,
+      "categoria": "power-bank-inalambrico",
+      "nombre": "Power Bank Inalámbrico Magnético 5.000 mAh Gris",
+      "modelo": "PB571",
+      "sku": "35605",
+      "descripcion": "",
+      "foto": "fotos/PB571-gris.png",
+      "precio": ""
+    },
+    {
+      "id": 15,
+      "categoria": "power-bank-inalambrico",
+      "nombre": "Power Bank Inalámbrico Magnético 5.000 mAh Morado",
+      "modelo": "PB571",
+      "sku": "35606",
+      "descripcion": "",
+      "foto": "fotos/PB571-morado.png",
+      "precio": ""
+    },
+    {
+      "id": 16,
+      "categoria": "power-bank-inalambrico",
+      "nombre": "Power Bank Inalámbrico Magnético 10.000 mAh Gris",
+      "modelo": "PB572-1",
+      "sku": "45327",
+      "descripcion": "",
+      "foto": "fotos/PB572-1-gris.png",
+      "precio": ""
+    },
+    {
+      "id": 17,
+      "categoria": "power-bank-inalambrico",
+      "nombre": "Power Bank Inalámbrico Magnético 10.000 mAh Morado",
+      "modelo": "PB572-1",
+      "sku": "45328",
+      "descripcion": "",
+      "foto": "fotos/PB572-1-morado.png",
+      "precio": ""
+    },
+    {
+      "id": 18,
+      "categoria": "power-bank-inalambrico",
+      "nombre": "Power Bank Inalámbrico Magnético 5.000 mAh 20W Blanco",
+      "modelo": "PB560",
+      "sku": "25207",
+      "descripcion": "",
+      "foto": "fotos/PB560.png",
+      "precio": ""
+    },
+    {
+      "id": 19,
+      "categoria": "power-bank-inalambrico",
+      "nombre": "Power Bank Inalámbrico Magnético 10.000 mAh Space Gray",
+      "modelo": "PB561",
+      "sku": "25919",
+      "descripcion": "",
+      "foto": "fotos/PB561-spacegray.png",
+      "precio": ""
+    },
+    {
+      "id": 20,
+      "categoria": "power-bank-inalambrico",
+      "nombre": "Power Bank Inalámbrico Magnético 10.000 mAh 20W Blanco",
+      "modelo": "PB561",
+      "sku": "25208",
+      "descripcion": "",
+      "foto": "fotos/PB561-blanco.png",
+      "precio": ""
+    },
+    {
+      "id": 21,
+      "categoria": "power-bank-inalambrico",
+      "nombre": "Power Bank Inalámbrico Magnético 10.000 mAh 30W Gris",
+      "modelo": "PB761",
+      "sku": "45763",
+      "descripcion": "",
+      "foto": "fotos/PB761.png",
+      "precio": ""
+    },
+    {
+      "id": 22,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Rápido USB-C 20W AU",
+      "modelo": "CD241",
+      "sku": "40394",
+      "descripcion": "",
+      "foto": "fotos/CD241.png",
+      "precio": ""
+    },
+    {
+      "id": 23,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Rápido 2 Puertos 20W AU Pack 2",
+      "modelo": "X227",
+      "sku": "55400",
+      "descripcion": "",
+      "foto": "fotos/X227-55400.png",
+      "precio": ""
+    },
+    {
+      "id": 24,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Rápido 2 Puertos 20W AU Pack 2 con 2 Cables",
+      "modelo": "X227",
+      "sku": "55999",
+      "descripcion": "",
+      "foto": "fotos/X227-55999.png",
+      "precio": ""
+    },
+    {
+      "id": 25,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador USB-C 30W Nexode Robot Carga Rápida GaN",
+      "modelo": "CD359",
+      "sku": "15550",
+      "descripcion": "",
+      "foto": "fotos/CD359.png",
+      "precio": ""
+    },
+    {
+      "id": 26,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Rápido Nexode GaN 35W 2 Puertos AU",
+      "modelo": "CD350",
+      "sku": "65022",
+      "descripcion": "",
+      "foto": "fotos/CD350.png",
+      "precio": ""
+    },
+    {
+      "id": 27,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Rápido GaN 45W 3 Puertos AU",
+      "modelo": "X527",
+      "sku": "65630",
+      "descripcion": "",
+      "foto": "fotos/X527.png",
+      "precio": ""
+    },
+    {
+      "id": 28,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Rápido Nexode 65W 3 Puertos GaN Gris",
+      "modelo": "CD244",
+      "sku": "65023",
+      "descripcion": "",
+      "foto": "fotos/CD244.png",
+      "precio": ""
+    },
+    {
+      "id": 29,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Rápido Nexode 65W 3 Puertos GaN Gris",
+      "modelo": "X553",
+      "sku": "65632",
+      "descripcion": "",
+      "foto": "fotos/X553.png",
+      "precio": ""
+    },
+    {
+      "id": 30,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Rápido Nexode 65W 4 Puertos GaN Gris",
+      "modelo": "X559",
+      "sku": "65026",
+      "descripcion": "",
+      "foto": "fotos/X559.png",
+      "precio": ""
+    },
+    {
+      "id": 31,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Rápido Nexode GaN 65W 3 Puertos AU",
+      "modelo": "CD361",
+      "sku": "65631",
+      "descripcion": "",
+      "foto": "fotos/CD361-65631.png",
+      "precio": ""
+    },
+    {
+      "id": 32,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Rápido Nexode GaN 65W 3 Puertos Lila",
+      "modelo": "CD361",
+      "sku": "35314",
+      "descripcion": "",
+      "foto": "fotos/CD361-lila.png",
+      "precio": ""
+    },
+    {
+      "id": 33,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador USB-C Nexode 65W GaN 4 Puertos Carga Rápida Plateado",
+      "modelo": "CD327",
+      "sku": "90735",
+      "descripcion": "",
+      "foto": "fotos/CD327.png",
+      "precio": ""
+    },
+    {
+      "id": 34,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Rápido Nexode Pro 65W 3 Puertos GaN Gris",
+      "modelo": "X753",
+      "sku": "65002",
+      "descripcion": "",
+      "foto": "fotos/X753.png",
+      "precio": ""
+    },
+    {
+      "id": 35,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Rápido Nexode 100W 4 Puertos GaN Gris",
+      "modelo": "X565",
+      "sku": "65633",
+      "descripcion": "",
+      "foto": "fotos/X565.png",
+      "precio": ""
+    },
+    {
+      "id": 36,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Rápido Nexode Robot 100W USB-C Negro US",
+      "modelo": "X688",
+      "sku": "45514B",
+      "descripcion": "",
+      "foto": "fotos/X688.png",
+      "precio": ""
+    },
+    {
+      "id": 37,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Rápido Nexode 100W 4 Puertos PD y GaN",
+      "modelo": "CD328",
+      "sku": "15613",
+      "descripcion": "",
+      "foto": "fotos/CD328-15613.png",
+      "precio": ""
+    },
+    {
+      "id": 38,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Premium 4 en 1 USB-C Aluminio 100W GaN EU Gris",
+      "modelo": "CD328",
+      "sku": "90928",
+      "descripcion": "",
+      "foto": "fotos/CD328-90928.png",
+      "precio": ""
+    },
+    {
+      "id": 39,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Rápido Nexode 200W 6 Puertos GaN Gris AU",
+      "modelo": "CD271",
+      "sku": "35044",
+      "descripcion": "",
+      "foto": "fotos/CD271-35044.png",
+      "precio": ""
+    },
+    {
+      "id": 40,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador Premium 6 en 1 USB-C USB-A Aluminio 200W Negro",
+      "modelo": "CD271",
+      "sku": "40914",
+      "descripcion": "",
+      "foto": "fotos/CD271-40914.png",
+      "precio": ""
+    },
+    {
+      "id": 41,
+      "categoria": "cargador-rapido",
+      "nombre": "Cargador de Escritorio GaN 300W USB-C Carga Rápida Gris",
+      "modelo": "CD333",
+      "sku": "90903B",
+      "descripcion": "",
+      "foto": "fotos/CD333.png",
+      "precio": ""
+    },
+    {
+      "id": 42,
+      "categoria": "cargador-inalambrico",
+      "nombre": "Cargador Inalámbrico Magnético iPhone MagSafe 15W Blanco",
+      "modelo": "W703",
+      "sku": "35565",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/W703.png"
+    },
+    {
+      "id": 43,
+      "categoria": "cargador-inalambrico",
+      "nombre": "Cargador Inalámbrico 2 en 1 iPhone + AirPods Negro",
+      "modelo": "CD317",
+      "sku": "90668",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CD317.png"
+    },
+    {
+      "id": 43,
+      "categoria": "cargador-inalambrico",
+      "nombre": "Cargador Inalámbrico 2 en 1 iPhone + AirPods Negro",
+      "modelo": "CD317",
+      "sku": "90668",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CD317.png"
+    },
+    {
+      "id": 44,
+      "categoria": "cargador-inalambrico",
+      "nombre": "Cargador Magnético 2 en 1 iPhone + AirPods 7.5W",
+      "modelo": "W526",
+      "sku": "25870",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/W526.png"
+    },
+    {
+      "id": 45,
+      "categoria": "cargador-inalambrico",
+      "nombre": "Cargador Magnético 2 en 1 iPhone + AirPods Qi2 15W Gris",
+      "modelo": "W702",
+      "sku": "25869",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/W702.png"
+    },
+    {
+      "id": 46,
+      "categoria": "cargador-inalambrico",
+      "nombre": "Cargador Inalámbrico Magnético iPhone + AirPods 15W Gris",
+      "modelo": "W709",
+      "sku": "45775",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/W709.png"
+    },
+    {
+      "id": 47,
+      "categoria": "cargador-inalambrico",
+      "nombre": "Cargador Magnético 2 en 1 iPhone + AirPods 15W Gris",
+      "modelo": "W706",
+      "sku": "45023",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/W706.png"
+    },
+    {
+      "id": 48,
+      "categoria": "cargador-inalambrico",
+      "nombre": "Cargador Inalámbrico 3 en 1 iPhone + AirPods + Smartwatch",
+      "modelo": "CD278",
+      "sku": "90326",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CD278.png"
+    },
+    {
+      "id": 49,
+      "categoria": "cargador-auto",
+      "nombre": "Cargador Auto Carga Rápida USB-A 5V 2.4A Doble Puerto Negro",
+      "modelo": "ED018",
+      "sku": "50875",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/ED018.png"
+    },
+    {
+      "id": 50,
+      "categoria": "cargador-auto",
+      "nombre": "Cargador Rápido Auto 2 Puertos 30W Negro",
+      "modelo": "EC305",
+      "sku": "25845",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/EC305.png"
+    },
+    {
+      "id": 51,
+      "categoria": "cargador-auto",
+      "nombre": "Cargador Auto Doble Puerto A+C PD30W + SCP22.5W",
+      "modelo": "CD130",
+      "sku": "40858",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CD130.png"
+    },
+    {
+      "id": 52,
+      "categoria": "cargador-auto",
+      "nombre": "Cargador Rápido Auto 2 Puertos 63W",
+      "modelo": "EC701",
+      "sku": "35023",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/EC701.png"
+    },
+    {
+      "id": 53,
+      "categoria": "cargador-auto",
+      "nombre": "Cargador Auto Doble Puerto USB-A Carga Rápida 3.0 36W Azul",
+      "modelo": "CD213",
+      "sku": "10144",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CD213-10144.png"
+    },
+    {
+      "id": 54,
+      "categoria": "cargador-auto",
+      "nombre": "Cargador Rápido Auto 2 Puertos Plateado",
+      "modelo": "CD213",
+      "sku": "60980",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CD213-60980.png"
+    },
+    {
+      "id": 55,
+      "categoria": "cargador-auto",
+      "nombre": "Cargador Auto Doble Puerto USB-C Carga Rápida 50W Plateado",
+      "modelo": "CD213",
+      "sku": "70594",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CD213-70594.png"
+    },
+    {
+      "id": 56,
+      "categoria": "cargador-auto",
+      "nombre": "Cargador Rápido Auto 3 Puertos 75W",
+      "modelo": "EC703",
+      "sku": "35024",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/EC703.png"
+    },
+    {
+      "id": 57,
+      "categoria": "cargador-auto",
+      "nombre": "Cargador Rápido Auto 2 Puertos con Cable Incorporado 75W",
+      "modelo": "EC601",
+      "sku": "55653",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/EC601.png"
+    },
+    {
+      "id": 58,
+      "categoria": "cargador-auto",
+      "nombre": "Cargador Rápido Auto GaN 4 Puertos 150W",
+      "modelo": "EC706",
+      "sku": "35571",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/EC706.png"
+    },
+    {
+      "id": 59,
+      "categoria": "hub-adaptadores",
+      "nombre": "Concentrador USB 2.0 de 4 Puertos 1M Negro",
+      "modelo": "CR106",
+      "sku": "20277",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CR106.png"
+    },
+    {
+      "id": 60,
+      "categoria": "hub-adaptadores",
+      "nombre": "Adaptador USB-C a HDMI",
+      "modelo": "CM297",
+      "sku": "70444",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM297.png"
+    },
+    {
+      "id": 61,
+      "categoria": "hub-adaptadores",
+      "nombre": "Conmutador HDMI 3 Entradas y 1 Salida 4K 30Hz",
+      "modelo": "CM332",
+      "sku": "80125",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM332.png"
+    },
+    {
+      "id": 62,
+      "categoria": "hub-adaptadores",
+      "nombre": "Switch HDMI 2.0 4K@60Hz 2 In 1 Out Negro",
+      "modelo": "CM333",
+      "sku": "80126",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM333.png"
+    },
+    {
+      "id": 63,
+      "categoria": "hub-adaptadores",
+      "nombre": "Adaptador 2 en 1 USB-C Macho a HDMI y VGA Hembra",
+      "modelo": "CM162",
+      "sku": "50505",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM162.png"
+    },
+    {
+      "id": 64,
+      "categoria": "hub-adaptadores",
+      "nombre": "Conmutador HDMI 2 en 1 4K 60Hz",
+      "modelo": "CM217",
+      "sku": "50966",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM217.png"
+    },
+    {
+      "id": 65,
+      "categoria": "hub-adaptadores",
+      "nombre": "Switch DisplayPort Splitter Bidireccional 2x1 4K 60Hz",
+      "modelo": "CM430",
+      "sku": "60622",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM430.png"
+    },
+    {
+      "id": 66,
+      "categoria": "hub-adaptadores",
+      "nombre": "Multipuerto Adaptador USB-A a USB 2.0 x3 y RJ45 100Mbps",
+      "modelo": "CM416",
+      "sku": "20984",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM416.png"
+    },
+    {
+      "id": 67,
+      "categoria": "hub-adaptadores",
+      "nombre": "Adaptador USB 3.0 de 4 Puertos",
+      "modelo": "CM219",
+      "sku": "25851",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM219-25851.png"
+    },
+    {
+      "id": 68,
+      "categoria": "hub-adaptadores",
+      "nombre": "Concentrador USB 3.0 4 Puertos con Fuente Alimentación USB-C",
+      "modelo": "CM219",
+      "sku": "70336",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM219-70336.png"
+    },
+    {
+      "id": 69,
+      "categoria": "hub-adaptadores",
+      "nombre": "Concentrador USB 3.0 4 Puertos y Micro USB con Fuente Alimentación USB-A",
+      "modelo": "CM219",
+      "sku": "50985",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM219-50985.png"
+    },
+    {
+      "id": 70,
+      "categoria": "hub-adaptadores",
+      "nombre": "Concentrador USB-A 4 Puertos Gris",
+      "modelo": "CM653",
+      "sku": "15548",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM653.png"
+    },
+    {
+      "id": 71,
+      "categoria": "hub-adaptadores",
+      "nombre": "Adaptador USB 3.2 Gen 2 de 4 Puertos",
+      "modelo": "CM806",
+      "sku": "35583",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM806.png"
+    },
+    {
+      "id": 72,
+      "categoria": "hub-adaptadores",
+      "nombre": "Concentrador USB 3.0 con Puerto USB-C 1M Negro",
+      "modelo": "CR113",
+      "sku": "40850",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CR113.png"
+    },
+    {
+      "id": 73,
+      "categoria": "hub-adaptadores",
+      "nombre": "Hub Multipuerto 4 en 1 USB-C 5Gbps 3.0 Plateado",
+      "modelo": "CM473",
+      "sku": "15395",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM473-15395.png"
+    },
+    {
+      "id": 74,
+      "categoria": "hub-adaptadores",
+      "nombre": "Hub Multipuerto USB-A a USB 3.0 x4 USB-C Aluminio",
+      "modelo": "CM473",
+      "sku": "20805",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM473-20805.png"
+    },
+    {
+      "id": 75,
+      "categoria": "hub-adaptadores",
+      "nombre": "Hub Multipuerto 4 en 1 USB-C a USB 3.0 x4 Aluminio",
+      "modelo": "CM473",
+      "sku": "20841",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM473-20841.png"
+    },
+    {
+      "id": 76,
+      "categoria": "hub-adaptadores",
+      "nombre": "Adaptador USB-C a 3x USB 3.0 + Ethernet RJ45 Gigabit",
+      "modelo": "CM475",
+      "sku": "60600",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM475.png"
+    },
+    {
+      "id": 77,
+      "categoria": "hub-adaptadores",
+      "nombre": "Caja Switch USB 3.0 2 Entradas 4 Salidas con 2 Cables",
+      "modelo": "US216",
+      "sku": "30767",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US216-30767.png"
+    },
+    {
+      "id": 78,
+      "categoria": "hub-adaptadores",
+      "nombre": "Caja Switch USB 3.0 2 Entradas 4 Salidas",
+      "modelo": "US216",
+      "sku": "30768",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US216-30768.png"
+    },
+    {
+      "id": 79,
+      "categoria": "hub-adaptadores",
+      "nombre": "Adaptador Multifunción USB-C",
+      "modelo": "CM511",
+      "sku": "15596",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM511-15596.png"
+    },
+    {
+      "id": 80,
+      "categoria": "hub-adaptadores",
+      "nombre": "Concentrador USB-C 5 en 1",
+      "modelo": "CM478",
+      "sku": "35581",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM478-35581.png"
+    },
+    {
+      "id": 81,
+      "categoria": "hub-adaptadores",
+      "nombre": "Adaptador 5 en 1 Multifunción USB-C",
+      "modelo": "CM478",
+      "sku": "15495",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM478-15495.png"
+    },
+    {
+      "id": 82,
+      "categoria": "hub-adaptadores",
+      "nombre": "Adaptador Dual Multifunción USB-C",
+      "modelo": "CM380",
+      "sku": "80856",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM380.png"
+    },
+    {
+      "id": 83,
+      "categoria": "hub-adaptadores",
+      "nombre": "Hub Adaptador Multipuerto USB-C a USB 3.0 y HDMI Plateado",
+      "modelo": "CM500",
+      "sku": "50629",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM500.png"
+    },
+    {
+      "id": 84,
+      "categoria": "hub-adaptadores",
+      "nombre": "Concentrador USB-C 6 en 1",
+      "modelo": "CM511",
+      "sku": "35999",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM511-35999.png"
+    },
+    {
+      "id": 85,
+      "categoria": "hub-adaptadores",
+      "nombre": "Hub Multipuerto USB-C 6 en 1 HDMI 4K@60Hz Lectora SD Gris",
+      "modelo": "CM511",
+      "sku": "60383",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM511-60383.png"
+    },
+    {
+      "id": 86,
+      "categoria": "hub-adaptadores",
+      "nombre": "Adaptador Multifuncional USB-C a HDMI + 3 USB 3.0 A + Tipo C Hembra Gris",
+      "modelo": "CM251",
+      "sku": "60559",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM251-60559.jpg"
+    },
+    {
+      "id": 87,
+      "categoria": "hub-adaptadores",
+      "nombre": "Adaptador Multifunción USB-C",
+      "modelo": "CM512",
+      "sku": "15598",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM512-15598.jpg"
+    },
+    {
+      "id": 88,
+      "categoria": "hub-adaptadores",
+      "nombre": "Adaptador Multifunción USB-C",
+      "modelo": "CM512",
+      "sku": "45320",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM512-45320.jpg"
+    },
+    {
+      "id": 89,
+      "categoria": "hub-adaptadores",
+      "nombre": "Adaptador Multifunción USB-C",
+      "modelo": "CM511",
+      "sku": "20956A",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM511-20956A.jpg"
+    },
+    {
+      "id": 90,
+      "categoria": "hub-adaptadores",
+      "nombre": "Base de Expansión Multifunción USB-C a HDMI + 2 USB 3.2 A + 2 USB 3.2 C + PD",
+      "modelo": "CM888",
+      "sku": "35998",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM888-35998.jpg"
+    },
+    {
+      "id": 91,
+      "categoria": "hub-adaptadores",
+      "nombre": "Adaptador Multifunción USB-C",
+      "modelo": "CM195",
+      "sku": "15214",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM195-15214.jpg"
+    },
+    {
+      "id": 92,
+      "categoria": "hub-adaptadores",
+      "nombre": "Hub Multipuerto 6 en 1 HDMI 4K - USB 3.0 x3 - SD - TF Plateado",
+      "modelo": "CM195",
+      "sku": "70410",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM195-70410.jpg"
+    },
+    {
+      "id": 93,
+      "categoria": "hub-adaptadores",
+      "nombre": "Hub Multipuerto USB-C 6 en 1 PD HDMI USB 3.0 4K SD TF",
+      "modelo": "CM195",
+      "sku": "70411",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM195-70411.jpg"
+    },
+    {
+      "id": 94,
+      "categoria": "hub-adaptadores",
+      "nombre": "Adaptador Multifunción USB-C",
+      "modelo": "CM639",
+      "sku": "15534",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM639-15534.jpg"
+    },
+    {
+      "id": 95,
+      "categoria": "hub-adaptadores",
+      "nombre": "Adaptador Multifunción USB-C con Interfaz Ethernet",
+      "modelo": "CM512",
+      "sku": "60515",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM512-60515.jpg"
+    },
+    {
+      "id": 96,
+      "categoria": "hub-adaptadores",
+      "nombre": "Adaptador USB-C a 2x USB 3.0 + HDMI + RJ45 Ethernet + PD",
+      "modelo": "CM418",
+      "sku": "10919",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM418-10919.jpg"
+    },
+    {
+      "id": 97,
+      "categoria": "hub-adaptadores",
+      "nombre": "Adaptador Multifunción USB-C a 3x USB 3.0 A + HDMI + VGA + RJ45 Gigabit + SD/TF + PD",
+      "modelo": "CM498",
+      "sku": "15600",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM498-15600.jpg"
+    },
+    {
+      "id": 98,
+      "categoria": "hub-adaptadores",
+      "nombre": "Adaptador Multifunción USB-C a 3x USB 3.0 A + HDMI + VGA + RJ45 Gigabit + SD/TF + AUX 3.5mm + PD",
+      "modelo": "CM498",
+      "sku": "15601",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM498-15601.jpg"
+    },
+    {
+      "id": 99,
+      "categoria": "hub-adaptadores",
+      "nombre": "Hub Multipuerto 4x USB-A 3.0 + Red RJ45 Gigabit",
+      "modelo": "20265",
+      "sku": "20265",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/20265-20265.jpg"
+    },
+    {
+      "id": 100,
+      "categoria": "hub-adaptadores",
+      "nombre": "Hub Multipuerto 8 en 1 USB-C a HDMI 4K@60Hz USB 10Gbps Gris Oscuro",
+      "modelo": "CM639",
+      "sku": "35625",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM639-35625.jpg"
+    },
+    {
+      "id": 101,
+      "categoria": "hub-adaptadores",
+      "nombre": "Hub Switch Conmutador 2 PC Compartir 4 Puertos USB Negro",
+      "modelo": "CM662",
+      "sku": "15705",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM662-15705.jpg"
+    },
+    {
+      "id": 102,
+      "categoria": "hub-adaptadores",
+      "nombre": "Base de Expansión Multifunción",
+      "modelo": "CM664",
+      "sku": "15707",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM664-15707.jpg"
+    },
+    {
+      "id": 103,
+      "categoria": "hub-adaptadores",
+      "nombre": "Base de Expansión Multifunción 8 en 1 GaN",
+      "modelo": "U708",
+      "sku": "25053",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/U708-25053.jpg"
+    },
+    {
+      "id": 104,
+      "categoria": "hub-adaptadores",
+      "nombre": "Base de Expansión Multifunción",
+      "modelo": "CM555",
+      "sku": "90325",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM555-90325.jpg"
+    },
+    {
+      "id": 105,
+      "categoria": "adaptador-bluetooth",
+      "nombre": "Adaptador Bluetooth 5.0",
+      "modelo": "CM390",
+      "sku": "80889",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM390-80889.jpg"
+    },
+    {
+      "id": 106,
+      "categoria": "adaptador-bluetooth",
+      "nombre": "Adaptador Bluetooth",
+      "modelo": "CM591",
+      "sku": "35995",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM591-35995.jpg"
+    },
+    {
+      "id": 107,
+      "categoria": "adaptador-bluetooth",
+      "nombre": "Adaptador Bluetooth",
+      "modelo": "CM591",
+      "sku": "90225",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM591-90225.jpg"
+    },
+    {
+      "id": 108,
+      "categoria": "adaptador-bluetooth",
+      "nombre": "Adaptador Bluetooth",
+      "modelo": "CM748",
+      "sku": "35058",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM748-35058.jpg"
+    },
+    {
+      "id": 109,
+      "categoria": "adaptador-bluetooth",
+      "nombre": "Adaptador Bluetooth",
+      "modelo": "CM748",
+      "sku": "45134",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM748-45134.jpg"
+    },
+    {
+      "id": 110,
+      "categoria": "adaptador-ethernet",
+      "nombre": "Adaptador Ethernet USB 2.0 de 10/100 Mbps Negro",
+      "modelo": "CR110",
+      "sku": "20254",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CR110-20254.jpg"
+    },
+    {
+      "id": 111,
+      "categoria": "adaptador-ethernet",
+      "nombre": "Adaptador Ethernet Gigabit USB 3.0 Negro",
+      "modelo": "CR111",
+      "sku": "20256",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CR111-20256.jpg"
+    },
+    {
+      "id": 112,
+      "categoria": "adaptador-ethernet",
+      "nombre": "Adaptador Ethernet USB a RJ45 con Carcasa de Aluminio Gris",
+      "modelo": "CM209",
+      "sku": "50922",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM209-50922.jpg"
+    },
+    {
+      "id": 113,
+      "categoria": "adaptador-ethernet",
+      "nombre": "Adaptador USB Tipo C a Ethernet 10/100/1000M Gris",
+      "modelo": "CM199",
+      "sku": "50737",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM199-50737.jpg"
+    },
+    {
+      "id": 114,
+      "categoria": "adaptador-ethernet",
+      "nombre": "Adaptador Ethernet USB-A a RJ45 2.5G",
+      "modelo": "CM648",
+      "sku": "25051",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM648-25051.jpg"
+    },
+    {
+      "id": 115,
+      "categoria": "adaptador-ethernet",
+      "nombre": "Receptor WiFi Adaptador Placa de Red 2.4G 5G Dual Band",
+      "modelo": "CM448",
+      "sku": "20204",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM448-20204.jpg"
+    },
+    {
+      "id": 116,
+      "categoria": "adaptador-ethernet",
+      "nombre": "Receptor 3.0 Wi-Fi Dual Band 2.4GHz y 5G USB-A para PC",
+      "modelo": "CM499",
+      "sku": "90340",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM499-90340.jpg"
+    },
+    {
+      "id": 117,
+      "categoria": "adaptador-ethernet",
+      "nombre": "Receptor Wi-Fi Dual Band 2.4GHz y 5G USB-A para PC",
+      "modelo": "CM496",
+      "sku": "90339",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM496-90339.jpg"
+    },
+    {
+      "id": 118,
+      "categoria": "adaptador-ethernet",
+      "nombre": "Receptor Wi-Fi Dual Band Wi-Fi 6 AX900 2.4GHz y 5G USB-A para PC",
+      "modelo": "CM763",
+      "sku": "35265",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM763-35265.jpg"
+    },
+    {
+      "id": 119,
+      "categoria": "lector-memorias",
+      "nombre": "Lector de Tarjetas Dual USB 3.0 a TF + SD Negro",
+      "modelo": "CM104",
+      "sku": "40752",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM104-40752.jpg"
+    },
+    {
+      "id": 120,
+      "categoria": "lector-memorias",
+      "nombre": "Lector de Tarjetas Dual USB 3.0 a TF + SD Blanco",
+      "modelo": "CM104",
+      "sku": "40753",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM104-40753.jpg"
+    },
+    {
+      "id": 121,
+      "categoria": "lector-memorias",
+      "nombre": "Lector de Tarjetas USB 3.0 TF + SD",
+      "modelo": "CR127",
+      "sku": "20250",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CR127-20250.jpg"
+    },
+    {
+      "id": 122,
+      "categoria": "lector-memorias",
+      "nombre": "Lector de Tarjetas Multifunción Negro",
+      "modelo": "CM304",
+      "sku": "80191",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM304-80191.jpg"
+    },
+    {
+      "id": 123,
+      "categoria": "lector-memorias",
+      "nombre": "Lector de Tarjetas Multifunción Negro",
+      "modelo": "CM264",
+      "sku": "60722",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM264-60722.jpg"
+    },
+    {
+      "id": 124,
+      "categoria": "lector-memorias",
+      "nombre": "Lector de Tarjetas USB-C 2 en 1",
+      "modelo": "CM265",
+      "sku": "35622",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM265-35622.jpg"
+    },
+    {
+      "id": 125,
+      "categoria": "lector-memorias",
+      "nombre": "Lector de Tarjetas 4 en 1 USB 3.0 Micro SD MS CF TF Gris",
+      "modelo": "CM180",
+      "sku": "50541",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM180-50541.jpg"
+    },
+    {
+      "id": 126,
+      "categoria": "lector-memorias",
+      "nombre": "Lector de Tarjetas USB-C / USB-A",
+      "modelo": "CM185",
+      "sku": "50706",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM185-50706.jpg"
+    },
+    {
+      "id": 127,
+      "categoria": "lector-memorias",
+      "nombre": "Lector de Tarjetas USB 3.0 50cm",
+      "modelo": "CR125",
+      "sku": "30333",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CR125-30333.jpg"
+    },
+    {
+      "id": 128,
+      "categoria": "lector-memorias",
+      "nombre": "Lectora de Tarjeta USB-A y USB-C SD y Micro UHS-II Negro",
+      "modelo": "CM803",
+      "sku": "65024",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM803-65024.jpg"
+    },
+    {
+      "id": 129,
+      "categoria": "mouse-teclados",
+      "nombre": "Mouse Inalámbrico USB 4000 DPI 2.4 GHz Ergonómico Negro",
+      "modelo": "MU006",
+      "sku": "25753",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/MU006-25753.jpg"
+    },
+    {
+      "id": 130,
+      "categoria": "mouse-teclados",
+      "nombre": "Mouse Inalámbrico USB 4000 DPI 2.4 GHz Ergonómico Negro",
+      "modelo": "MU006",
+      "sku": "15063",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/MU006-15063.jpg"
+    },
+    {
+      "id": 131,
+      "categoria": "mouse-teclados",
+      "nombre": "Mouse Inalámbrico USB 2.4GHz 4000 DPI Ergonómico Azul",
+      "modelo": "MU006",
+      "sku": "15064",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/MU006-15064.jpg"
+    },
+    {
+      "id": 132,
+      "categoria": "mouse-teclados",
+      "nombre": "Mouse Wireless Ergonómico 2.4G y 4000 DPI con Diseño Silencioso",
+      "modelo": "MU006",
+      "sku": "90545",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/MU006-90545.jpg"
+    },
+    {
+      "id": 133,
+      "categoria": "mouse-teclados",
+      "nombre": "Mouse Inalámbrico Bluetooth 2.4G Ergonómico Gris",
+      "modelo": "MU006",
+      "sku": "90855",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/MU006-90855.jpg"
+    },
+    {
+      "id": 134,
+      "categoria": "mouse-teclados",
+      "nombre": "Mouse con Cable",
+      "modelo": "MU007",
+      "sku": "90789",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/MU007-90789.jpg"
+    },
+    {
+      "id": 135,
+      "categoria": "mouse-teclados",
+      "nombre": "Mouse Vertical Multimodo",
+      "modelo": "MU008",
+      "sku": "25444",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/MU008-25444.jpg"
+    },
+    {
+      "id": 136,
+      "categoria": "mouse-teclados",
+      "nombre": "Mouse Vertical Multimodo",
+      "modelo": "M571",
+      "sku": "55916",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/M571-55916.jpg"
+    },
+    {
+      "id": 137,
+      "categoria": "mouse-teclados",
+      "nombre": "Mouse Inalámbrico Portátil Verde",
+      "modelo": "MU001",
+      "sku": "90374",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/MU001-90374.jpg"
+    },
+    {
+      "id": 138,
+      "categoria": "mouse-teclados",
+      "nombre": "Mouse Inalámbrico Portátil Gris",
+      "modelo": "MU001",
+      "sku": "90373",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/MU001-90373.jpg"
+    },
+    {
+      "id": 139,
+      "categoria": "mouse-teclados",
+      "nombre": "Mouse Inalámbrico Portátil Negro",
+      "modelo": "MU001",
+      "sku": "90372",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/MU001-90372.jpg"
+    },
+    {
+      "id": 140,
+      "categoria": "mouse-teclados",
+      "nombre": "Mouse Inalámbrico Bluetooth 5.0 Ergonómico USB 4000 DPI",
+      "modelo": "MU101",
+      "sku": "90395",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/MU101-90395.jpg"
+    },
+    {
+      "id": 141,
+      "categoria": "mouse-teclados",
+      "nombre": "Mouse Inalámbrico USB 2400 DPI Gris Wireless 10m",
+      "modelo": "MU105",
+      "sku": "90669",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/MU105-90669.jpg"
+    },
+    {
+      "id": 142,
+      "categoria": "mouse-teclados",
+      "nombre": "Mouse Inalámbrico USB 2400 DPI Verde Musgo Wireless 10m",
+      "modelo": "MU105",
+      "sku": "90672",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/MU105-90672.jpg"
+    },
+    {
+      "id": 143,
+      "categoria": "mouse-teclados",
+      "nombre": "Mouse Inalámbrico USB 2400 DPI Rosa Wireless 10m",
+      "modelo": "MU105",
+      "sku": "90686",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/MU105-90686.jpg"
+    },
+    {
+      "id": 144,
+      "categoria": "mouse-teclados",
+      "nombre": "Mouse Inalámbrico 2.4G Azul",
+      "modelo": "MU105",
+      "sku": "90550",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/MU105-90550.jpg"
+    },
+    {
+      "id": 145,
+      "categoria": "mouse-teclados",
+      "nombre": "Mouse Ergonómico Inalámbrico",
+      "modelo": "M511",
+      "sku": "45012",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/M511-45012.jpg"
+    },
+    {
+      "id": 146,
+      "categoria": "mouse-teclados",
+      "nombre": "Mouse Inalámbrico Multimodo Negro",
+      "modelo": "M751",
+      "sku": "45792",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/M751-45792.jpg"
+    },
+    {
+      "id": 147,
+      "categoria": "mouse-teclados",
+      "nombre": "Teclado Inalámbrico con Batería Bluetooth 5.0 Inglés Plateado",
+      "modelo": "KU005",
+      "sku": "15258",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/KU005-15258.jpg"
+    },
+    {
+      "id": 148,
+      "categoria": "mouse-teclados",
+      "nombre": "Kit Teclado y Mouse USB Combo Business Premium 1200 DPI Negro",
+      "modelo": "MK003",
+      "sku": "90561",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/MK003-90561.jpg"
+    },
+    {
+      "id": 149,
+      "categoria": "otros",
+      "nombre": "Micrófono USB-C de Escritorio Omnidireccional 360° Negro",
+      "modelo": "CM379",
+      "sku": "10934",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM379-10934.jpg"
+    },
+    {
+      "id": 150,
+      "categoria": "otros",
+      "nombre": "Tarjeta para Estacionamiento Temporal para Automóvil Negro",
+      "modelo": "LP178",
+      "sku": "60326",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP178-60326.jpg"
+    },
+    {
+      "id": 151,
+      "categoria": "otros",
+      "nombre": "Inflador Portátil",
+      "modelo": "CD259",
+      "sku": "15951",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CD259-15951.jpg"
+    },
+    {
+      "id": 152,
+      "categoria": "otros",
+      "nombre": "Juego de Destornilladores de Aleación de Aluminio 38 en 1",
+      "modelo": "CM372",
+      "sku": "80459",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM372-80459.jpg"
+    },
+    {
+      "id": 153,
+      "categoria": "otros",
+      "nombre": "Webcam Full HD 1080P con Micrófono con Cancelación de Ruido",
+      "modelo": "CM678",
+      "sku": "15728",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM678-15728.jpg"
+    },
+    {
+      "id": 154,
+      "categoria": "otros",
+      "nombre": "Presentador Láser Inalámbrico",
+      "modelo": "LP479",
+      "sku": "50654",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP479-50654.jpg"
+    },
+    {
+      "id": 155,
+      "categoria": "otros",
+      "nombre": "Lápiz Óptico Inteligente para iPad",
+      "modelo": "LP653",
+      "sku": "15910",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/LP653-15910.jpg"
+    },
+    {
+      "id": 156,
+      "categoria": "audio",
+      "nombre": "Adaptador de Audio Jack 2.5mm Macho a Jack 3.5mm Hembra",
+      "modelo": "20501",
+      "sku": "20501",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/20501-20501.jpg"
+    },
+    {
+      "id": 157,
+      "categoria": "audio",
+      "nombre": "Adaptador de Audio Jack 2.5mm Hembra a Jack 3.5mm Macho",
+      "modelo": "20502",
+      "sku": "20502",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/20502-20502.jpg"
+    },
+    {
+      "id": 158,
+      "categoria": "audio",
+      "nombre": "Cable de Audio Auxiliar Plug 3.5mm 90° Tipo L 0.5m",
+      "modelo": "AV119",
+      "sku": "10596",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/AV119-10596.jpg"
+    },
+    {
+      "id": 159,
+      "categoria": "audio",
+      "nombre": "Cable de Audio Auxiliar Plug 3.5mm 90° Tipo L 1m",
+      "modelo": "AV119",
+      "sku": "10597",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/AV119-10597.jpg"
+    },
+    {
+      "id": 160,
+      "categoria": "audio",
+      "nombre": "Cable Plano Recto Ángulo 3.5mm Macho / 3.5mm Macho 2m Negro",
+      "modelo": "AV119",
+      "sku": "10599",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/AV119-10599.jpg"
+    },
+    {
+      "id": 161,
+      "categoria": "audio",
+      "nombre": "Cable de Audio USB-C Redondo 3.5mm M/M con Carcasa de Aluminio 1m Gris Oscuro",
+      "modelo": "AV143",
+      "sku": "30633",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/AV143-30633.jpg"
+    },
+    {
+      "id": 162,
+      "categoria": "audio",
+      "nombre": "Cable de Audio Lightning a AUX 3.5mm 1m",
+      "modelo": "US315",
+      "sku": "70509",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US315-70509.jpg"
+    },
+    {
+      "id": 163,
+      "categoria": "audio",
+      "nombre": "Cable de Audio Extensor Auxiliar Plug 3.5mm 2m",
+      "modelo": "AV118",
+      "sku": "10594",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/AV118-10594.jpg"
+    },
+    {
+      "id": 164,
+      "categoria": "audio",
+      "nombre": "Cable Extensor Audio Auxiliar Plug 3.5mm Macho a Hembra 2m Negro",
+      "modelo": "AV118",
+      "sku": "40675",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/AV118-40675.jpg"
+    },
+    {
+      "id": 165,
+      "categoria": "audio",
+      "nombre": "Cable Macho 3.5mm a Macho 3.5mm 3m Negro",
+      "modelo": "AV119",
+      "sku": "10736",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/AV119-10736.jpg"
+    },
+    {
+      "id": 166,
+      "categoria": "audio",
+      "nombre": "Cable Macho 3.5mm a Macho 3.5mm 5m Negro",
+      "modelo": "AV119",
+      "sku": "10737",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/AV119-10737.jpg"
+    },
+    {
+      "id": 167,
+      "categoria": "audio",
+      "nombre": "Cable USB Tipo C a Conector Hembra 3.5mm de 10cm Gris",
+      "modelo": "AV142",
+      "sku": "30632",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/AV142-30632.jpg"
+    },
+    {
+      "id": 168,
+      "categoria": "audio",
+      "nombre": "Cable USB-C a 3.5mm Macho/Hembra con Carcasa Aluminio y Trenzado 10cm Gris",
+      "modelo": "AV161",
+      "sku": "80154",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/AV161-80154.jpg"
+    },
+    {
+      "id": 169,
+      "categoria": "audio",
+      "nombre": "Cable Lightning Hembra 3.5mm Redondo de Aluminio con Trenzado 10cm Gris",
+      "modelo": "US211",
+      "sku": "30756",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US211-30756.jpg"
+    },
+    {
+      "id": 170,
+      "categoria": "audio",
+      "nombre": "Cable de Audio M/M 3.5mm y 4 Polos con Carcasa de Aluminio 2m",
+      "modelo": "AV183",
+      "sku": "20782",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/AV183-20782.jpg"
+    },
+    {
+      "id": 171,
+      "categoria": "audio",
+      "nombre": "Cable de Audio Óptico Toslink 3m Negro",
+      "modelo": "AV122",
+      "sku": "70893",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/AV122-70893.jpg"
+    },
+    {
+      "id": 172,
+      "categoria": "audio",
+      "nombre": "Adaptador Audio USB a Auxiliar 3.5mm Micrófono Blanco",
+      "modelo": "US205",
+      "sku": "30143",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US205-30143.png"
+    },
+    {
+      "id": 173,
+      "categoria": "audio",
+      "nombre": "Adaptador de Sonido Externo USB 2.0 Negro",
+      "modelo": "US205",
+      "sku": "30724",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US205-30724.jpg"
+    },
+    {
+      "id": 174,
+      "categoria": "audio",
+      "nombre": "Adaptador Receptor de Audio 2 en 1 Bluetooth USB 3.5",
+      "modelo": "CM523",
+      "sku": "60300",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM523-60300.jpg"
+    },
+    {
+      "id": 175,
+      "categoria": "audio",
+      "nombre": "Adaptador de Sonido Estéreo Externo USB",
+      "modelo": "CM383",
+      "sku": "80864",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM383-80864.jpg"
+    },
+    {
+      "id": 176,
+      "categoria": "audio",
+      "nombre": "Receptor Bluetooth para Auto con Micrófono Gris",
+      "modelo": "CM309",
+      "sku": "70601",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM309-70601.jpg"
+    },
+    {
+      "id": 177,
+      "categoria": "audio",
+      "nombre": "Receptor y Transmisor Bluetooth",
+      "modelo": "CM403",
+      "sku": "80893",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM403-80893.jpg"
+    },
+    {
+      "id": 178,
+      "categoria": "audio",
+      "nombre": "Receptor Adaptador Bluetooth 5.0 Control Volumen Auto",
+      "modelo": "CM276",
+      "sku": "70303",
+      "descripcion": "",
+      "precio": "",
+      "foto": ""
+    },
+    {
+      "id": 179,
+      "categoria": "audio",
+      "nombre": "Cable Audio Fibra Óptica Digital Toslink Premium 1M",
+      "modelo": "AV108",
+      "sku": "10539",
+      "descripcion": "",
+      "precio": "",
+      "foto": ""
+    },
+    {
+      "id": 180,
+      "categoria": "audio",
+      "nombre": "Cable de Audio AUX 3.5MM a 2 RCA 25CM",
+      "modelo": "AV109",
+      "sku": "10547",
+      "descripcion": "",
+      "precio": "",
+      "foto": ""
+    },
+    {
+      "id": 181,
+      "categoria": "audio",
+      "nombre": "Cable de Audio AUX 3.5MM a 2 RCA 3M",
+      "modelo": "AV102",
+      "sku": "10512",
+      "descripcion": "",
+      "precio": "",
+      "foto": ""
+    },
+    {
+      "id": 182,
+      "categoria": "audio",
+      "nombre": "Cable Adaptador Audio AUX 3.5MM Hembra a 2RCA Macho 1M",
+      "modelo": "AV102",
+      "sku": "10588",
+      "descripcion": "",
+      "precio": "",
+      "foto": ""
+    },
+    {
+      "id": 183,
+      "categoria": "audio",
+      "nombre": "Cable de Audio 2 RCA a RCA 3M",
+      "modelo": "AV104",
+      "sku": "10519",
+      "descripcion": "",
+      "precio": "",
+      "foto": ""
+    },
+    {
+      "id": 184,
+      "categoria": "audio",
+      "nombre": "Cable de Audio 2 RCA a RCA 5M",
+      "modelo": "AV104",
+      "sku": "10520",
+      "descripcion": "",
+      "precio": "",
+      "foto": ""
+    },
+    {
+      "id": 185,
+      "categoria": "audio",
+      "nombre": "Cable de Audio Stereo AUX 3.5MM a 6.5MM Macho 1M Gris",
+      "modelo": "AV127",
+      "sku": "10625",
+      "descripcion": "",
+      "precio": "",
+      "foto": ""
+    },
+    {
+      "id": 186,
+      "categoria": "audio",
+      "nombre": "Cable Audio Plug AUX 6.5MM Estéreo Trenzado 2M Gris",
+      "modelo": "AV128",
+      "sku": "10638",
+      "descripcion": "",
+      "precio": "",
+      "foto": ""
+    },
+    {
+      "id": 187,
+      "categoria": "audio",
+      "nombre": "Cable de Extensión para Micrófono 5M",
+      "modelo": "AV130",
+      "sku": "20712",
+      "descripcion": "",
+      "precio": "",
+      "foto": ""
+    },
+    {
+      "id": 188,
+      "categoria": "audio",
+      "nombre": "Cable Audio Extensión XLR Macho a Hembra 3 Pines 10M",
+      "modelo": "AV130",
+      "sku": "20714",
+      "descripcion": "",
+      "precio": "",
+      "foto": ""
+    },
+    {
+      "id": 189,
+      "categoria": "audio",
+      "nombre": "Cable para Micrófono Audio 6.5MM Cannon XLR Hembra 2M",
+      "modelo": "AV131",
+      "sku": "20719",
+      "descripcion": "",
+      "precio": "",
+      "foto": ""
+    },
+    {
+      "id": 190,
+      "categoria": "audio",
+      "nombre": "Ficha Conector Canon XLR Hembra 3 Pines",
+      "modelo": "AV162",
+      "sku": "80440",
+      "descripcion": "",
+      "precio": "",
+      "foto": ""
+    },
+    {
+      "id": 191,
+      "categoria": "audio",
+      "nombre": "Cable XLR Cannon Plug 3.5MM Profesional Micrófono 1M",
+      "modelo": "AV182",
+      "sku": "20763",
+      "descripcion": "",
+      "precio": "",
+      "foto": ""
+    },
+    {
+      "id": 192,
+      "categoria": "audio",
+      "nombre": "Adaptador de Audio USB-C a AUX 3.5MM y USB-C",
+      "modelo": "CM231",
+      "sku": "60164",
+      "descripcion": "",
+      "precio": "",
+      "foto": ""
+    },
+    {
+      "id": 193,
+      "categoria": "audio",
+      "nombre": "Receptor de Audio Inalámbrico Bluetooth 5.1 c/Adaptador 3.5MM y 2 RCA",
+      "modelo": "CM106",
+      "sku": "40759",
+      "descripcion": "",
+      "precio": "",
+      "foto": ""
+    }
+  ]
+}
