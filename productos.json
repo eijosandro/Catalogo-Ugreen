@@ -3837,6 +3837,476 @@
       "descripcion": "",
       "precio": "",
       "foto": "fotos/HD127-30103.jpg"
+    },
+    {
+      "id": 372,
+      "categoria": "cable-displayport",
+      "nombre": "Cable DisplayPort Macho a HDMI Macho 1.5m Negro",
+      "modelo": "DP101",
+      "sku": "10239",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/DP101-10239.jpg"
+    },
+    {
+      "id": 373,
+      "categoria": "cable-displayport",
+      "nombre": "Cable DisplayPort Macho a HDMI Macho 2m Negro",
+      "modelo": "DP101",
+      "sku": "10202",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/DP101-10202.jpg"
+    },
+    {
+      "id": 374,
+      "categoria": "cable-displayport",
+      "nombre": "Cable DisplayPort Premium 1.4 8K Trenzado 144Hz 1m",
+      "modelo": "DP102",
+      "sku": "10244",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/DP102-10244.jpg"
+    },
+    {
+      "id": 375,
+      "categoria": "cable-displayport",
+      "nombre": "Cable DisplayPort Macho a Macho 1.5m Negro",
+      "modelo": "DP102",
+      "sku": "10245",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/DP102-10245.jpg"
+    },
+    {
+      "id": 376,
+      "categoria": "cable-displayport",
+      "nombre": "Cable DisplayPort Macho a Macho 3m Negro",
+      "modelo": "DP102",
+      "sku": "10212",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/DP102-10212.jpg"
+    },
+    {
+      "id": 377,
+      "categoria": "cable-displayport",
+      "nombre": "Cable DisplayPort a DVI 24+1 Premium HD 60Hz 2m",
+      "modelo": "DP103",
+      "sku": "10221",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/DP103-10221.jpg"
+    },
+    {
+      "id": 378,
+      "categoria": "cable-displayport",
+      "nombre": "Cable DisplayPort Premium 1.4 8K Trenzado 144Hz 1m",
+      "modelo": "DP112",
+      "sku": "60842",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/DP112-60842.jpg"
+    },
+    {
+      "id": 379,
+      "categoria": "cable-displayport",
+      "nombre": "Cable DisplayPort Premium 1.4 8K Trenzado 144Hz 2m",
+      "modelo": "DP112",
+      "sku": "60843",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/DP112-60843.jpg"
+    },
+    {
+      "id": 380,
+      "categoria": "cable-displayport",
+      "nombre": "Cable DisplayPort 1.4 Gamer 8K 60Hz 4K HDR 3D 1m",
+      "modelo": "DP114",
+      "sku": "80390",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/DP114-80390.jpg"
+    },
+    {
+      "id": 381,
+      "categoria": "cable-displayport",
+      "nombre": "Cable DisplayPort 1.4 Gamer 8K 60Hz 4K HDR 3D 1.5m",
+      "modelo": "DP114",
+      "sku": "80391",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/DP114-80391.jpg"
+    },
+    {
+      "id": 382,
+      "categoria": "cable-displayport",
+      "nombre": "Cable DisplayPort 1.4 Gamer 8K 60Hz 4K HDR 3D 2m",
+      "modelo": "DP114",
+      "sku": "80392",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/DP114-80392.jpg"
+    },
+    {
+      "id": 383,
+      "categoria": "cable-displayport",
+      "nombre": "Cable DisplayPort 2.1 Premium 16K 240Hz HDR G-Sync Macho a Macho 1m",
+      "modelo": "DP118",
+      "sku": "15383",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/DP118-15383.jpg"
+    },
+    {
+      "id": 384,
+      "categoria": "cable-displayport",
+      "nombre": "Cable DisplayPort 2.1 Premium 16K 240Hz HDR G-Sync 3m",
+      "modelo": "DP118",
+      "sku": "25862",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/DP118-25862.jpg"
+    },
+    {
+      "id": 385,
+      "categoria": "cable-displayport",
+      "nombre": "Cable DisplayPort 16K Macho a Macho 1m Negro",
+      "modelo": "DP131",
+      "sku": "55567",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/DP131-55567.jpg"
+    },
+    {
+      "id": 386,
+      "categoria": "cable-displayport",
+      "nombre": "Cable DisplayPort 16K Macho a Macho 2m Negro",
+      "modelo": "DP131",
+      "sku": "55568",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/DP131-55568.jpg"
+    },
+    {
+      "id": 387,
+      "categoria": "cable-displayport",
+      "nombre": "Cable DisplayPort 4K Macho a HDMI Macho 1.5m Negro",
+      "modelo": "DP125",
+      "sku": "35841",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/DP125-35841.jpg"
+    },
+    {
+      "id": 388,
+      "categoria": "convertidor",
+      "nombre": "Cable DVI 24+1 Bidireccional Macho a Macho Negro 2m",
+      "modelo": "DV101",
+      "sku": "11604",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/DV101-11604.jpg"
+    },
+    {
+      "id": 389,
+      "categoria": "convertidor",
+      "nombre": "Cable DVI 24+1 Bidireccional Macho a Macho Negro 1.5m",
+      "modelo": "DV101",
+      "sku": "11606",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/DV101-11606.jpg"
+    },
+    {
+      "id": 390,
+      "categoria": "convertidor",
+      "nombre": "Ficha Adaptador HDMI 2.0 4K Macho a Hembra Curvo 270°",
+      "modelo": "HD112",
+      "sku": "20110",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/HD112-20110.jpg"
+    },
+    {
+      "id": 391,
+      "categoria": "convertidor",
+      "nombre": "Adaptador Mini HDMI Macho a HDMI Hembra 4K HD",
+      "modelo": "20101",
+      "sku": "20101",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/20101-20101.jpg"
+    },
+    {
+      "id": 392,
+      "categoria": "convertidor",
+      "nombre": "Adaptador Premium Micro HDMI Macho a HDMI Hembra",
+      "modelo": "20106",
+      "sku": "20106",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/20106-20106.jpg"
+    },
+    {
+      "id": 393,
+      "categoria": "convertidor",
+      "nombre": "Adaptador HDMI Hembra a Hembra Negro",
+      "modelo": "20107",
+      "sku": "20107",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/20107-20107.jpg"
+    },
+    {
+      "id": 394,
+      "categoria": "convertidor",
+      "nombre": "Adaptador HDMI 8K Hembra a Hembra (1 Unidad)",
+      "modelo": "HD159",
+      "sku": "90592",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/HD159-90592.jpg"
+    },
+    {
+      "id": 395,
+      "categoria": "convertidor",
+      "nombre": "Adaptador Mini HDMI Macho a HDMI Hembra 22cm Negro",
+      "modelo": "20137",
+      "sku": "20137",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/20137-20137.jpg"
+    },
+    {
+      "id": 396,
+      "categoria": "convertidor",
+      "nombre": "Adaptador VGA a HDMI",
+      "modelo": "CM513",
+      "sku": "50945",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/CM513-50945.jpg"
+    },
+    {
+      "id": 397,
+      "categoria": "convertidor",
+      "nombre": "Adaptador HDMI Hembra a DVI 24+1 Macho Negro",
+      "modelo": "20124",
+      "sku": "20124",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/20124-20124.jpg"
+    },
+    {
+      "id": 398,
+      "categoria": "convertidor",
+      "nombre": "Convertidor de DisplayPort Macho a VGA Hembra Negro",
+      "modelo": "DP109",
+      "sku": "20415",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/DP109-20415.jpg"
+    },
+    {
+      "id": 399,
+      "categoria": "convertidor",
+      "nombre": "Convertidor Mini DisplayPort a HDMI 4K Negro",
+      "modelo": "MD112",
+      "sku": "40360",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/MD112-40360.jpg"
+    },
+    {
+      "id": 400,
+      "categoria": "convertidor",
+      "nombre": "Convertidor HDMI a VGA 25cm Negro",
+      "modelo": "MM103",
+      "sku": "40248",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/MM103-40248.jpg"
+    },
+    {
+      "id": 401,
+      "categoria": "convertidor",
+      "nombre": "Convertidor HDMI a VGA sin Audio Negro",
+      "modelo": "MM105",
+      "sku": "40253",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/MM105-40253.jpg"
+    },
+    {
+      "id": 402,
+      "categoria": "convertidor",
+      "nombre": "Cable Adaptador HDMI a DisplayPort + USB-C HD 60Hz",
+      "modelo": "MM107",
+      "sku": "40238",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/MM107-40238.jpg"
+    },
+    {
+      "id": 403,
+      "categoria": "convertidor",
+      "nombre": "Cable Adaptador USB-C a HDMI Notebook Mac Celular TV",
+      "modelo": "40273",
+      "sku": "40273",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/40273-40273.jpg"
+    },
+    {
+      "id": 404,
+      "categoria": "convertidor",
+      "nombre": "Convertidor DisplayPort a HDMI Hembra 1080P",
+      "modelo": "MM137",
+      "sku": "40362",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/MM137-40362.jpg"
+    },
+    {
+      "id": 405,
+      "categoria": "convertidor",
+      "nombre": "Convertidor DisplayPort a HDMI Hembra 4K*2K",
+      "modelo": "MM137",
+      "sku": "40363",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/MM137-40363.jpg"
+    },
+    {
+      "id": 406,
+      "categoria": "convertidor",
+      "nombre": "Bastidor HDMI de Pared 4K Blanco Ficha Recta",
+      "modelo": "MM113",
+      "sku": "20317",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/MM113-20317.jpg"
+    },
+    {
+      "id": 407,
+      "categoria": "convertidor",
+      "nombre": "Bastidor HDMI de Pared 4K Blanco Ángulo 90°",
+      "modelo": "MM113",
+      "sku": "20318",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/MM113-20318.jpg"
+    },
+    {
+      "id": 408,
+      "categoria": "auriculares",
+      "nombre": "Auriculares USB-C 1.2m",
+      "modelo": "EP103",
+      "sku": "30638",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/EP103-30638.jpg"
+    },
+    {
+      "id": 409,
+      "categoria": "auriculares",
+      "nombre": "Auriculares Inalámbricos HiTune P3 Blanco",
+      "modelo": "WS207",
+      "sku": "45110",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/WS207-45110.jpg"
+    },
+    {
+      "id": 410,
+      "categoria": "auriculares",
+      "nombre": "Auriculares Inalámbricos HiTune S3 Blanco",
+      "modelo": "WS209",
+      "sku": "45786",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/WS209-45786.jpg"
+    },
+    {
+      "id": 411,
+      "categoria": "auriculares",
+      "nombre": "Auriculares Inalámbricos HiTune S3 Negro",
+      "modelo": "WS209",
+      "sku": "45785",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/WS209-45785.jpg"
+    },
+    {
+      "id": 412,
+      "categoria": "auriculares",
+      "nombre": "Auriculares Inalámbricos HiTune S3 Morado",
+      "modelo": "WS209",
+      "sku": "55430",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/WS209-55430.jpg"
+    },
+    {
+      "id": 413,
+      "categoria": "auriculares",
+      "nombre": "Auriculares Inalámbricos HiTune H5 Blanco",
+      "modelo": "WS201",
+      "sku": "15612",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/WS201-15612.jpg"
+    },
+    {
+      "id": 414,
+      "categoria": "auriculares",
+      "nombre": "Auriculares Inalámbricos ClipBuds Magic",
+      "modelo": "WS208",
+      "sku": "55136",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/WS208-55136.jpg"
+    },
+    {
+      "id": 415,
+      "categoria": "auriculares",
+      "nombre": "Auriculares Híbridos HiTune Max2 Blanco",
+      "modelo": "HP205",
+      "sku": "45017",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/HP205-45017.jpg"
+    },
+    {
+      "id": 416,
+      "categoria": "auriculares",
+      "nombre": "Auriculares Híbridos HiTune Max2 Negro",
+      "modelo": "HP205",
+      "sku": "45018",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/HP205-45018.jpg"
+    },
+    {
+      "id": 417,
+      "categoria": "auriculares",
+      "nombre": "Auriculares Híbridos HiTune Max5c (Cancelación de Ruido) Blanco",
+      "modelo": "HP203",
+      "sku": "35758",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/HP203-35758.jpg"
+    },
+    {
+      "id": 418,
+      "categoria": "auriculares",
+      "nombre": "Auriculares Híbridos HiTune Max5c (Cancelación de Ruido) Negro",
+      "modelo": "HP203",
+      "sku": "35757",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/HP203-35757.jpg"
     }
   ]
 }
