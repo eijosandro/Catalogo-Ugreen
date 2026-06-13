@@ -2061,6 +2061,606 @@
       "descripcion": "",
       "precio": "",
       "foto": "fotos/CM106-40759.jpg"
+    },
+    {
+      "id": 194,
+      "categoria": "cable-lightning",
+      "nombre": "CABLE USB-C A LIGHTNING PD CARGA RAPIDA 3 A MAX NEGRO 1M",
+      "modelo": "US171",
+      "sku": "60751",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US171-60751.jpg"
+    },
+    {
+      "id": 195,
+      "categoria": "cable-lightning",
+      "nombre": "CABLE USB-C A LIGHTNING PD CARGA RAPIDA 3 A MAX BLANCO 1M",
+      "modelo": "US171",
+      "sku": "10493",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US171-10493.jpg"
+    },
+    {
+      "id": 196,
+      "categoria": "cable-lightning",
+      "nombre": "CABLE USB-C A LIGHTNING PD CARGA RAPIDA 3 A MAX BLANCO 2M",
+      "modelo": "US171",
+      "sku": "60749",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US171-60749.jpg"
+    },
+    {
+      "id": 197,
+      "categoria": "cable-lightning",
+      "nombre": "CABLE USB-C A LIGHTNING PD CARGA RAPIDA 3 A MAX NEGRO 1M",
+      "modelo": "US304",
+      "sku": "60759",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US304-60759.jpg"
+    },
+    {
+      "id": 198,
+      "categoria": "cable-lightning",
+      "nombre": "CABLE USB-C A LIGHTNING PD CARGA RAPIDA 3 A MAX NEGRO 2M",
+      "modelo": "US304",
+      "sku": "60761",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US304-60761.jpg"
+    },
+    {
+      "id": 199,
+      "categoria": "cable-lightning",
+      "nombre": "CABLE USB-A A LIGHTNING 5V 2.4A 1M NEGRO",
+      "modelo": "US155",
+      "sku": "80822",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US155-80822.jpg"
+    },
+    {
+      "id": 200,
+      "categoria": "cable-lightning",
+      "nombre": "CABLE USB-A A LIGHTNING 5V 2.4A 2M NEGRO",
+      "modelo": "US155",
+      "sku": "80823",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US155-80823.jpg"
+    },
+    {
+      "id": 201,
+      "categoria": "cable-lightning",
+      "nombre": "CABLE USB-A LIGHTNING 5V/2.4A MAX. BLANCO 1M",
+      "modelo": "US155",
+      "sku": "20728",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US155-20728.jpg"
+    },
+    {
+      "id": 202,
+      "categoria": "cable-lightning",
+      "nombre": "CABLE USB-A LIGHTNING 5V/2.4A MAX. BLANCO 2M",
+      "modelo": "US155",
+      "sku": "20730",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US155-20730.jpg"
+    },
+    {
+      "id": 203,
+      "categoria": "cable-lightning",
+      "nombre": "CABLE LIGHTNING USB 2.0 a MACHO 1M NEGRO",
+      "modelo": "US199",
+      "sku": "60156",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US199-60156.jpg"
+    },
+    {
+      "id": 204,
+      "categoria": "cable-lightning",
+      "nombre": "CABLE LIGHTNING USB 2.0 a MACHO 2M PLATEADO",
+      "modelo": "US199",
+      "sku": "60163",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US199-60163.jpg"
+    },
+    {
+      "id": 205,
+      "categoria": "cable-usba-usbc",
+      "nombre": "CABLE DE CARGA RAPIDA USB-A a USB-C 3A MAX 1M NEGRO",
+      "modelo": "US287",
+      "sku": "60116",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US287-60116.jpg"
+    },
+    {
+      "id": 206,
+      "categoria": "cable-usba-usbc",
+      "nombre": "CABLE DE CARGA RAPIDA USB-A a USB-C 3A MAX 2M NEGRO",
+      "modelo": "US287",
+      "sku": "60118",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US287-60118.jpg"
+    },
+    {
+      "id": 207,
+      "categoria": "cable-usba-usbc",
+      "nombre": "CABLE USB-A 2.0 a USB-C NIQUELADO 1M BLANCO",
+      "modelo": "US287",
+      "sku": "60121",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US287-60121.jpg"
+    },
+    {
+      "id": 208,
+      "categoria": "cable-usba-usbc",
+      "nombre": "CABLE USB-A 2.0 a USB-C NIQUELADO 2M BLANCO",
+      "modelo": "US287",
+      "sku": "60123",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US287-60123.jpg"
+    },
+    {
+      "id": 209,
+      "categoria": "cable-usba-usbc",
+      "nombre": "CABLE DE CARGA RAPIDA USB-A a USB-C 3A MAX 1M GRIS/NEGRO",
+      "modelo": "US288",
+      "sku": "60126",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US288-60126.jpg"
+    },
+    {
+      "id": 210,
+      "categoria": "cable-usba-usbc",
+      "nombre": "CABLE DE CARGA RAPIDA USB-A a USB-C 3A MAX 2M GRIS/NEGRO",
+      "modelo": "US288",
+      "sku": "60128",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US288-60128.jpg"
+    },
+    {
+      "id": 211,
+      "categoria": "cable-usba-usbc",
+      "nombre": "CABLE USB-A 2.0 A USB-C C/TRENZADO ALUMINIO NIQUELADO 1M BLANCO",
+      "modelo": "US288",
+      "sku": "60131",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US288-60131.jpg"
+    },
+    {
+      "id": 212,
+      "categoria": "cable-usba-usbc",
+      "nombre": "CABLE USB-A 2.0 A USB-C C/TRENZADO ALUMINIO NIQUELADO 2M BLANCO",
+      "modelo": "US288",
+      "sku": "60133",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US288-60133.jpg"
+    },
+    {
+      "id": 213,
+      "categoria": "cable-usba-usbc",
+      "nombre": "Cable Usb-c A Usb Angulo 90° En L 3a Carga Rapida 1m Ugreen Space Gray-1mts",
+      "modelo": "US176",
+      "sku": "20856",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US176-20856.jpg"
+    },
+    {
+      "id": 214,
+      "categoria": "cable-usba-usbc",
+      "nombre": "Cable Usb-c A Usb Angulo 90° En L 3a Carga Rapida 2m Ugreen Negro",
+      "modelo": "US176",
+      "sku": "20857",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US176-20857.jpg"
+    },
+    {
+      "id": 215,
+      "categoria": "cable-usba-usbc",
+      "nombre": "Cable Usb 3.0 A Usb-c Premium Carga Rapida Datos 1.5m Ugreen Negro",
+      "modelo": "US184",
+      "sku": "20883",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US184-20883.jpg"
+    },
+    {
+      "id": 216,
+      "categoria": "cable-usba-usbc",
+      "nombre": "Cable Usb 3.0 A Usb-c Premium Carga Rapida Y Datos 2m Ugreen Negro",
+      "modelo": "US184",
+      "sku": "20884",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US184-20884.jpg"
+    },
+    {
+      "id": 217,
+      "categoria": "cable-usba-usbc",
+      "nombre": "CABLE USB-A A USB-C TIPO L 90° CARGA RAPIDA 2M NEGRO",
+      "modelo": "US284",
+      "sku": "50942",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US284-50942.jpg"
+    },
+    {
+      "id": 218,
+      "categoria": "cable-usba-usbc",
+      "nombre": "JUEGO 2 ADAPTADORES USB- A MACHO A USB-C HEMBRA",
+      "modelo": "US701",
+      "sku": "45275",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US701-45275.jpg"
+    },
+    {
+      "id": 219,
+      "categoria": "cable-usba-usbc",
+      "nombre": "Adaptador Usb Macho A Usb-c Hembra + Colgante Negro Ugreen Negro",
+      "modelo": "US280",
+      "sku": "50568",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US280-50568.jpg"
+    },
+    {
+      "id": 220,
+      "categoria": "cable-usba-usbc",
+      "nombre": "ADAPTADOR USB-C a USB 3.0 a HEMBRA BLANCO",
+      "modelo": "US173",
+      "sku": "30155",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US173-30155.jpg"
+    },
+    {
+      "id": 221,
+      "categoria": "cable-usba-usbc",
+      "nombre": "Adaptador Otg 2 En 1 Micro Usb Y Usb C A Usb Hembra Ugreen Negro",
+      "modelo": "30453",
+      "sku": "30453",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/30453-30453.jpg"
+    },
+    {
+      "id": 222,
+      "categoria": "cable-usba-usbc",
+      "nombre": "CABLE USB-C MACHO a USB 3.0 a HEMBRA 15 CM NEGRO",
+      "modelo": "US154",
+      "sku": "30701",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US154-30701.jpg"
+    },
+    {
+      "id": 223,
+      "categoria": "cable-usba-usbc",
+      "nombre": "ADAPTADORES USB-C MACHO A USB-A HEMBRA",
+      "modelo": "US270",
+      "sku": "50283",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US270-50283.jpg"
+    },
+    {
+      "id": 224,
+      "categoria": "cable-usbc-usbc",
+      "nombre": "CABLE CARGA RAPIDA USB-C a USB-C PD 3A MÁX 1M GRIS/NEGRO",
+      "modelo": "US261",
+      "sku": "50150",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US261-50150.jpg"
+    },
+    {
+      "id": 225,
+      "categoria": "cable-usbc-usbc",
+      "nombre": "CABLE CARGA RAPIDA USB-C a USB-C PD 3A MÁX 2M GRIS/NEGRO",
+      "modelo": "US261",
+      "sku": "50152",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US261-50152.jpg"
+    },
+    {
+      "id": 226,
+      "categoria": "cable-usbc-usbc",
+      "nombre": "CABLE USB 2.0 C M/M CUBIERTA ABS 0.5M BLANCO",
+      "modelo": "US264",
+      "sku": "60517",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US264-60517.jpg"
+    },
+    {
+      "id": 227,
+      "categoria": "cable-usbc-usbc",
+      "nombre": "CABLE USB 2.0 C M/M CUBIERTA ABS 1M BLANCO",
+      "modelo": "US264",
+      "sku": "60518",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US264-60518.jpg"
+    },
+    {
+      "id": 228,
+      "categoria": "cable-usbc-usbc",
+      "nombre": "CABLE USB 2.0 C M/M CUBIERTA ABS 2M BLANCO",
+      "modelo": "US264",
+      "sku": "60520",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US264-60520.jpg"
+    },
+    {
+      "id": 229,
+      "categoria": "cable-usbc-usbc",
+      "nombre": "CABLE USB-C CARGA RAPIDA 3A 60W 2M NEGRO",
+      "modelo": "US286",
+      "sku": "10306",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US286-10306.jpg"
+    },
+    {
+      "id": 230,
+      "categoria": "cable-usbc-usbc",
+      "nombre": "Cable Trenzado Usb C 2.0 3a 3m Macho A Macho Ugreen Negro",
+      "modelo": "US286",
+      "sku": "60788",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US286-60788.jpg"
+    },
+    {
+      "id": 231,
+      "categoria": "cable-usbc-usbc",
+      "nombre": "CABLE USB 2.0 TIPO C MACHO A MACHO 5A 1M",
+      "modelo": "US300",
+      "sku": "60551",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US300-60551.jpg"
+    },
+    {
+      "id": 232,
+      "categoria": "cable-usbc-usbc",
+      "nombre": "CABLE DE CARGA RAPIDA USB-C PD 5A MAX 1M NEGRO",
+      "modelo": "US300",
+      "sku": "80371",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US300-80371.jpg"
+    },
+    {
+      "id": 233,
+      "categoria": "cable-usbc-usbc",
+      "nombre": "CABLE CARGA RAPIDA USB-C A USB-C PD 5A MAX 2M NEGRO",
+      "modelo": "US300",
+      "sku": "80372",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US300-80372.jpg"
+    },
+    {
+      "id": 234,
+      "categoria": "cable-usbc-usbc",
+      "nombre": "CABLE DE CARGA RAPIDA USB-C a USB-C PD 5A MAX 1M NEGRO",
+      "modelo": "US316",
+      "sku": "70427",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US316-70427.jpg"
+    },
+    {
+      "id": 235,
+      "categoria": "cable-usbc-usbc",
+      "nombre": "CABLE DE CARGA RAPIDA USB-C a USB-C PD 5A MAX 2M NEGRO",
+      "modelo": "US316",
+      "sku": "70429",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US316-70429.jpg"
+    },
+    {
+      "id": 236,
+      "categoria": "cable-usbc-usbc",
+      "nombre": "CABLE CARGA RAPIDA USB-C A USB-C PD 1M GRIS",
+      "modelo": "L513",
+      "sku": "45067",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/L513-45067.jpg"
+    },
+    {
+      "id": 237,
+      "categoria": "cable-usbc-usbc",
+      "nombre": "CABLE CARGA RAPIDA USB-C A USB-C PD 60W 1M GRIS",
+      "modelo": "L524",
+      "sku": "55765",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/L524-55765.jpg"
+    },
+    {
+      "id": 238,
+      "categoria": "cable-usbc-usbc",
+      "nombre": "CABLE CARGA RAPIDA USB-C A USB-C PD 60W 2M GRIS",
+      "modelo": "L524",
+      "sku": "55775",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/L524-55775.jpg"
+    },
+    {
+      "id": 239,
+      "categoria": "cable-usbc-usbc",
+      "nombre": "CABLE CARGA RAPIDA USB-C A USB-C PD 5A MAX 2M GRIS",
+      "modelo": "US535",
+      "sku": "90440",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US535-90440.jpg"
+    },
+    {
+      "id": 240,
+      "categoria": "cable-usbc-usbc",
+      "nombre": "CABLE DE CARGA RAPIDA 1 USB-C a USB-C PD de 5A NEGRO 1M",
+      "modelo": "L509",
+      "sku": "35501",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/L509-35501.jpg"
+    },
+    {
+      "id": 241,
+      "categoria": "cable-usbc-usbc",
+      "nombre": "CABLE DE CARGA RAPIDA 1 USB-C a USB-C PD de 5A MORADO 1M",
+      "modelo": "L509",
+      "sku": "65092",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/L509-65092.jpg"
+    },
+    {
+      "id": 242,
+      "categoria": "cable-usbc-usbc",
+      "nombre": "CABLE USB-C a USB-C PD CARGA RAPIDA 90° 5A MÁX 1M NEGRO",
+      "modelo": "US334",
+      "sku": "70643",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US334-70643.jpg"
+    },
+    {
+      "id": 243,
+      "categoria": "cable-usbc-usbc",
+      "nombre": "CABLE USB-C a USB-C PD CARGA RAPIDA 90° 5A MÁX 2M NEGRO",
+      "modelo": "US334",
+      "sku": "70645",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US334-70645.jpg"
+    },
+    {
+      "id": 244,
+      "categoria": "cable-usbc-usbc",
+      "nombre": "CABLE USB-C a USB-C PD CARGA RAPIDA 90° 60W MÁX 1M NEGRO",
+      "modelo": "US255",
+      "sku": "50123",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US255-50123.jpg"
+    },
+    {
+      "id": 245,
+      "categoria": "cable-usbc-usbc",
+      "nombre": "CABLE USB-C A USB-C PD CARGA RAPIDA 90° 5M NEGRO",
+      "modelo": "US551",
+      "sku": "90629",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US551-90629.jpg"
+    },
+    {
+      "id": 246,
+      "categoria": "cable-usbc-usbc",
+      "nombre": "CABLE USB-C a USB-C PD CARGA RAPIDA 90° 60W MÁX 1M NEGRO",
+      "modelo": "US323",
+      "sku": "70529",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US323-70529.jpg"
+    },
+    {
+      "id": 247,
+      "categoria": "cable-usbc-usbc",
+      "nombre": "CABLE USB 3.2 Gen2 NEGRO 1M",
+      "modelo": "US355",
+      "sku": "80150",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US355-80150.jpg"
+    },
+    {
+      "id": 248,
+      "categoria": "cable-usbc-usbc",
+      "nombre": "CABLE DE CARGA 2 EN 1 USB-A A USB-C/MICRO USB",
+      "modelo": "US177",
+      "sku": "30875",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US177-30875.jpg"
+    },
+    {
+      "id": 249,
+      "categoria": "cable-usbc-usbc",
+      "nombre": "CABLE DE CARGA RAPIDA PD UNIVERSAL 2 EN 1 de 5A Max",
+      "modelo": "US561",
+      "sku": "35087",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US561-35087.jpg"
+    },
+    {
+      "id": 250,
+      "categoria": "cable-usbc-usbc",
+      "nombre": "CABLE EXTENSOR USB-C MACHO A HEMBRA ADAPTADOR 4K 0.5M NEGRO",
+      "modelo": "ED008",
+      "sku": "40574",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/ED008-40574.jpg"
+    },
+    {
+      "id": 251,
+      "categoria": "cable-usbc-usbc",
+      "nombre": "CABLE DE EXTENSION USB- C/M A USB-C/F GEN2 5A 1M NEGRO",
+      "modelo": "US353",
+      "sku": "10387",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US353-10387.jpg"
+    },
+    {
+      "id": 252,
+      "categoria": "cable-usbc-usbc",
+      "nombre": "CABLE ALARGADOR TRENZADO USB-C MACHO a USB-C HEMBRA GEN2 C/CARCASA ALUMINIO 1M GRIS",
+      "modelo": "US372",
+      "sku": "30205",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US372-30205.jpg"
+    },
+    {
+      "id": 253,
+      "categoria": "cable-usbc-usbc",
+      "nombre": "Adaptador Micro Usb Hembra A Usb C Macho Otg Ugreen Negro",
+      "modelo": "US157",
+      "sku": "30391",
+      "descripcion": "",
+      "precio": "",
+      "foto": "fotos/US157-30391.jpg"
     }
   ]
 }
