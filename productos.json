@@ -111,6 +111,10 @@
     {
       "id": "fundas-estuches",
       "nombre": "Fundas y Estuches"
+    },
+    {
+      "id": "otros",
+      "nombre": "Otros"
     }
   ],
   "productos": [
