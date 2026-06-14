@@ -705,7 +705,7 @@
       "modelo": "CR106",
       "sku": "20277",
       "descripcion": "",
-      "precio": "",
+      "precio": "10.000",
       "foto": "fotos/CR106.png"
     },
     {
@@ -715,7 +715,7 @@
       "modelo": "CM297",
       "sku": "70444",
       "descripcion": "",
-      "precio": "",
+      "precio": "38.000",
       "foto": "fotos/CM297.png"
     },
     {
@@ -725,7 +725,7 @@
       "modelo": "CM332",
       "sku": "80125",
       "descripcion": "",
-      "precio": "",
+      "precio": "27.000",
       "foto": "fotos/CM332.png"
     },
     {
@@ -735,7 +735,7 @@
       "modelo": "CM333",
       "sku": "80126",
       "descripcion": "",
-      "precio": "",
+      "precio": "29.000",
       "foto": "fotos/CM333.png"
     },
     {
@@ -745,7 +745,7 @@
       "modelo": "CM162",
       "sku": "50505",
       "descripcion": "",
-      "precio": "",
+      "precio": "46.000",
       "foto": "fotos/CM162.png"
     },
     {
@@ -755,7 +755,7 @@
       "modelo": "CM217",
       "sku": "50966",
       "descripcion": "",
-      "precio": "",
+      "precio": "18.000",
       "foto": "fotos/CM217.png"
     },
     {
@@ -765,7 +765,7 @@
       "modelo": "CM430",
       "sku": "60622",
       "descripcion": "",
-      "precio": "",
+      "precio": "27.000",
       "foto": "fotos/CM430.png"
     },
     {
@@ -775,7 +775,7 @@
       "modelo": "CM416",
       "sku": "20984",
       "descripcion": "",
-      "precio": "",
+      "precio": "40.000",
       "foto": "fotos/CM416.png"
     },
     {
@@ -785,7 +785,7 @@
       "modelo": "CM219",
       "sku": "25851",
       "descripcion": "",
-      "precio": "",
+      "precio": "24.000",
       "foto": "fotos/CM219-25851.png"
     },
     {
@@ -795,7 +795,7 @@
       "modelo": "CM219",
       "sku": "70336",
       "descripcion": "",
-      "precio": "",
+      "precio": "17.000",
       "foto": "fotos/CM219-70336.png"
     },
     {
@@ -805,7 +805,7 @@
       "modelo": "CM219",
       "sku": "50985",
       "descripcion": "",
-      "precio": "",
+      "precio": "20.000",
       "foto": "fotos/CM219-50985.png"
     },
     {
@@ -815,7 +815,7 @@
       "modelo": "CM653",
       "sku": "15548",
       "descripcion": "",
-      "precio": "",
+      "precio": "24.000",
       "foto": "fotos/CM653.png"
     },
     {
@@ -825,7 +825,7 @@
       "modelo": "CM806",
       "sku": "35583",
       "descripcion": "",
-      "precio": "",
+      "precio": "30.000",
       "foto": "fotos/CM806.png"
     },
     {
@@ -835,7 +835,7 @@
       "modelo": "CR113",
       "sku": "40850",
       "descripcion": "",
-      "precio": "",
+      "precio": "26.000",
       "foto": "fotos/CR113.png"
     },
     {
@@ -845,7 +845,7 @@
       "modelo": "CM473",
       "sku": "15395",
       "descripcion": "",
-      "precio": "",
+      "precio": "37.000",
       "foto": "fotos/CM473-15395.png"
     },
     {
@@ -855,7 +855,7 @@
       "modelo": "CM473",
       "sku": "20805",
       "descripcion": "",
-      "precio": "",
+      "precio": "32.000",
       "foto": "fotos/CM473-20805.png"
     },
     {
@@ -865,7 +865,7 @@
       "modelo": "CM473",
       "sku": "20841",
       "descripcion": "",
-      "precio": "",
+      "precio": "34.000",
       "foto": "fotos/CM473-20841.png"
     },
     {
@@ -875,7 +875,7 @@
       "modelo": "CM475",
       "sku": "60600",
       "descripcion": "",
-      "precio": "",
+      "precio": "46.000",
       "foto": "fotos/CM475.png"
     },
     {
@@ -885,7 +885,7 @@
       "modelo": "US216",
       "sku": "30767",
       "descripcion": "",
-      "precio": "",
+      "precio": "31.000",
       "foto": "fotos/US216-30767.png"
     },
     {
@@ -895,7 +895,7 @@
       "modelo": "US216",
       "sku": "30768",
       "descripcion": "",
-      "precio": "",
+      "precio": "40.000",
       "foto": "fotos/US216-30768.png"
     },
     {
@@ -905,7 +905,7 @@
       "modelo": "CM511",
       "sku": "15596",
       "descripcion": "",
-      "precio": "",
+      "precio": "45.000",
       "foto": "fotos/CM511-15596.png"
     },
     {
@@ -915,7 +915,7 @@
       "modelo": "CM478",
       "sku": "35581",
       "descripcion": "",
-      "precio": "",
+      "precio": "45.000",
       "foto": "fotos/CM478-35581.png"
     },
     {
@@ -925,7 +925,7 @@
       "modelo": "CM478",
       "sku": "15495",
       "descripcion": "",
-      "precio": "",
+      "precio": "44.000",
       "foto": "fotos/CM478-15495.png"
     },
     {
@@ -935,7 +935,7 @@
       "modelo": "CM380",
       "sku": "80856",
       "descripcion": "",
-      "precio": "",
+      "precio": "45.000",
       "foto": "fotos/CM380.png"
     },
     {
@@ -945,7 +945,7 @@
       "modelo": "CM500",
       "sku": "50629",
       "descripcion": "",
-      "precio": "",
+      "precio": "80.000",
       "foto": "fotos/CM500.png"
     },
     {
@@ -955,7 +955,7 @@
       "modelo": "CM511",
       "sku": "35999",
       "descripcion": "",
-      "precio": "",
+      "precio": "50.000",
       "foto": "fotos/CM511-35999.png"
     },
     {
@@ -965,7 +965,7 @@
       "modelo": "CM511",
       "sku": "60383",
       "descripcion": "",
-      "precio": "",
+      "precio": "59.000",
       "foto": "fotos/CM511-60383.png"
     },
     {
@@ -975,7 +975,7 @@
       "modelo": "CM251",
       "sku": "60559",
       "descripcion": "",
-      "precio": "",
+      "precio": "47.000",
       "foto": "fotos/CM251-60559.jpg"
     },
     {
@@ -985,7 +985,7 @@
       "modelo": "CM512",
       "sku": "15598",
       "descripcion": "",
-      "precio": "",
+      "precio": "49.000",
       "foto": "fotos/CM512-15598.jpg"
     },
     {
@@ -995,7 +995,7 @@
       "modelo": "CM512",
       "sku": "45320",
       "descripcion": "",
-      "precio": "",
+      "precio": "48.000",
       "foto": "fotos/CM512-45320.jpg"
     },
     {
@@ -1005,7 +1005,7 @@
       "modelo": "CM511",
       "sku": "20956A",
       "descripcion": "",
-      "precio": "",
+      "precio": "50.000",
       "foto": "fotos/CM511-20956A.jpg"
     },
     {
@@ -1015,7 +1015,7 @@
       "modelo": "CM888",
       "sku": "35998",
       "descripcion": "",
-      "precio": "",
+      "precio": "66.000",
       "foto": "fotos/CM888-35998.jpg"
     },
     {
@@ -1025,7 +1025,7 @@
       "modelo": "CM195",
       "sku": "15214",
       "descripcion": "",
-      "precio": "",
+      "precio": "63.000",
       "foto": "fotos/CM195-15214.jpg"
     },
     {
@@ -1035,7 +1035,7 @@
       "modelo": "CM195",
       "sku": "70410",
       "descripcion": "",
-      "precio": "",
+      "precio": "56.000",
       "foto": "fotos/CM195-70410.jpg"
     },
     {
@@ -1045,7 +1045,7 @@
       "modelo": "CM195",
       "sku": "70411",
       "descripcion": "",
-      "precio": "",
+      "precio": "76.000",
       "foto": "fotos/CM195-70411.jpg"
     },
     {
@@ -1055,7 +1055,7 @@
       "modelo": "CM639",
       "sku": "15534",
       "descripcion": "",
-      "precio": "",
+      "precio": "107.000",
       "foto": "fotos/CM639-15534.jpg"
     },
     {
@@ -1065,7 +1065,7 @@
       "modelo": "CM512",
       "sku": "60515",
       "descripcion": "",
-      "precio": "",
+      "precio": "62.000",
       "foto": "fotos/CM512-60515.jpg"
     },
     {
@@ -1075,7 +1075,7 @@
       "modelo": "CM418",
       "sku": "10919",
       "descripcion": "",
-      "precio": "",
+      "precio": "70.000",
       "foto": "fotos/CM418-10919.jpg"
     },
     {
@@ -1085,7 +1085,7 @@
       "modelo": "CM498",
       "sku": "15600",
       "descripcion": "",
-      "precio": "",
+      "precio": "72.000",
       "foto": "fotos/CM498-15600.jpg"
     },
     {
@@ -1095,7 +1095,7 @@
       "modelo": "CM498",
       "sku": "15601",
       "descripcion": "",
-      "precio": "",
+      "precio": "75.000",
       "foto": "fotos/CM498-15601.jpg"
     },
     {
@@ -1105,7 +1105,7 @@
       "modelo": "20265",
       "sku": "20265",
       "descripcion": "",
-      "precio": "",
+      "precio": "60.000",
       "foto": "fotos/20265-20265.jpg"
     },
     {
@@ -1115,7 +1115,7 @@
       "modelo": "CM639",
       "sku": "35625",
       "descripcion": "",
-      "precio": "",
+      "precio": "90.000",
       "foto": "fotos/CM639-35625.jpg"
     },
     {
@@ -1125,7 +1125,7 @@
       "modelo": "CM662",
       "sku": "15705",
       "descripcion": "",
-      "precio": "",
+      "precio": "64.000",
       "foto": "fotos/CM662-15705.jpg"
     },
     {
@@ -1135,7 +1135,7 @@
       "modelo": "CM664",
       "sku": "15707",
       "descripcion": "",
-      "precio": "",
+      "precio": "97.000",
       "foto": "fotos/CM664-15707.jpg"
     },
     {
@@ -1155,7 +1155,7 @@
       "modelo": "CM555",
       "sku": "90325",
       "descripcion": "",
-      "precio": "",
+      "precio": "430.000",
       "foto": "fotos/CM555-90325.jpg"
     },
     {
