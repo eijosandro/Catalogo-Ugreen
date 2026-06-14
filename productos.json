@@ -535,7 +535,7 @@
       "modelo": "W703",
       "sku": "35565",
       "descripcion": "",
-      "precio": "",
+      "precio": "62.000",
       "foto": "fotos/W703.png"
     },
     {
@@ -545,17 +545,7 @@
       "modelo": "CD317",
       "sku": "90668",
       "descripcion": "",
-      "precio": "",
-      "foto": "fotos/CD317.png"
-    },
-    {
-      "id": 43,
-      "categoria": "cargador-inalambrico",
-      "nombre": "Cargador Inalámbrico 2 en 1 iPhone + AirPods Negro",
-      "modelo": "CD317",
-      "sku": "90668",
-      "descripcion": "",
-      "precio": "",
+      "precio": "75.000",
       "foto": "fotos/CD317.png"
     },
     {
@@ -565,7 +555,7 @@
       "modelo": "W526",
       "sku": "25870",
       "descripcion": "",
-      "precio": "",
+      "precio": "78.000",
       "foto": "fotos/W526.png"
     },
     {
@@ -575,7 +565,7 @@
       "modelo": "W702",
       "sku": "25869",
       "descripcion": "",
-      "precio": "",
+      "precio": "83.000",
       "foto": "fotos/W702.png"
     },
     {
@@ -585,7 +575,7 @@
       "modelo": "W709",
       "sku": "45775",
       "descripcion": "",
-      "precio": "",
+      "precio": "83.000",
       "foto": "fotos/W709.png"
     },
     {
@@ -595,7 +585,7 @@
       "modelo": "W706",
       "sku": "45023",
       "descripcion": "",
-      "precio": "",
+      "precio": "96.000",
       "foto": "fotos/W706.png"
     },
     {
@@ -605,7 +595,7 @@
       "modelo": "CD278",
       "sku": "90326",
       "descripcion": "",
-      "precio": "",
+      "precio": "250.000",
       "foto": "fotos/CD278.png"
     },
     {
@@ -615,7 +605,7 @@
       "modelo": "ED018",
       "sku": "50875",
       "descripcion": "",
-      "precio": "",
+      "precio": "18.000",
       "foto": "fotos/ED018.png"
     },
     {
@@ -625,7 +615,7 @@
       "modelo": "EC305",
       "sku": "25845",
       "descripcion": "",
-      "precio": "",
+      "precio": "20.000",
       "foto": "fotos/EC305.png"
     },
     {
@@ -635,7 +625,7 @@
       "modelo": "CD130",
       "sku": "40858",
       "descripcion": "",
-      "precio": "",
+      "precio": "22.000",
       "foto": "fotos/CD130.png"
     },
     {
@@ -645,7 +635,7 @@
       "modelo": "EC701",
       "sku": "35023",
       "descripcion": "",
-      "precio": "",
+      "precio": "30.000",
       "foto": "fotos/EC701.png"
     },
     {
@@ -655,7 +645,7 @@
       "modelo": "CD213",
       "sku": "10144",
       "descripcion": "",
-      "precio": "",
+      "precio": "27.000",
       "foto": "fotos/CD213-10144.png"
     },
     {
@@ -665,7 +655,7 @@
       "modelo": "CD213",
       "sku": "60980",
       "descripcion": "",
-      "precio": "",
+      "precio": "30.000",
       "foto": "fotos/CD213-60980.png"
     },
     {
@@ -675,7 +665,7 @@
       "modelo": "CD213",
       "sku": "70594",
       "descripcion": "",
-      "precio": "",
+      "precio": "32.000",
       "foto": "fotos/CD213-70594.png"
     },
     {
@@ -685,7 +675,7 @@
       "modelo": "EC703",
       "sku": "35024",
       "descripcion": "",
-      "precio": "",
+      "precio": "41.000",
       "foto": "fotos/EC703.png"
     },
     {
@@ -695,7 +685,7 @@
       "modelo": "EC601",
       "sku": "55653",
       "descripcion": "",
-      "precio": "",
+      "precio": "60.000",
       "foto": "fotos/EC601.png"
     },
     {
@@ -705,7 +695,7 @@
       "modelo": "EC706",
       "sku": "35571",
       "descripcion": "",
-      "precio": "",
+      "precio": "90.000",
       "foto": "fotos/EC706.png"
     },
     {
