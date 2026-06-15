@@ -4277,16 +4277,6 @@
       "descripcion": "UGREEN HP203. Auriculares HiTune Max5c. Bluetooth 5.3. ANC activa 43dB. LDAC Hi-Res. Autonomía 70h.",
       "precio": "65.000",
       "foto": "fotos/HP203-35757.jpg"
-    },
-    {
-      "id": 419,
-      "categoria": "cable-hdmi",
-      "nombre": "Cable Hdmi 8k 2M",
-      "modelo": "HD171",
-      "sku": "25910",
-      "descripcion": "",
-      "precio": "18.000",
-      "foto": "fotos/HD171-25910.jpg"
     }
   ]
 }
