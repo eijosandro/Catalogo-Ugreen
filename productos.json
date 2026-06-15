@@ -2165,7 +2165,7 @@
       "modelo": "US287",
       "sku": "60116",
       "descripcion": "UGREEN US287. Cable USB-A a USB-C 3A Máx. USB 2.0. 18W carga rápida QC. Compatible Android e iPad.",
-      "precio": "",
+      "precio": "7.000",
       "foto": "fotos/US287-60116.jpg"
     },
     {
@@ -2175,7 +2175,7 @@
       "modelo": "US287",
       "sku": "60118",
       "descripcion": "UGREEN US287. Cable USB-A a USB-C 3A Máx. USB 2.0. 18W carga rápida QC. Compatible Android e iPad.",
-      "precio": "",
+      "precio": "9.000",
       "foto": "fotos/US287-60118.jpg"
     },
     {
@@ -2185,7 +2185,7 @@
       "modelo": "US287",
       "sku": "60121",
       "descripcion": "UGREEN US287. Cable USB-A a USB-C 3A Máx. USB 2.0. 18W carga rápida QC. Compatible Android e iPad.",
-      "precio": "",
+      "precio": "7.000",
       "foto": "fotos/US287-60121.jpg"
     },
     {
@@ -2195,7 +2195,7 @@
       "modelo": "US287",
       "sku": "60123",
       "descripcion": "UGREEN US287. Cable USB-A a USB-C 3A Máx. USB 2.0. 18W carga rápida QC. Compatible Android e iPad.",
-      "precio": "",
+      "precio": "9.000",
       "foto": "fotos/US287-60123.jpg"
     },
     {
@@ -2205,7 +2205,7 @@
       "modelo": "US288",
       "sku": "60126",
       "descripcion": "UGREEN US288. Cable USB-A a USB-C 3A Máx. USB 2.0. 18W carga rápida QC. Compatible Android e iPad.",
-      "precio": "",
+      "precio": "8.000",
       "foto": "fotos/US288-60126.jpg"
     },
     {
@@ -2215,7 +2215,7 @@
       "modelo": "US288",
       "sku": "60128",
       "descripcion": "UGREEN US288. Cable USB-A a USB-C 3A Máx. USB 2.0. 18W carga rápida QC. Compatible Android e iPad.",
-      "precio": "",
+      "precio": "11.000",
       "foto": "fotos/US288-60128.jpg"
     },
     {
@@ -2225,7 +2225,7 @@
       "modelo": "US288",
       "sku": "60131",
       "descripcion": "UGREEN US288. Cable USB-A a USB-C 3A Máx. USB 2.0. 18W carga rápida QC. Compatible Android e iPad.",
-      "precio": "",
+      "precio": "8.000",
       "foto": "fotos/US288-60131.jpg"
     },
     {
@@ -2235,28 +2235,8 @@
       "modelo": "US288",
       "sku": "60133",
       "descripcion": "UGREEN US288. Cable USB-A a USB-C 3A Máx. USB 2.0. 18W carga rápida QC. Compatible Android e iPad.",
-      "precio": "",
+      "precio": "11.000",
       "foto": "fotos/US288-60133.jpg"
-    },
-    {
-      "id": 213,
-      "categoria": "cable-usba-usbc",
-      "nombre": "Cable USB-C a USB Ángulo 90° en L 3A Carga Rápida Ugreen Gris Espacial 1m",
-      "modelo": "US176",
-      "sku": "20856",
-      "descripcion": "UGREEN US176. Cable USB-A a USB-C 90° en L 3A. 18W carga rápida QC. Diseño angular para gaming.",
-      "precio": "",
-      "foto": "fotos/US176-20856.jpg"
-    },
-    {
-      "id": 214,
-      "categoria": "cable-usba-usbc",
-      "nombre": "Cable USB-C a USB Ángulo 90° en L 3A Carga Rápida Ugreen Negro 2m",
-      "modelo": "US176",
-      "sku": "20857",
-      "descripcion": "UGREEN US176. Cable USB-A a USB-C 90° en L 3A. 18W carga rápida QC. Diseño angular para gaming.",
-      "precio": "",
-      "foto": "fotos/US176-20857.jpg"
     },
     {
       "id": 215,
