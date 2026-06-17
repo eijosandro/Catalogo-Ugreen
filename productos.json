@@ -146,7 +146,7 @@
       "sku": "35338",
       "descripcion": "Power bank 5.000 mAh. Conector USB-C integrado + puerto USB-C adicional. Salida 22.5W máx (PD3.0/QC3.0/SCP/FCP). Entrada 20W. Display LED. Soporte plegable. 79 × 38 × 26 mm / ~110 g.",
       "foto": "fotos/PB503.png",
-      "precio": "50.000"
+      "precio": "45.000"
     },
     {
       "id": 4,
@@ -156,7 +156,7 @@
       "sku": "25742",
       "descripcion": "Power bank 10.000 mAh. USB-C PD 20W (entrada/salida) + USB-A 22.5W. Carga dos dispositivos simultáneamente. Display LED. Carga completa en ~3 hs con cargador 20W.",
       "foto": "fotos/PB311.png",
-      "precio": "45.000"
+      "precio": "40.000"
     },
     {
       "id": 5,
@@ -166,7 +166,7 @@
       "sku": "25683",
       "descripcion": "Power bank 20.000 mAh / 74 Wh. USB-C PD 20W (entrada/salida) + 2× USB-A 22.5W — 3 dispositivos simultáneos. Display LED. Carga completa en ~6 hs con cargador 20W.",
       "foto": "fotos/PB312.png",
-      "precio": "63.000"
+      "precio": "55.000"
     },
     {
       "id": 6,
@@ -176,7 +176,7 @@
       "sku": "25185",
       "descripcion": "Power bank 10.000 mAh. USB-C PD 30W (entrada/salida) + USB-A 22.5W. Display LED. Peso ~180 g, 102 × 52 × 25.5 mm. Apto vuelos.",
       "foto": "fotos/PB502.png",
-      "precio": "65.000"
+      "precio": "60.000"
     },
     {
       "id": 7,
@@ -186,7 +186,7 @@
       "sku": "35340",
       "descripcion": "Power bank 20.000 mAh / 74 Wh. Cable USB-C integrado 20W + puerto USB-C + USB-A. 3 dispositivos simultáneos. 7 × 11.6 × 3 cm / 337 g. Apto vuelos.",
       "foto": "fotos/PB505.png",
-      "precio": "70.000"
+      "precio": "65.000"
     },
     {
       "id": 8,
@@ -196,7 +196,7 @@
       "sku": "35604",
       "descripcion": "Power bank 10.000 mAh. Cable USB-C integrado 30W (50 cm) + USB-C + USB-A. Carga bidireccional 30W. Display TFT con emojis. 3 dispositivos simultáneos. 4.5 × 2.7 × 0.7 in / ~203 g.",
       "foto": "fotos/PB511.png",
-      "precio": "76.000"
+      "precio": "70.000"
     },
     {
       "id": 9,
@@ -206,7 +206,7 @@
       "sku": "25188",
       "descripcion": "Power bank 20.000 mAh / 72 Wh. USB-C1 100W + USB-C2 30W + USB-A 22.5W — 3 dispositivos simultáneos. Entrada 65W. Display LED. Apto vuelos. 139 × 80 × 26.5 mm / 420 g.",
       "foto": "fotos/PB720.png",
-      "precio": "100.000"
+      "precio": "92.000"
     },
     {
       "id": 10,
@@ -216,7 +216,7 @@
       "sku": "35526",
       "descripcion": "Power bank 12.000 mAh / 44.4 Wh. USB-C 100W + USB-A 22.5W. Entrada 65W. Display LCD. Diseño compacto tipo columna: 45.5 × 46 × 115 mm.",
       "foto": "fotos/PB724.png",
-      "precio": "90.000"
+      "precio": "80.000"
     },
     {
       "id": 11,
@@ -226,7 +226,7 @@
       "sku": "35524",
       "descripcion": "Power bank 20.000 mAh / 72 Wh. USB-C1 100W + USB-C2 30W + USB-A 22.5W — 3 dispositivos simultáneos. Entrada 65W. Display TFT. 54 × 51 × 131 mm / 480 g. Apto vuelos.",
       "foto": "fotos/PB721.png",
-      "precio": "120.000"
+      "precio": "111.000"
     },
     {
       "id": 12,
@@ -236,7 +236,7 @@
       "sku": "35525B",
       "descripcion": "Power bank 25.000 mAh / 90 Wh. USB-C1 140W (PD3.1) + USB-C2 100W + USB-A 22.5W — total 200W. Entrada 65W. Display TFT. 54 × 50 × 155 mm. Apto vuelos.",
       "foto": "fotos/PB722.png",
-      "precio": "150.000"
+      "precio": "132.000"
     },
     {
       "id": 13,
@@ -256,7 +256,7 @@
       "sku": "35605",
       "descripcion": "Power bank magnético 5.000 mAh. Carga inalámbrica Qi 7.5W + USB-C PD 20W. Display TFT con emojis de estado. Soporte plegable integrado. Compatible con iPhone 12-16 y dispositivos Qi.",
       "foto": "fotos/PB571-gris.png",
-      "precio": "75.000"
+      "precio": "66.000"
     },
     {
       "id": 15,
@@ -266,7 +266,7 @@
       "sku": "35606",
       "descripcion": "Power bank magnético 5.000 mAh. Carga inalámbrica Qi 7.5W + USB-C PD 20W. Display TFT con emojis de estado. Soporte plegable integrado. Compatible con iPhone 12-16 y dispositivos Qi. Color morado.",
       "foto": "fotos/PB571-morado.png",
-      "precio": "75.000"
+      "precio": "66.000"
     },
     {
       "id": 16,
@@ -276,7 +276,7 @@
       "sku": "45327",
       "descripcion": "Power bank magnético 10.000 mAh. Carga inalámbrica 7.5W (MagSafe) + USB-C PD 20W — 2 dispositivos simultáneos. Imán 10N. Display TFT. Soporte plegable. Compatible con iPhone 12-16.",
       "foto": "fotos/PB572-1-gris.png",
-      "precio": "85.000"
+      "precio": "79.000"
     },
     {
       "id": 17,
@@ -296,7 +296,7 @@
       "sku": "25207",
       "descripcion": "Power bank magnético 5.000 mAh / 18.5 Wh. Carga inalámbrica Qi 7.5W + USB-C 15W. Silicona suave, peso ~130 g. Compatible con iPhone 12-16 (requiere caso magnético para uso estable). Carga completa en ~1.5 hs.",
       "foto": "fotos/PB560.png",
-      "precio": "75.000"
+      "precio": "67.000"
     },
     {
       "id": 19,
@@ -306,7 +306,7 @@
       "sku": "25919",
       "descripcion": "Power bank magnético 10.000 mAh / 37 Wh. Carga inalámbrica Qi 15W (7.5W para iPhone) + USB-C PD 20W. Imán 10N. Silicona antideslizante, 106 × 69 × 19 mm / 220 g. Carga completa en ~2.5 hs.",
       "foto": "fotos/PB561-spacegray.png",
-      "precio": "69.000"
+      "precio": "72.000"
     },
     {
       "id": 20,
@@ -316,7 +316,7 @@
       "sku": "25208",
       "descripcion": "Power bank magnético 10.000 mAh / 37 Wh. Carga inalámbrica Qi 15W (7.5W para iPhone) + USB-C PD 20W. Imán 10N. Silicona antideslizante. Compatible con iPhone 12-16. Color blanco.",
       "foto": "fotos/PB561-blanco.png",
-      "precio": "69.000"
+      "precio": "72.000"
     },
     {
       "id": 21,
@@ -326,7 +326,7 @@
       "sku": "45763",
       "descripcion": "Power bank magnético 10.000 mAh / 36 Wh. Certificado Qi2 — carga inalámbrica hasta 15W + USB-C 30W. Protocolos MPP. Compatible con iPhone 12-17. Celda: 2 × 5.000 mAh. Capacidad nominal 6.000 mAh.",
       "foto": "fotos/PB761.png",
-      "precio": "83.000"
+      "precio": "79.000"
     },
     {
       "id": 22,
