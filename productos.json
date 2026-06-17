@@ -336,7 +336,7 @@
       "sku": "40394",
       "descripcion": "Cargador compacto 1× USB-C 20W. PD3.0/PD2.0, QC4.0/QC3.0. Carga un iPhone 15 al 60% en 30 min. Sin GaN. Entrada 100-240V.",
       "foto": "fotos/CD241.png",
-      "precio": "25.000"
+      "precio": "23.000"
     },
     {
       "id": 23,
@@ -346,7 +346,7 @@
       "sku": "55400",
       "descripcion": "Cargador 2 puertos (1× USB-C 20W + 1× USB-A 18W). GaN. PD3.0/QC4.0+/PPS/FCP/SCP. Diseño compacto 48 × 48 × 28 mm. Pack x2.",
       "foto": "fotos/X227-55400.png",
-      "precio": "43.000"
+      "precio": "39.000"
     },
     {
       "id": 24,
@@ -356,7 +356,7 @@
       "sku": "55999",
       "descripcion": "Cargador 2 puertos (1× USB-C 20W + 1× USB-A 18W) + 2 cables USB-C incluidos. GaN. PD3.0/QC4.0+/PPS/FCP/SCP. Pack x2.",
       "foto": "fotos/X227-55999.png",
-      "precio": "55.000"
+      "precio": "49.000"
     },
     {
       "id": 25,
@@ -366,7 +366,7 @@
       "sku": "15550",
       "descripcion": "Cargador Robot Nexode 1× USB-C 30W. GaN. PD3.0/QC4.0+/PPS/FCP/SCP/AFC. Display LED con expresiones animadas. Pies magnéticos extraíbles. Carga iPhone 14 Pro Max al 55% en 30 min.",
       "foto": "fotos/CD359.png",
-      "precio": "43.000"
+      "precio": "40.000"
     },
     {
       "id": 26,
@@ -376,7 +376,7 @@
       "sku": "65022",
       "descripcion": "Cargador Nexode 2 puertos (1× USB-C 35W + 1× USB-A 22.5W). GaN II. Puerto único C: 35W; con A simultáneo: C 25W + A 7.5W. PD3.0/PPS/QC4+/SCP. Plug plegable.",
       "foto": "fotos/CD350.png",
-      "precio": "41.000"
+      "precio": "40.000"
     },
     {
       "id": 27,
@@ -386,7 +386,7 @@
       "sku": "65630",
       "descripcion": "Cargador 3 puertos (2× USB-C + 1× USB-A). GaN. Total 45W. Puerto C solo: 45W. Con 3 dispositivos: distribución inteligente. PD3.0/QC/PPS/SCP. Compacto con plug plegable.",
       "foto": "fotos/X527.png",
-      "precio": "46.000"
+      "precio": "44.000"
     },
     {
       "id": 28,
@@ -396,7 +396,7 @@
       "sku": "65023",
       "descripcion": "Cargador Nexode 3 puertos (2× USB-C 65W c/u + 1× USB-A 22.5W). GaN. Total 65W. Puerto C solo: 65W. PD3.0/QC4+/SCP/FCP/PPS. Carga MacBook Air M2 al 51% en 30 min.",
       "foto": "fotos/CD244.png",
-      "precio": "54.000"
+      "precio": "50.000"
     },
     {
       "id": 29,
@@ -406,7 +406,7 @@
       "sku": "65632",
       "descripcion": "Cargador Nexode S 3 puertos (2× USB-C + 1× USB-A). GaN Infinity. Total 65W. Chip GaN II de nueva generación. Soporta Samsung Super Fast Charge 2.0 45W. Plug plegable. 48% más pequeño que el modelo 61W original.",
       "foto": "fotos/X553.png",
-      "precio": "58.000"
+      "precio": "54.000"
     },
     {
       "id": 30,
@@ -416,7 +416,7 @@
       "sku": "65026",
       "descripcion": "Cargador Nexode 4 puertos (3× USB-C + 1× USB-A). GaN. Total 65W. Puerto C solo: 65W. Carga MacBook Air al 51% en 30 min. 67 × 42 × 38 mm. Plug plegable.",
       "foto": "fotos/X559.png",
-      "precio": "60.000"
+      "precio": "62.000"
     },
     {
       "id": 31,
@@ -426,7 +426,7 @@
       "sku": "65631",
       "descripcion": "Cargador Uno Nexode 3 puertos (2× USB-C + 1× USB-A). GaN. Total 65W. Display LED con emojis. Diseño serie Uno. Plug plegable.",
       "foto": "fotos/CD361-65631.png",
-      "precio": "63.000"
+      "precio": "62.000"
     },
     {
       "id": 32,
@@ -436,7 +436,7 @@
       "sku": "35314",
       "descripcion": "Cargador Uno Nexode 3 puertos (2× USB-C + 1× USB-A). GaN. Total 65W. Display LED con emojis. Color lila. Plug plegable.",
       "foto": "fotos/CD361-lila.png",
-      "precio": "65.000"
+      "precio": "66.000"
     },
     {
       "id": 33,
@@ -446,7 +446,7 @@
       "sku": "90735",
       "descripcion": "Cargador de escritorio Nexode 4 puertos (2× USB-C 65W c/u + 2× USB-A 22.5W). GaN. Total 65W. Cable de 1.5 m incluido. PD3.0/QC4+/PPS/AFC. Sensor de temperatura dinámico.",
       "foto": "fotos/CD327.png",
-      "precio": "90.000"
+      "precio": "82.000"
     },
     {
       "id": 34,
@@ -456,7 +456,7 @@
       "sku": "65002",
       "descripcion": "Cargador Nexode Pro 3 puertos ultra-delgado (2× USB-C + 1× USB-A). GaN Infinity. Total 65W. C1 solo: 65W / C2 solo: 30W / A solo: 22.5W. Diseño plano, plug plegable universal (US/UK/EU). Carga MacBook Air al 51% en 30 min.",
       "foto": "fotos/X753.png",
-      "precio": "93.000"
+      "precio": "89.000"
     },
     {
       "id": 35,
@@ -466,7 +466,7 @@
       "sku": "65633",
       "descripcion": "Cargador Nexode 4 puertos (3× USB-C + 1× USB-A). GaN. Total 100W. Puerto C solo: 100W. PD3.0/QC4+/SCP/PPS. Carga MacBook Pro 16\" al 43% en 30 min. Plug plegable.",
       "foto": "fotos/X565.png",
-      "precio": "97.000"
+      "precio": "92.000"
     },
     {
       "id": 36,
@@ -476,7 +476,7 @@
       "sku": "45514B",
       "descripcion": "Cargador Robot Uno 4 puertos (3× USB-C + 1× USB-A). GaN. Total 100W. Display TFT con expresiones animadas. Pies magnéticos. C solo: 100W. Carga MacBook Pro 16\" al 43% y iPhone 15 al 60% en 30 min.",
       "foto": "fotos/X688.png",
-      "precio": "125.000"
+      "precio": "120.000"
     },
     {
       "id": 37,
@@ -506,7 +506,7 @@
       "sku": "35044",
       "descripcion": "Cargador de escritorio Nexode 6 puertos (4× USB-C + 2× USB-A). GaN + SiC. Total 200W. C1/C2: 100W c/u solo; C3/C4: 65W; A1/A2: 22.5W. PD3.0/QC4+/PPS/SCP/FCP. Sensor OTP cada 0.5 s. Cable 2 m incluido.",
       "foto": "fotos/CD271-35044.png",
-      "precio": "185.000"
+      "precio": "180.000"
     },
     {
       "id": 40,
@@ -605,7 +605,7 @@
       "modelo": "ED018",
       "sku": "50875",
       "descripcion": "UGREEN ED018. Cargador auto 2x USB-A 12W total. 5V 2.4A por puerto. Entrada 12V/24V. Plug and Play.",
-      "precio": "18.000",
+      "precio": "15.000",
       "foto": "fotos/ED018.png"
     },
     {
@@ -615,7 +615,7 @@
       "modelo": "EC305",
       "sku": "25845",
       "descripcion": "UGREEN EC305. Cargador auto 30W. USB-C PD 20W + USB-A QC 3.0 18W. Entrada 12V/24V.",
-      "precio": "20.000",
+      "precio": "16.000",
       "foto": "fotos/EC305.png"
     },
     {
@@ -625,7 +625,7 @@
       "modelo": "CD130",
       "sku": "40858",
       "descripcion": "UGREEN CD130. Cargador auto 52.5W. USB-C PD 30W + USB-A SCP 22.5W. Entrada 12V/24V.",
-      "precio": "22.000",
+      "precio": "20.000",
       "foto": "fotos/CD130.png"
     },
     {
@@ -665,7 +665,7 @@
       "modelo": "CD213",
       "sku": "70594",
       "descripcion": "UGREEN CD213. Cargador auto 36W. 2x USB-A QC 3.0 18W cada uno. Entrada 12V/24V. Azul.",
-      "precio": "32.000",
+      "precio": "30.000",
       "foto": "fotos/CD213-70594.png"
     },
     {
@@ -675,7 +675,7 @@
       "modelo": "EC703",
       "sku": "35024",
       "descripcion": "UGREEN EC703. Cargador auto 75W. 2x USB-C PD 45W + 1x USB-A QC 3.0. Entrada 12V/24V.",
-      "precio": "41.000",
+      "precio": "40.000",
       "foto": "fotos/EC703.png"
     },
     {
@@ -685,7 +685,7 @@
       "modelo": "EC601",
       "sku": "55653",
       "descripcion": "UGREEN EC601. Cargador auto 75W con cable USB-C incorporado. USB-C + USB-A. Entrada 12V/24V.",
-      "precio": "60.000",
+      "precio": "59.000",
       "foto": "fotos/EC601.png"
     },
     {
@@ -695,7 +695,7 @@
       "modelo": "EC706",
       "sku": "35571",
       "descripcion": "UGREEN EC706. Cargador auto GaN 150W. 2x USB-C PD 100W + 2x USB-A QC 3.0. Entrada 12V/24V.",
-      "precio": "90.000",
+      "precio": "80.000",
       "foto": "fotos/EC706.png"
     },
     {
